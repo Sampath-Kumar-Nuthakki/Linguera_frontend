@@ -1,0 +1,38 @@
+[8/19/2025, 3:18:09 PM] JXuIwtjx-WOKh1f4AAAi: हेलो 
+[8/19/2025, 3:18:17 PM] AZCvYssyKlD8LCs1AAAe: Hi, this is sunny from IT service desk. How can I assist you today? 
+[8/19/2025, 3:18:19 PM] JXuIwtjx-WOKh1f4AAAi: हेलो 
+[8/19/2025, 3:18:36 PM] JXuIwtjx-WOKh1f4AAAi: हनी फॉर यू स्पीकिंग समथिंग 
+[8/19/2025, 3:18:39 PM] AZCvYssyKlD8LCs1AAAe: Can you try to open that PDF and read the in the? 
+[8/19/2025, 3:18:51 PM] JXuIwtjx-WOKh1f4AAAi: ओके 
+[8/19/2025, 3:18:53 PM] AZCvYssyKlD8LCs1AAAe: Yeah, I'm sticking and can you open the PDF and see topic 3 and from the can you, uh, read save as in the customer so that I, I, I'm an agent. 
+[8/19/2025, 3:19:22 PM] JXuIwtjx-WOKh1f4AAAi: ही समीर मुझे वीपीएन कनेक्ट करने में दिक्कत आ रही है जब भी कनेक्ट करने की कोशिश करता हूं एरर आता है 
+[8/19/2025, 3:19:42 PM] AZCvYssyKlD8LCs1AAAe: I'm sorry to hear that. May I know what exact error message you are saying when you try to connect? 
+[8/19/2025, 3:20:16 PM] JXuIwtjx-WOKh1f4AAAi: हेलो 
+[8/19/2025, 3:20:43 PM] JXuIwtjx-WOKh1f4AAAi: हेलो 
+[8/19/2025, 3:22:26 PM] JXuIwtjx-WOKh1f4AAAi: एरर आ रहा है वीपीएन कनेक्शन फेल्ड ड्यू टू टाइमआउट कभी-कभी ऑथेंटिकेशन फेल भी लिखा आता है 
+[8/19/2025, 3:23:43 PM] AZCvYssyKlD8LCs1AAAe: You are speaking something. 
+[8/19/2025, 3:23:57 PM] AZCvYssyKlD8LCs1AAAe: Saying that, are you using Google product dot Cisco any connector? 
+[8/19/2025, 3:24:00 PM] JXuIwtjx-WOKh1f4AAAi: हां मुझे आप बोल सकती हैं क्या 
+[8/19/2025, 3:24:15 PM] JXuIwtjx-WOKh1f4AAAi: ग्लोबल प्रोटेक्ट ही उसे करता हूं आज सुबह से ही कनेक्ट नहीं हो रहा है 
+[8/19/2025, 3:24:18 PM] AZCvYssyKlD8LCs1AAAe: Yeah, can you tell what is your problem or like what you are facing? 
+[8/19/2025, 3:24:29 PM] AZCvYssyKlD8LCs1AAAe: All right. Just to confirm, are you connected to your home Wi-Fi or mobile hotspot? 
+[8/19/2025, 3:24:34 PM] JXuIwtjx-WOKh1f4AAAi: मैं घर का वाई-फाई उसे कर रहा हूं नेट तो सही चल रहा है 
+[8/19/2025, 3:24:53 PM] JXuIwtjx-WOKh1f4AAAi: मैं घर का वाई-फाई उसे कर रहा हूं नेट तो सही चल रहा है लेकिन सिर्फ वीपीएन ही कनेक्ट नहीं हो रहा है 
+[8/19/2025, 3:24:57 PM] AZCvYssyKlD8LCs1AAAe: Understood, Sometimes a restart of the Google product service helps. Can you try disconnecting and quoting the app completely from the system tray? 
+[8/19/2025, 3:25:20 PM] JXuIwtjx-WOKh1f4AAAi: ठीक है हां मैं क्यूट कर दिया 
+[8/19/2025, 3:25:24 PM] AZCvYssyKlD8LCs1AAAe: Bonjour Moinya goosey Adobe, Rejoin me Muenya Megousei and. 
+[8/19/2025, 3:25:28 PM] AZCvYssyKlD8LCs1AAAe: Meri Bob kabira hai. 
+[8/19/2025, 3:25:46 PM] AZCvYssyKlD8LCs1AAAe: Great, now open it again and try connecting. Also make sure you entered your ad creationals correctly. 
+[8/19/2025, 3:25:49 PM] JXuIwtjx-WOKh1f4AAAi: अभी ट्राई किया अभी भी वही टाइम हॉल एरर आ रहा है 
+[8/19/2025, 3:26:06 PM] JXuIwtjx-WOKh1f4AAAi: सर में वेट कर रहा हूं 
+[8/19/2025, 3:26:07 PM] AZCvYssyKlD8LCs1AAAe: OK, I will do a quick check from our side to see if your account is locked or if there is any back end issues. Please hold on for a moment. 
+[8/19/2025, 3:26:30 PM] JXuIwtjx-WOKh1f4AAAi: ठीक है मैं वेट कर रहा हूं 
+[8/19/2025, 3:26:47 PM] AZCvYssyKlD8LCs1AAAe: Get the open it again and try connecting. Also make sure you are entering your AD credentials correctly. 
+[8/19/2025, 3:27:09 PM] JXuIwtjx-WOKh1f4AAAi: हथोड़ा आता है आप बोलिए क्या करना है 
+[8/19/2025, 3:27:27 PM] AZCvYssyKlD8LCs1AAAe: Thanks for waiting. I have checked your account locks fine. I suspect that global product line may be stuck. I will guide you to clear the cache portal data. Are you comfortable opening command prompt? 
+[8/19/2025, 3:27:55 PM] JXuIwtjx-WOKh1f4AAAi: हां थोड़ा-थोड़ा आता है आप बोलिए क्या करना है 
+[8/19/2025, 3:28:00 PM] AZCvYssyKlD8LCs1AAAe: There was a picture. 
+[8/19/2025, 3:28:13 PM] AZCvYssyKlD8LCs1AAAe: Thank you for connecting to IT service desk guy. If if there is anything else to do or if there is nothing, we make out the call. 
+[8/19/2025, 3:28:43 PM] JXuIwtjx-WOKh1f4AAAi: बिल्कुल आपने काफी हेल्प की अगर दोबारा हुआ तो डेफिनेटली कांटेक्ट करूंगा 
+[8/19/2025, 3:28:52 PM] AZCvYssyKlD8LCs1AAAe: What's the plan? 
+[8/19/2025, 3:28:55 PM] AZCvYssyKlD8LCs1AAAe: Thank you. You make up the call. 

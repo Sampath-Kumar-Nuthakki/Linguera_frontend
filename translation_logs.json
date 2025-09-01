@@ -1,0 +1,5151 @@
+[
+  {
+    "timestamp": "2025-07-25T10:34:43.896Z",
+    "source": "en",
+    "target": "hi",
+    "input": "hello ",
+    "output": "नमस्ते",
+    "durationMs": 302,
+    "accuracy": null
+  },
+  {
+    "timestamp": "2025-07-25T10:34:57.325Z",
+    "source": "hi",
+    "target": "en",
+    "input": "नमस्ते। ",
+    "output": "hello.",
+    "durationMs": 925,
+    "accuracy": null
+  },
+  {
+    "timestamp": "2025-07-25T10:35:07.285Z",
+    "source": "en",
+    "target": "hi",
+    "input": " how are you ",
+    "output": "आप कैसे हैं",
+    "durationMs": 184,
+    "accuracy": null
+  },
+  {
+    "timestamp": "2025-07-25T10:42:11.417Z",
+    "source": "en",
+    "target": "hi",
+    "input": "hello ",
+    "output": "नमस्ते",
+    "durationMs": 384,
+    "accuracy": null
+  },
+  {
+    "timestamp": "2025-07-25T10:42:27.087Z",
+    "source": "hi",
+    "target": "en",
+    "input": "फिर सडनली इस तरह सिंग स्टे आप कैसे हो? ",
+    "output": "Then how are you singing like Sadnali?",
+    "durationMs": 1083,
+    "accuracy": null
+  },
+  {
+    "timestamp": "2025-07-25T10:42:36.636Z",
+    "source": "en",
+    "target": "hi",
+    "input": " namaste aap kaise ho ",
+    "output": "नमस्टे एएपी कैस हो",
+    "durationMs": 727,
+    "accuracy": null
+  },
+  {
+    "timestamp": "2025-07-25T10:42:41.524Z",
+    "source": "en",
+    "target": "hi",
+    "input": " I am fine ",
+    "output": "मैं ठीक हूँ",
+    "durationMs": 140,
+    "accuracy": null
+  },
+  {
+    "timestamp": "2025-07-29T02:58:31.241Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Good morning. This is Sameer from the IT service desk. ",
+    "output": "शुभ प्रभात। ",
+    "durationMs": 837,
+    "accuracy": null
+  },
+  {
+    "timestamp": "2025-07-29T02:58:31.883Z",
+    "source": "en",
+    "target": "hi",
+    "input": "How can I help you today? ",
+    "output": "आज मैं आपकी मदद करने में कैसे सक्षम हूं?",
+    "durationMs": 105,
+    "accuracy": null
+  },
+  {
+    "timestamp": "2025-07-29T02:58:55.481Z",
+    "source": "hi",
+    "target": "en",
+    "input": "गुड मॉर्निंग समीर मेरा सिस्टम बहुत स्लो चल रहा है ",
+    "output": "Good Morning Sameer My System is running very slow",
+    "durationMs": 858,
+    "accuracy": null
+  },
+  {
+    "timestamp": "2025-07-29T02:59:01.175Z",
+    "source": "hi",
+    "target": "en",
+    "input": "क्या काम ठीक से नहीं हो रहा है क्या आप कुछ मदद कर सकते हो ",
+    "output": "Can you help something",
+    "durationMs": 568,
+    "accuracy": null
+  },
+  {
+    "timestamp": "2025-07-29T05:20:13.074Z",
+    "source": "en",
+    "target": "hi",
+    "input": "hello trouble login in password correct but I cannot get access ",
+    "output": "हैलो ट्रबल password सही में लॉगिन करें लेकिन मुझे एक्सेस नहीं मिल सकता है",
+    "durationMs": 0,
+    "accuracy": null
+  },
+  {
+    "timestamp": "2025-07-29T05:21:31.200Z",
+    "source": "en",
+    "target": "hi",
+    "input": "hello I am having trouble login in my system my password correct access ",
+    "output": "हैलो मुझे अपने सिस्टम में लॉगिन taxने में परेशानी हो रही है मेरा passwordmanager सही पहुंच",
+    "durationMs": 0,
+    "accuracy": null
+  },
+  {
+    "timestamp": "2025-08-01T20:03:15.484Z",
+    "source": "en",
+    "target": "hi",
+    "input": "good morning sir ",
+    "output": "सुप्रभात सर",
+    "durationMs": 7554
+  },
+  {
+    "timestamp": "2025-08-01T20:03:49.571Z",
+    "source": "hi",
+    "target": "en",
+    "input": "नमस्ते। ",
+    "output": "I'm going to be a little late.",
+    "durationMs": 3179
+  },
+  {
+    "timestamp": "2025-08-01T20:04:03.379Z",
+    "source": "en",
+    "target": "hi",
+    "input": " okay then fine ",
+    "output": "ठीक है तो ठीक है",
+    "durationMs": 1849
+  },
+  {
+    "timestamp": "2025-08-01T20:04:22.973Z",
+    "source": "hi",
+    "target": "en",
+    "input": "आप कहाँ से वर्क करती हूँ? ",
+    "output": "Where are you from?",
+    "durationMs": 1894
+  },
+  {
+    "timestamp": "2025-08-04T15:53:59.810Z",
+    "source": "hi",
+    "target": "en",
+    "input": "मैं लोग सेविंग फंक्शनैलिटी देख रहा हूं ",
+    "output": "I see people saving functionality",
+    "durationMs": 3308
+  },
+  {
+    "timestamp": "2025-08-04T15:54:17.898Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Yeah OK. I will also see if the log is saving or not. ",
+    "output": "हाँ ठीक है. मैं यह भी देखूंगा कि log बचत कर रहा है या नहीं।",
+    "durationMs": 6847
+  },
+  {
+    "timestamp": "2025-08-04T16:02:36.240Z",
+    "source": "hi",
+    "target": "en",
+    "input": "नमस्ते। ",
+    "output": "I'm going to be a little late.",
+    "durationMs": 2922
+  },
+  {
+    "timestamp": "2025-08-04T16:03:38.556Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Hello, how are you? ",
+    "output": "हैलो, आप कैसे हैं?",
+    "durationMs": 2213
+  },
+  {
+    "timestamp": "2025-08-04T16:12:32.254Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Hi Sameer, how can I help you today? ",
+    "output": "हैलो समर, मैं आज आप की मदद कैसे कर सकता हूँ?",
+    "durationMs": 3582
+  },
+  {
+    "timestamp": "2025-08-04T16:12:46.708Z",
+    "source": "hi",
+    "target": "en",
+    "input": "नमस्ते अश्विन आप कैसे हो ",
+    "output": "Namaste Ashwin How are you",
+    "durationMs": 2299
+  },
+  {
+    "timestamp": "2025-08-04T16:13:04.002Z",
+    "source": "hi",
+    "target": "en",
+    "input": "नमस्ते अश्विन आशा है कि आप ठीक कर रहे हो ",
+    "output": "Namaste Ashwin I hope you are well",
+    "durationMs": 2564
+  },
+  {
+    "timestamp": "2025-08-04T16:35:58.536Z",
+    "source": "en",
+    "target": "fr",
+    "input": "How are you? ",
+    "output": "- Ça va?",
+    "durationMs": 1669
+  },
+  {
+    "timestamp": "2025-08-04T16:48:09.288Z",
+    "source": "fr",
+    "target": "en",
+    "input": "bonjour ",
+    "output": "Hello, my friend.",
+    "durationMs": 1588
+  },
+  {
+    "timestamp": "2025-08-04T16:51:28.566Z",
+    "source": "fr",
+    "target": "en",
+    "input": "comment puis-je vous aider ",
+    "output": "how can i help you",
+    "durationMs": 1510
+  },
+  {
+    "timestamp": "2025-08-04T16:51:45.383Z",
+    "source": "fr",
+    "target": "en",
+    "input": "ah ok ",
+    "output": "Ah ok",
+    "durationMs": 913
+  },
+  {
+    "timestamp": "2025-08-04T16:51:54.407Z",
+    "source": "fr",
+    "target": "en",
+    "input": " bonjour comment puis-je vous aider ",
+    "output": "Hi how can I help you",
+    "durationMs": 1713
+  },
+  {
+    "timestamp": "2025-08-04T16:52:21.630Z",
+    "source": "fr",
+    "target": "en",
+    "input": " mon ordinateur ne démarre pas ce matin ",
+    "output": "My computer doesn't start this morning.",
+    "durationMs": 2325
+  },
+  {
+    "timestamp": "2025-08-04T16:52:53.495Z",
+    "source": "fr",
+    "target": "en",
+    "input": " j'ai oublié mon mot de passe ",
+    "output": "I forgot my password",
+    "durationMs": 1350
+  },
+  {
+    "timestamp": "2025-08-04T16:53:14.590Z",
+    "source": "fr",
+    "target": "en",
+    "input": " j'ai oublié mon mot de passe pouvez-vous le réinitialiser ",
+    "output": "I forgot my password can you reset it?",
+    "durationMs": 2544
+  },
+  {
+    "timestamp": "2025-08-04T16:53:43.833Z",
+    "source": "fr",
+    "target": "en",
+    "input": " bien sûr je vais devoir vérifier votre identité ",
+    "output": "Well on I'm gonna have to verify your IDEntity",
+    "durationMs": 3119
+  },
+  {
+    "timestamp": "2025-08-04T16:54:11.166Z",
+    "source": "fr",
+    "target": "en",
+    "input": " votre demande a été résolu est-ce que je peux clôturer le ticket ",
+    "output": "Your request has been resolved. Can I clOSe the ticket?",
+    "durationMs": 3156
+  },
+  {
+    "timestamp": "2025-08-04T16:56:57.735Z",
+    "source": "en",
+    "target": "fr",
+    "input": "Hello service desk speaking, how can I help you? ",
+    "output": "Bonjour, OTP service parHR, comment puis-je vous helpr?",
+    "durationMs": 3304
+  },
+  {
+    "timestamp": "2025-08-04T16:57:16.721Z",
+    "source": "en",
+    "target": "fr",
+    "input": "Dictionary OK in English. ",
+    "output": "dictionary OK en anglais.",
+    "durationMs": 2579
+  },
+  {
+    "timestamp": "2025-08-04T16:58:25.607Z",
+    "source": "en",
+    "target": "fr",
+    "input": "Of course I need to verify your identity. ",
+    "output": "Bien sûr, je dois vérifier votre identity.",
+    "durationMs": 2701
+  },
+  {
+    "timestamp": "2025-08-04T16:58:40.050Z",
+    "source": "en",
+    "target": "fr",
+    "input": "Your request has been resolved. Can I close the ticket? ",
+    "output": "votre application a été resolvede. Je peux fermer OTP ticket?",
+    "durationMs": 3676
+  },
+  {
+    "timestamp": "2025-08-04T16:58:55.743Z",
+    "source": "en",
+    "target": "fr",
+    "input": "I forgot my password, can you reset it? ",
+    "output": "J'ai oublié mon mot de passe, tu peux OTP réinitialiser?",
+    "durationMs": 4165
+  },
+  {
+    "timestamp": "2025-08-04T17:03:19.204Z",
+    "source": "fr",
+    "target": "en",
+    "input": "bonjour comment puis-je vous aider ",
+    "output": "Hi how can I help you",
+    "durationMs": 1682
+  },
+  {
+    "timestamp": "2025-08-04T17:03:39.008Z",
+    "source": "en",
+    "target": "fr",
+    "input": "Hello service desk speaking, how can I help you? ",
+    "output": "Bonjour, OTP service parHR, comment puis-je vous helpr?",
+    "durationMs": 3311
+  },
+  {
+    "timestamp": "2025-08-04T17:04:09.480Z",
+    "source": "fr",
+    "target": "en",
+    "input": "avez-vous essayé de le redémarrer manuellement ",
+    "output": "have you tried to RESTart it manually",
+    "durationMs": 2294
+  },
+  {
+    "timestamp": "2025-08-04T17:04:19.602Z",
+    "source": "en",
+    "target": "fr",
+    "input": "Play Kaakkum Deivam Kali again. ",
+    "output": "Jouez à nouveau à Kajakkum Deivam Kali.",
+    "durationMs": 3175
+  },
+  {
+    "timestamp": "2025-08-04T17:05:54.054Z",
+    "source": "fr",
+    "target": "en",
+    "input": " mon ordinateur ne démarre pas ce matin ",
+    "output": "My computer doesn't start this morning.",
+    "durationMs": 2344
+  },
+  {
+    "timestamp": "2025-08-04T17:06:09.076Z",
+    "source": "en",
+    "target": "fr",
+    "input": "Did you try restarting it manually? ",
+    "output": "Avez-vous essayé de OTP redémarrer handbookHRment?",
+    "durationMs": 3290
+  },
+  {
+    "timestamp": "2025-08-04T17:06:18.666Z",
+    "source": "fr",
+    "target": "en",
+    "input": "j'ai oublié mon mot de passe ",
+    "output": "I forgot my password",
+    "durationMs": 1338
+  },
+  {
+    "timestamp": "2025-08-04T17:06:30.755Z",
+    "source": "en",
+    "target": "fr",
+    "input": "Of course I need to do it. ",
+    "output": "Bien sûr que je dois OTP faire.",
+    "durationMs": 2095
+  },
+  {
+    "timestamp": "2025-08-04T17:06:33.537Z",
+    "source": "fr",
+    "target": "en",
+    "input": " j'ai oublié mon mot de passe pouvez-vous le réinitialiser ",
+    "output": "I forgot my password can you reset it?",
+    "durationMs": 2644
+  },
+  {
+    "timestamp": "2025-08-04T17:06:47.149Z",
+    "source": "en",
+    "target": "fr",
+    "input": "Of course I can. I'll need to verify your identity. ",
+    "output": "Bien sûr que je peux. Je vais devoir vérifier votre identity.",
+    "durationMs": 4073
+  },
+  {
+    "timestamp": "2025-08-04T17:07:00.770Z",
+    "source": "fr",
+    "target": "en",
+    "input": "la connexion Internet est très lente aujourd'hui ",
+    "output": "internet connection is very slow today",
+    "durationMs": 1710
+  },
+  {
+    "timestamp": "2025-08-04T17:07:12.209Z",
+    "source": "en",
+    "target": "fr",
+    "input": "Ionell check if there is an issue with the network. ",
+    "output": "Je vais vérifier s'il y a un problème avec OTP network.",
+    "durationMs": 3364
+  },
+  {
+    "timestamp": "2025-08-04T17:07:29.964Z",
+    "source": "fr",
+    "target": "en",
+    "input": "je vais créer un ticket pour vous vous recevrez une notification par email ",
+    "output": "I'm going to create a ticket for you and you 'll get a notification via email.",
+    "durationMs": 4540
+  },
+  {
+    "timestamp": "2025-08-04T17:07:54.942Z",
+    "source": "en",
+    "target": "fr",
+    "input": "I will create a ticket for you. You will receive a notification via e-mail. ",
+    "output": "Je vais créer un ticket pour toi. vous recevrez une notification par email.",
+    "durationMs": 4541
+  },
+  {
+    "timestamp": "2025-08-04T17:08:10.216Z",
+    "source": "fr",
+    "target": "en",
+    "input": "votre demande a été résolu est-ce que je peux clôturer le ticket ",
+    "output": "Your request has been resolved. Can I clOSe the ticket?",
+    "durationMs": 3069
+  },
+  {
+    "timestamp": "2025-08-04T17:08:21.706Z",
+    "source": "en",
+    "target": "fr",
+    "input": "Yes, thank you for the help. ",
+    "output": "Oui, thanks pour l'help.",
+    "durationMs": 2149
+  },
+  {
+    "timestamp": "2025-08-04T17:10:45.188Z",
+    "source": "en",
+    "target": "de",
+    "input": "Yes, we are ready. ",
+    "output": "Ja, wir sind bereit.",
+    "durationMs": 1714
+  },
+  {
+    "timestamp": "2025-08-04T17:11:15.017Z",
+    "source": "en",
+    "target": "de",
+    "input": "Please glad to play the voice app. ",
+    "output": "Bitte freut euch, die SprachIDEApp zu spielen.",
+    "durationMs": 3094
+  },
+  {
+    "timestamp": "2025-08-04T17:11:39.233Z",
+    "source": "de",
+    "target": "en",
+    "input": "hallo mir stark ",
+    "output": "♪ Say hello to me ♪",
+    "durationMs": 1728
+  },
+  {
+    "timestamp": "2025-08-04T17:11:54.949Z",
+    "source": "de",
+    "target": "en",
+    "input": " sorry ",
+    "output": "Sorry.",
+    "durationMs": 897
+  },
+  {
+    "timestamp": "2025-08-04T17:12:31.620Z",
+    "source": "en",
+    "target": "de",
+    "input": "German. ",
+    "output": "IDE Deutsch.",
+    "durationMs": 1309
+  },
+  {
+    "timestamp": "2025-08-04T17:12:33.711Z",
+    "source": "en",
+    "target": "de",
+    "input": "Hey, Cortana. ",
+    "output": "Hey, Cortana.",
+    "durationMs": 1589
+  },
+  {
+    "timestamp": "2025-08-04T17:12:56.431Z",
+    "source": "en",
+    "target": "de",
+    "input": "Hi, how are you? ",
+    "output": "IDE Hallo, wie geht's?",
+    "durationMs": 2029
+  },
+  {
+    "timestamp": "2025-08-04T17:13:18.666Z",
+    "source": "de",
+    "target": "en",
+    "input": "guten Tag ",
+    "output": "Good day.",
+    "durationMs": 1122
+  },
+  {
+    "timestamp": "2025-08-04T17:13:30.845Z",
+    "source": "de",
+    "target": "en",
+    "input": " guten Tag ",
+    "output": "Good day.",
+    "durationMs": 1045
+  },
+  {
+    "timestamp": "2025-08-04T17:14:24.127Z",
+    "source": "de",
+    "target": "en",
+    "input": " hallo wie kann ich dir helfen ",
+    "output": "Hi, how can I help you?",
+    "durationMs": 2154
+  },
+  {
+    "timestamp": "2025-08-04T17:14:46.170Z",
+    "source": "en",
+    "target": "de",
+    "input": "My name is Samir. ",
+    "output": "Ich heiße Samir.",
+    "durationMs": 1673
+  },
+  {
+    "timestamp": "2025-08-04T17:14:54.311Z",
+    "source": "en",
+    "target": "de",
+    "input": "Hello. ",
+    "output": "IDE Ich weiß.",
+    "durationMs": 1316
+  },
+  {
+    "timestamp": "2025-08-04T17:15:07.107Z",
+    "source": "de",
+    "target": "en",
+    "input": "ithabi das Problem dass mein Laptop langsam ist ",
+    "output": "Itabhi the problem is my lAPTop is slow",
+    "durationMs": 2562
+  },
+  {
+    "timestamp": "2025-08-04T17:15:25.073Z",
+    "source": "de",
+    "target": "en",
+    "input": " mein Laptop langsam ",
+    "output": "My lAPTop is slowly",
+    "durationMs": 1500
+  },
+  {
+    "timestamp": "2025-08-04T17:15:57.887Z",
+    "source": "de",
+    "target": "en",
+    "input": "was ist Marketing ",
+    "output": "What is marketing",
+    "durationMs": 1064
+  },
+  {
+    "timestamp": "2025-08-04T17:16:13.828Z",
+    "source": "de",
+    "target": "en",
+    "input": " ich muss mein System reparieren lassen ",
+    "output": "I need to get my system fixed.",
+    "durationMs": 2141
+  },
+  {
+    "timestamp": "2025-08-04T17:16:36.612Z",
+    "source": "en",
+    "target": "de",
+    "input": "Select. ",
+    "output": "OSwahl.",
+    "durationMs": 1324
+  },
+  {
+    "timestamp": "2025-08-04T17:16:54.628Z",
+    "source": "en",
+    "target": "de",
+    "input": "We were done whether they were to them. ",
+    "output": "Wir waren fertig, ob sie es für sie waren.",
+    "durationMs": 2707
+  },
+  {
+    "timestamp": "2025-08-04T17:16:57.234Z",
+    "source": "de",
+    "target": "en",
+    "input": "ich muss ein sehr wichtiges erstellen ",
+    "output": "I have to make a very important one.",
+    "durationMs": 2442
+  },
+  {
+    "timestamp": "2025-08-04T17:17:18.803Z",
+    "source": "de",
+    "target": "en",
+    "input": "ich muss ein sehr wichtiges erstellen ",
+    "output": "I have to make a very important one.",
+    "durationMs": 2306
+  },
+  {
+    "timestamp": "2025-08-04T17:17:31.685Z",
+    "source": "de",
+    "target": "en",
+    "input": " Service Ticket erstellen ",
+    "output": "Create a service ticket",
+    "durationMs": 1308
+  },
+  {
+    "timestamp": "2025-08-04T17:17:53.541Z",
+    "source": "de",
+    "target": "en",
+    "input": "ich happy Veritas Insel richtig geht erstellt ",
+    "output": "I'm happy veritas iSLAnd is right",
+    "durationMs": 2342
+  },
+  {
+    "timestamp": "2025-08-04T17:18:03.325Z",
+    "source": "de",
+    "target": "en",
+    "input": " ich habe berichtet ein sehr wichtiges erstellt ",
+    "output": "I have reportedly created a very important",
+    "durationMs": 2115
+  },
+  {
+    "timestamp": "2025-08-04T17:18:14.245Z",
+    "source": "de",
+    "target": "en",
+    "input": " ich habe ",
+    "output": "I have",
+    "durationMs": 962
+  },
+  {
+    "timestamp": "2025-08-04T17:18:22.995Z",
+    "source": "de",
+    "target": "en",
+    "input": " ich habe bereits ein Service Ticket erstellt ",
+    "output": "I already made a service ticket.",
+    "durationMs": 1893
+  },
+  {
+    "timestamp": "2025-08-04T17:18:50.721Z",
+    "source": "de",
+    "target": "en",
+    "input": "ich muss für morgen Urlaub beantragen ",
+    "output": "I have to apply for leave tomorrow.",
+    "durationMs": 2233
+  },
+  {
+    "timestamp": "2025-08-04T17:19:09.852Z",
+    "source": "en",
+    "target": "de",
+    "input": "OK, happy journey. ",
+    "output": "IDE Ja, gut.",
+    "durationMs": 1426
+  },
+  {
+    "timestamp": "2025-08-04T17:19:36.737Z",
+    "source": "de",
+    "target": "en",
+    "input": "vielen Dank für Ihre Unterstützung ",
+    "output": "Thank you very much for your support.",
+    "durationMs": 2138
+  },
+  {
+    "timestamp": "2025-08-04T17:20:39.193Z",
+    "source": "de",
+    "target": "en",
+    "input": " hallo hallo ",
+    "output": "Hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey",
+    "durationMs": 36130
+  },
+  {
+    "timestamp": "2025-08-04T17:25:17.618Z",
+    "source": "fr",
+    "target": "en",
+    "input": " bonjour service comment puis-je vous aider ",
+    "output": "Hello service how can I help you",
+    "durationMs": 1971
+  },
+  {
+    "timestamp": "2025-08-04T17:25:38.020Z",
+    "source": "en",
+    "target": "fr",
+    "input": "Hello service desk speaking, how can I help you? ",
+    "output": "Bonjour, OTP service parHR, comment puis-je vous helpr?",
+    "durationMs": 3659
+  },
+  {
+    "timestamp": "2025-08-04T17:26:00.467Z",
+    "source": "en",
+    "target": "fr",
+    "input": "I am on one second. ",
+    "output": "Je suis sur une seconde.",
+    "durationMs": 1651
+  },
+  {
+    "timestamp": "2025-08-04T17:26:12.315Z",
+    "source": "en",
+    "target": "fr",
+    "input": "Hello service desk speaking, how can I help you? ",
+    "output": "Bonjour, OTP service parHR, comment puis-je vous helpr?",
+    "durationMs": 3248
+  },
+  {
+    "timestamp": "2025-08-04T17:26:15.169Z",
+    "source": "fr",
+    "target": "en",
+    "input": " mon ordinateur ne démarre pas ce matin ",
+    "output": "My computer doesn't start this morning.",
+    "durationMs": 2481
+  },
+  {
+    "timestamp": "2025-08-04T17:26:29.417Z",
+    "source": "en",
+    "target": "fr",
+    "input": "Did you try restarting it manually? ",
+    "output": "Avez-vous essayé de OTP redémarrer handbookHRment?",
+    "durationMs": 3282
+  },
+  {
+    "timestamp": "2025-08-04T17:26:42.167Z",
+    "source": "fr",
+    "target": "en",
+    "input": "j'ai oublié mon mot de passe pouvez-vous le réinitialiser ",
+    "output": "I forgot my password can you reset it?",
+    "durationMs": 2542
+  },
+  {
+    "timestamp": "2025-08-04T17:26:54.358Z",
+    "source": "en",
+    "target": "fr",
+    "input": "Of course, I'll need to verify your identity. ",
+    "output": "Bien sûr, je vais devoir vérifier votre identity.",
+    "durationMs": 2912
+  },
+  {
+    "timestamp": "2025-08-04T17:27:38.617Z",
+    "source": "fr",
+    "target": "en",
+    "input": "princesse ",
+    "output": "Princess",
+    "durationMs": 720
+  },
+  {
+    "timestamp": "2025-08-04T17:28:08.743Z",
+    "source": "en",
+    "target": "fr",
+    "input": "CPU powered CPU. ",
+    "output": "Cpu à propulsion éOTPctrique.",
+    "durationMs": 2475
+  },
+  {
+    "timestamp": "2025-08-04T17:28:16.349Z",
+    "source": "en",
+    "target": "fr",
+    "input": "Hello, Mohan. ",
+    "output": "Je suis en train de vous dire:",
+    "durationMs": 2144
+  },
+  {
+    "timestamp": "2025-08-04T17:28:29.281Z",
+    "source": "en",
+    "target": "fr",
+    "input": "Phone number. Ah, OK, OK. Oh, she's actually the school now. ",
+    "output": "- Je vous en prie. Je suis en train de faire une fête. ElOTP est à l'écoOTP maintenant.",
+    "durationMs": 6004
+  },
+  {
+    "timestamp": "2025-08-04T17:28:37.708Z",
+    "source": "en",
+    "target": "fr",
+    "input": "I'll get that. ",
+    "output": "Je vais OTP prendre.",
+    "durationMs": 1537
+  },
+  {
+    "timestamp": "2025-08-04T17:28:42.583Z",
+    "source": "en",
+    "target": "fr",
+    "input": "Bye bye. ",
+    "output": "Je vous salue.",
+    "durationMs": 1655
+  },
+  {
+    "timestamp": "2025-08-04T17:28:57.768Z",
+    "source": "en",
+    "target": "fr",
+    "input": "Just on the charges from dominance. ",
+    "output": "Je ne suis pas d'agreement avec toi.",
+    "durationMs": 2545
+  },
+  {
+    "timestamp": "2025-08-04T17:29:04.342Z",
+    "source": "en",
+    "target": "fr",
+    "input": "E-mail Call Jason for tonight. ",
+    "output": "E-mail pour Jason ce soir.",
+    "durationMs": 2136
+  },
+  {
+    "timestamp": "2025-08-04T19:49:21.771Z",
+    "source": "hi",
+    "target": "en",
+    "input": "नमस्ते ",
+    "output": "the MOUrning",
+    "durationMs": 2346
+  },
+  {
+    "timestamp": "2025-08-04T19:49:23.244Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Namaste. ",
+    "output": "नमस्ते",
+    "durationMs": 3807
+  },
+  {
+    "timestamp": "2025-08-04T19:49:36.975Z",
+    "source": "hi",
+    "target": "en",
+    "input": "मुझे लगता है कि यह काम कर रहा है ",
+    "output": "I think it 's working",
+    "durationMs": 1918
+  },
+  {
+    "timestamp": "2025-08-04T20:09:56.561Z",
+    "source": "hi",
+    "target": "en",
+    "input": "क्या काम कर रहा हो तुम ",
+    "output": "Are you working?",
+    "durationMs": 1368
+  },
+  {
+    "timestamp": "2025-08-04T20:10:17.073Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Yeah, I am working. I am working a lot. ",
+    "output": "हाँ, मैं job कर रहा हूँ मैं बहुत job कर रहा हूँ",
+    "durationMs": 3167
+  },
+  {
+    "timestamp": "2025-08-04T20:10:18.761Z",
+    "source": "en",
+    "target": "hi",
+    "input": "And I'm under lot of stress. ",
+    "output": "और मैं बहुत तनाव में हूँ",
+    "durationMs": 1970
+  },
+  {
+    "timestamp": "2025-08-05T16:22:02.613Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Hello, how are you? ",
+    "output": "हैलो, आप कैसे कर रहे हैं",
+    "durationMs": 4906
+  },
+  {
+    "timestamp": "2025-08-05T16:22:17.467Z",
+    "source": "en",
+    "target": "hi",
+    "input": "My love S. ",
+    "output": "मेरे प्यार S",
+    "durationMs": 1171
+  },
+  {
+    "timestamp": "2025-08-05T16:22:22.260Z",
+    "source": "hi",
+    "target": "en",
+    "input": "नोटेशन में ठीक कर रहा हूं ",
+    "output": "Correcting in notation",
+    "durationMs": 2051
+  },
+  {
+    "timestamp": "2025-08-05T16:22:34.162Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Non station updateable. ",
+    "output": "नॉन स्टेशन अद्यतन करने योग्य",
+    "durationMs": 3895
+  },
+  {
+    "timestamp": "2025-08-05T16:22:34.199Z",
+    "source": "hi",
+    "target": "en",
+    "input": "नमस्ते अश्विन आप कैसे हो ",
+    "output": "Namaste Ashwin How are you?",
+    "durationMs": 3928
+  },
+  {
+    "timestamp": "2025-08-05T16:23:10.791Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Yes, Samir, I am very good. ",
+    "output": "हाँ, समीर, मैं बहुत अच्छा हूँ",
+    "durationMs": 2163
+  },
+  {
+    "timestamp": "2025-08-05T16:23:23.011Z",
+    "source": "hi",
+    "target": "en",
+    "input": "मैं भी बहुत अच्छा हूं ",
+    "output": "I 'm very surprised too .",
+    "durationMs": 1704
+  },
+  {
+    "timestamp": "2025-08-05T16:23:23.765Z",
+    "source": "hi",
+    "target": "en",
+    "input": "और ",
+    "output": "and",
+    "durationMs": 870
+  },
+  {
+    "timestamp": "2025-08-05T16:23:51.503Z",
+    "source": "hi",
+    "target": "en",
+    "input": "नमस्ते मैं सुबह 5:00 बजे उठता हूं हर रोज सुबह में उठकर चाय पीता हूं ",
+    "output": "I get up at 5:00 a.m. every morning and drink tea.",
+    "durationMs": 3151
+  },
+  {
+    "timestamp": "2025-08-05T16:24:14.169Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Yeah, how can I help you today, Sameer? ",
+    "output": "हाँ, मैं तुम्हें आज कैसे मदद कर सकता हूँ, समीर",
+    "durationMs": 2756
+  },
+  {
+    "timestamp": "2025-08-05T16:24:25.832Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Mere laughter. ",
+    "output": "सिर्फ हंसी",
+    "durationMs": 1182
+  },
+  {
+    "timestamp": "2025-08-05T16:24:29.013Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Cancel. ",
+    "output": "रद्द करना",
+    "durationMs": 987
+  },
+  {
+    "timestamp": "2025-08-05T16:24:32.935Z",
+    "source": "hi",
+    "target": "en",
+    "input": "मेरे लैपटॉप बार-बार हैंग हो रहा है क्या कुछ आप मदद कर सकते हो ",
+    "output": "My lAPTop is hanging over and over again. Is there anything you can do to help?",
+    "durationMs": 4572
+  },
+  {
+    "timestamp": "2025-08-05T16:25:10.070Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Oh, did you download any new software? ",
+    "output": "ओह, क्या आपने कोई नया software download किया है",
+    "durationMs": 2665
+  },
+  {
+    "timestamp": "2025-08-05T16:25:32.798Z",
+    "source": "hi",
+    "target": "en",
+    "input": "अश्विन कल रात में किया था ",
+    "output": "Ashwin did last night",
+    "durationMs": 1531
+  },
+  {
+    "timestamp": "2025-08-05T16:25:56.175Z",
+    "source": "hi",
+    "target": "en",
+    "input": "हस्बैंड कल रात मैंने मेरे लैपटॉप को अपडेट किया था ",
+    "output": "Husband last night I updated my lAPTop.",
+    "durationMs": 2165
+  },
+  {
+    "timestamp": "2025-08-05T16:26:52.358Z",
+    "source": "hi",
+    "target": "en",
+    "input": "माय हर रोज सुबह 5:00 उठता हूं उठकर चाय पीता हूं ",
+    "output": "My mother gets up at 5:00 a.m. every morning and drinks tea.",
+    "durationMs": 3409
+  },
+  {
+    "timestamp": "2025-08-05T16:28:25.192Z",
+    "source": "en",
+    "target": "hi",
+    "input": "OK Samir, I understand your problem. ",
+    "output": "ठीक है समीर, मैं आपकी समस्या को समझता हूँ",
+    "durationMs": 2391
+  },
+  {
+    "timestamp": "2025-08-05T16:28:34.393Z",
+    "source": "en",
+    "target": "hi",
+    "input": "I will first try to take control of your computer via virtual connection. ",
+    "output": "मैं initiativeे आभासी connection के माध्यम से अपने कंप्यूटर का नियंत्रण लेने की कोशिश करेंगे",
+    "durationMs": 3401
+  },
+  {
+    "timestamp": "2025-08-05T16:28:37.188Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Then I will. ",
+    "output": "तो मैं करूँगा",
+    "durationMs": 1173
+  },
+  {
+    "timestamp": "2025-08-05T16:28:45.450Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Uh, try to TR. ",
+    "output": "उह, TR करने की कोशिश करें",
+    "durationMs": 1799
+  },
+  {
+    "timestamp": "2025-08-05T16:28:47.666Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Raise a ticket if it doesn't work. ",
+    "output": "यदि यह job नहीं करता है तो एक ticketing उठाओ",
+    "durationMs": 2662
+  },
+  {
+    "timestamp": "2025-08-05T16:29:02.798Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Yeah. And also if you're satisfied with this help, please give five star rating. ",
+    "output": "हाँ . और भी अगर आप इस मदद से संतुष्ट हैं, कृपया पांच सितारा रेटिंग दें",
+    "durationMs": 4235
+  },
+  {
+    "timestamp": "2025-08-05T16:29:11.393Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Thank you for connecting, hope you're satisfied. ",
+    "output": "contact के लिए thanks, आशा है कि आप संतुष्ट हैं",
+    "durationMs": 2753
+  },
+  {
+    "timestamp": "2025-08-05T16:29:57.190Z",
+    "source": "hi",
+    "target": "en",
+    "input": "गुड मॉर्निंग अश्विन मेरा सिस्टम बहुत स्लो चल रहा है कल रात से कोई काम ठीक से ",
+    "output": "Good morning Ashwin. My system is running very slowly.",
+    "durationMs": 2906
+  },
+  {
+    "timestamp": "2025-08-05T16:29:59.771Z",
+    "source": "hi",
+    "target": "en",
+    "input": "यही नहीं हो रहा है ",
+    "output": "That's not what's happening.",
+    "durationMs": 5391
+  },
+  {
+    "timestamp": "2025-08-05T16:29:59.777Z",
+    "source": "hi",
+    "target": "en",
+    "input": "गई थी ",
+    "output": "was gone",
+    "durationMs": 4929
+  },
+  {
+    "timestamp": "2025-08-05T16:30:12.904Z",
+    "source": "hi",
+    "target": "en",
+    "input": "मैं वीपीएन से कनेक्ट हूं लेकिन नेटवर्क ठीक चल रहा है ",
+    "output": "I'm connected to a VPN, but the network is working fine.",
+    "durationMs": 2914
+  },
+  {
+    "timestamp": "2025-08-05T16:30:20.292Z",
+    "source": "hi",
+    "target": "en",
+    "input": "हां आप रिमोट एक्सेस करो मैं एडीडास को ओपन कर सकता हूं ",
+    "output": "Yes, you can have remote aCCess. I can open Adidas.",
+    "durationMs": 3438
+  },
+  {
+    "timestamp": "2025-08-05T16:30:29.265Z",
+    "source": "hi",
+    "target": "en",
+    "input": "यस रिक्वेस्ट एक्सेप्ट कर ली है ",
+    "output": "Yes request has acquired",
+    "durationMs": 1985
+  },
+  {
+    "timestamp": "2025-08-05T16:30:40.993Z",
+    "source": "hi",
+    "target": "en",
+    "input": "उसके बाद से ही है सिस्टम हैवी लाइफ ",
+    "output": "Since then, there's been system Heavy Life.",
+    "durationMs": 2588
+  },
+  {
+    "timestamp": "2025-08-05T16:30:50.458Z",
+    "source": "hi",
+    "target": "en",
+    "input": "ठीक है आप जो सही लगे वह कर लीजिए ",
+    "output": "All right, do what you think is right.",
+    "durationMs": 2300
+  },
+  {
+    "timestamp": "2025-08-05T18:19:32.903Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Hello, how are you doing? ",
+    "output": "हैलो, आप कैसे कर रहे हैं",
+    "durationMs": 1680
+  },
+  {
+    "timestamp": "2025-08-05T18:20:17.672Z",
+    "source": "en",
+    "target": "hi",
+    "input": "I heard that you are facing error with your laptop. How can I help you with it? Please do let me know. ",
+    "output": "मैंने सुना है कि आप अपने लैपटॉप के साथ त्रुटि का सामना कर रहे हैं मैं आप के साथ कैसे मदद कर सकते हैं कृपया मुझे बताओ",
+    "durationMs": 2423
+  },
+  {
+    "timestamp": "2025-08-05T18:21:22.168Z",
+    "source": "hi",
+    "target": "en",
+    "input": "हां मुझे बहुत दिक्कत हो रहा है परंतु यह काम कर रहा है ",
+    "output": "Yeah, I'm really upset, but it's working.",
+    "durationMs": 2058
+  },
+  {
+    "timestamp": "2025-08-05T18:21:56.869Z",
+    "source": "hi",
+    "target": "en",
+    "input": "आई थिंक ",
+    "output": "I thought",
+    "durationMs": 518
+  },
+  {
+    "timestamp": "2025-08-05T18:23:57.089Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Hello, this is Samir from the IT service desk. How can I help you today? ",
+    "output": "हैलो, यह आईटी सेवा डेस्क से समीर है मैं आज आपकी कैसे मदद कर सकता हूँ",
+    "durationMs": 1802
+  },
+  {
+    "timestamp": "2025-08-05T18:24:18.743Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Hello, this is Samir from the IT service desk. How can I help you today? ",
+    "output": "हैलो, यह आईटी सेवा डेस्क से समीर है मैं आज आपकी कैसे मदद कर सकता हूँ",
+    "durationMs": 1765
+  },
+  {
+    "timestamp": "2025-08-05T18:24:25.038Z",
+    "source": "en",
+    "target": "hi",
+    "input": "1.74 acre. ",
+    "output": "1 74 एकड़",
+    "durationMs": 1370
+  },
+  {
+    "timestamp": "2025-08-05T18:25:52.448Z",
+    "source": "en",
+    "target": "hi",
+    "input": "The story of Raman Sita is a central narrative in Hinduism found in the epic Ramayana. It tells of Prince Rama, his wife Sita and their exile, kidnapping and eventual return. Rama, exiled due to trickery, and Sita, who chooses to follow him, face trials, including Seetha's abduction by the demon king Ravana. ",
+    "output": "रामन सीता की कहानी महाकाव्य रामायण में पाई जाने वाली हिंदू धर्म की एक केंद्रीय कथा है इसमें राजकुमार राम, उनकी पत्नी सीता और उनके निर्वासन, अपहरण और अंततः return की कहानी है। रामा, धोखे के कारण निर्वासन में, और सीता, जो उसका अनुसरण करना चुनती हैं, को test का सामना करना पड़ता है, जिसमें रावण राक्षस ROI द्वारा सीता का अपहरण शामिल है",
+    "durationMs": 6260
+  },
+  {
+    "timestamp": "2025-08-05T18:26:28.956Z",
+    "source": "en",
+    "target": "hi",
+    "input": "The story of Ramon Shetaji's central narrative in Hinduism found in epic Ramayana. It tells of Prince Rama and his wife Sita. ",
+    "output": "महाकाव्य रामायण में हिंदू धर्म में रामन शेताजी की केंद्रीय कथा की कहानी यह राजकुमार रामा और उनकी पत्नी सीता की कहानी है",
+    "durationMs": 2577
+  },
+  {
+    "timestamp": "2025-08-05T21:05:37.374Z",
+    "source": "hi",
+    "target": "en",
+    "input": "नमस्ते ",
+    "output": "greetings",
+    "durationMs": 2447
+  },
+  {
+    "timestamp": "2025-08-05T21:05:38.687Z",
+    "source": "hi",
+    "target": "en",
+    "input": "आप कैसे हैं ",
+    "output": "How are you?",
+    "durationMs": 747
+  },
+  {
+    "timestamp": "2025-08-05T21:05:52.241Z",
+    "source": "hi",
+    "target": "en",
+    "input": "आशा है कि आप अच्छा कर रहे हैं ",
+    "output": "I hope you 're stunned",
+    "durationMs": 1532
+  },
+  {
+    "timestamp": "2025-08-05T21:06:02.428Z",
+    "source": "hi",
+    "target": "en",
+    "input": "मुझे आशा है कि आप अच्छा कर रहे हैं ",
+    "output": "I hope you 're stunned",
+    "durationMs": 1622
+  },
+  {
+    "timestamp": "2025-08-05T21:06:11.312Z",
+    "source": "hi",
+    "target": "en",
+    "input": "मुझे आशा है कि आप खुश हैं ",
+    "output": "I hope you're happy",
+    "durationMs": 1275
+  },
+  {
+    "timestamp": "2025-08-05T21:07:51.458Z",
+    "source": "hi",
+    "target": "en",
+    "input": "रामायण हिंदू धर्म का एक प्रमुख ग्रंथ है जो महर्षि वाल्मीकि द्वारा रचा गया है यह भगवान राम के जीवन और कार्यों का वर्णन करता है रामायण में ",
+    "output": "The Ramayana is a major work of Hinduism compOSed by Maharshi Valmiki. It narrates the life and deeds of Lord Rama in the Ramayana.",
+    "durationMs": 4638
+  },
+  {
+    "timestamp": "2025-08-05T21:07:53.034Z",
+    "source": "hi",
+    "target": "en",
+    "input": "24000 से अधिक श्लोक है ",
+    "output": "There are more than 24,000 verses",
+    "durationMs": 1209
+  },
+  {
+    "timestamp": "2025-08-05T21:08:48.987Z",
+    "source": "hi",
+    "target": "en",
+    "input": "रामायण भगवान विष्णु के सातवें अवतार राम की कहानी कहता है जो अयोध्या के राजा दशरथ के पुत्र है राम को एक आदर्श पुत्र भाई पिता और राजा के रूप में चित्रित किया गया है ",
+    "output": "The Ramayana tells the story of the seventh incarnation of Lord Vishnu, Ram, who is the son of King DasHRath of Ayodhya. Ram is portrayed as a revered son, brother, father and king.",
+    "durationMs": 6442
+  },
+  {
+    "timestamp": "2025-08-05T21:09:27.312Z",
+    "source": "hi",
+    "target": "en",
+    "input": "रामायण भगवान विष्णु की सातवें अवतार राम की कहानी कहता है जो अयोध्या के राजा दशरथ के पुत्र थे ",
+    "output": "The Ramayana tells the story of Lord Rama, the seventh incarnation of Lord Vishnu, who was the son of King DasHRath of Ayodhya.",
+    "durationMs": 4732
+  },
+  {
+    "timestamp": "2025-08-05T21:10:24.003Z",
+    "source": "hi",
+    "target": "en",
+    "input": "रामायण अरे केवल एक धार्मिक ग्रंथ है बल्कि यह नैतिकता धर्म और सामाजिक मूल्यों का भी एक महत्वपूर्ण स्त्रोत है ",
+    "output": "The Ramayana is not only a religious treatise, but it is also an important continuation of morality, religion and soCIal values.",
+    "durationMs": 3800
+  },
+  {
+    "timestamp": "2025-08-05T21:11:26.687Z",
+    "source": "hi",
+    "target": "en",
+    "input": "मेरा लैपटॉप काम नहीं कर रहा है हर रोज 5 मिनट लग रहा है ओपन करने के लिए और यह मैंने बहुत बार टिकट रेज़ किया है परंतु कुछ काम नहीं हुआ ",
+    "output": "My lAPTop doesn't work, it takes me five minutes every day to open it, and I've tried it many times, but nothing works.",
+    "durationMs": 4492
+  },
+  {
+    "timestamp": "2025-08-05T21:11:56.236Z",
+    "source": "hi",
+    "target": "en",
+    "input": "मैंने बहुत बार टिकट रेज़ किया था परंतु कुछ फायदा नहीं हुआ ",
+    "output": "I rented a lot of tickets, but it didn't work.",
+    "durationMs": 2252
+  },
+  {
+    "timestamp": "2025-08-05T21:12:12.781Z",
+    "source": "hi",
+    "target": "en",
+    "input": "मैंने बहुत बार टिकट रेस किया था परंतु कुछ फायदा नहीं हूं ",
+    "output": "I've raced many times, but I'm no good.",
+    "durationMs": 2318
+  },
+  {
+    "timestamp": "2025-08-05T21:12:21.977Z",
+    "source": "hi",
+    "target": "en",
+    "input": "टिकट प्राइस ",
+    "output": "ticket to Paris",
+    "durationMs": 1016
+  },
+  {
+    "timestamp": "2025-08-05T21:12:51.733Z",
+    "source": "en",
+    "target": "hi",
+    "input": "I am sorry that the others couldn't help you, but I will try my level best to help you out. ",
+    "output": "मुझे खेद है कि अन्य लोग आपकी मदद नहीं कर सके, लेकिन मैं आपकी मदद करने के लिए अपना सर्वश्रेष्ठ प्रयास करूंगा",
+    "durationMs": 3397
+  },
+  {
+    "timestamp": "2025-08-05T22:17:33.300Z",
+    "source": "hi",
+    "target": "en",
+    "input": "नमस्ते साहब ",
+    "output": "Thank you, sir.",
+    "durationMs": 2271
+  },
+  {
+    "timestamp": "2025-08-05T22:17:49.648Z",
+    "source": "hi",
+    "target": "en",
+    "input": "थोड़ा पानी दे दीजिए दे दो साहब ",
+    "output": "Give me some water, sir.",
+    "durationMs": 1415
+  },
+  {
+    "timestamp": "2025-08-05T22:18:00.500Z",
+    "source": "en",
+    "target": "hi",
+    "input": "No, you are my slave. Stay there. ",
+    "output": "नहीं, तुम मेरे दास हो वहीं रहो।",
+    "durationMs": 1918
+  },
+  {
+    "timestamp": "2025-08-05T22:18:01.817Z",
+    "source": "en",
+    "target": "hi",
+    "input": "No water for you. ",
+    "output": "तुम्हारे लिए पानी नहीं है",
+    "durationMs": 877
+  },
+  {
+    "timestamp": "2025-08-05T22:18:03.249Z",
+    "source": "en",
+    "target": "hi",
+    "input": "No food. ",
+    "output": "कोई भोजन नहीं",
+    "durationMs": 681
+  },
+  {
+    "timestamp": "2025-08-05T22:18:17.372Z",
+    "source": "hi",
+    "target": "en",
+    "input": "प्लीज दे दो भाई साहब ",
+    "output": "Please give me two bro sir",
+    "durationMs": 1282
+  },
+  {
+    "timestamp": "2025-08-05T22:18:29.085Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Conversation. ",
+    "output": "बातचीत",
+    "durationMs": 741
+  },
+  {
+    "timestamp": "2025-08-05T22:18:34.836Z",
+    "source": "hi",
+    "target": "en",
+    "input": "नमस्ते अश्विन आप कैसे हो ",
+    "output": "Hello Ashwin, how are you?",
+    "durationMs": 1561
+  },
+  {
+    "timestamp": "2025-08-05T22:18:51.952Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Hello Samir, I'm good. How are you? How can I help you today? ",
+    "output": "हैलो समीर, मैं ठीक हूँ आप कैसे हैं? मैं आज आपकी कैसे मदद कर सकता हूँ?",
+    "durationMs": 3350
+  },
+  {
+    "timestamp": "2025-08-05T22:19:17.064Z",
+    "source": "hi",
+    "target": "en",
+    "input": "मैं ठीक हूं आज साहब की आप भी ठीक है क्या आप मेरा लैपटॉप कल रात से काम नहीं कर रहा है क्या आप कुछ मदद कर सकते हो ",
+    "output": "I'm fine today, sir. You're fine. Can you help me? My lAPTop hasn't been working since last night.",
+    "durationMs": 3832
+  },
+  {
+    "timestamp": "2025-08-05T22:19:34.930Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Yes, of course Samir, I can help you with it. Could you tell me what the problem is exactly? ",
+    "output": "हाँ, निश्चित रूप से समिर, मैं तुम्हें इसके साथ मदद कर सकते हैं क्या आप मुझे बता सकते हैं कि समस्या क्या है",
+    "durationMs": 3708
+  },
+  {
+    "timestamp": "2025-08-05T22:19:53.064Z",
+    "source": "hi",
+    "target": "en",
+    "input": "कल रात मैंने सिस्टम ",
+    "output": "Last night I checked the system",
+    "durationMs": 1433
+  },
+  {
+    "timestamp": "2025-08-05T22:19:56.700Z",
+    "source": "hi",
+    "target": "en",
+    "input": "का अपडेट किया ",
+    "output": "updated by",
+    "durationMs": 810
+  },
+  {
+    "timestamp": "2025-08-05T22:20:14.404Z",
+    "source": "hi",
+    "target": "en",
+    "input": "क्या आप कुछ मदद कर सकते हो कल रात मैंने मेरा लैपटॉप सिस्टम को ",
+    "output": "Can you give me a hand last night?",
+    "durationMs": 2738
+  },
+  {
+    "timestamp": "2025-08-05T22:20:15.274Z",
+    "source": "hi",
+    "target": "en",
+    "input": "सॉफ्टवेयर अपडेट किया था ",
+    "output": "The software was updated",
+    "durationMs": 1817
+  },
+  {
+    "timestamp": "2025-08-05T22:20:27.028Z",
+    "source": "hi",
+    "target": "en",
+    "input": "इसीलिए मेरे लैपटॉप काम नहीं हो रहा है मैं सोचता हूं ",
+    "output": "That 's why my lAPTop 's not working , I think .",
+    "durationMs": 2037
+  },
+  {
+    "timestamp": "2025-08-05T22:20:49.137Z",
+    "source": "hi",
+    "target": "en",
+    "input": "नमस्ते अश्विन नमस्ते ",
+    "output": "Peace be on you. Peace be on you.",
+    "durationMs": 1593
+  },
+  {
+    "timestamp": "2025-08-05T22:21:10.107Z",
+    "source": "hi",
+    "target": "en",
+    "input": "सलाम वालेकुम अस्सलाम ",
+    "output": "\"Peace be upon you\",",
+    "durationMs": 1954
+  },
+  {
+    "timestamp": "2025-08-05T22:21:13.322Z",
+    "source": "hi",
+    "target": "en",
+    "input": "वालेकुम अस्सलाम ",
+    "output": "Peace be upon you.",
+    "durationMs": 1338
+  },
+  {
+    "timestamp": "2025-08-05T22:22:01.591Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Your laptop is hanging, so I will like the request for remote access for your laptop. ",
+    "output": "अपने लैपटॉप लटक रहा है, तो मैं अपने लैपटॉप के लिए रिमोट एक्सेस के लिए अनुरोध पसंद करेंगे",
+    "durationMs": 3524
+  },
+  {
+    "timestamp": "2025-08-05T22:24:53.926Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Yeah, now I'm doing 600 million parameter model. I want to check the time. ",
+    "output": "हाँ, अब मैं 600 मिलियन parameter मॉडल कर रहा हूँ मैं time की जांच करना चाहते हैं",
+    "durationMs": 1924
+  },
+  {
+    "timestamp": "2025-08-05T22:25:07.730Z",
+    "source": "en",
+    "target": "hi",
+    "input": "1.3 million parameter I'm getting an average of 3 seconds, but if the sentences are small I'm getting an average of one second. ",
+    "output": "1 3 मिलियन parameter मुझे averageन 3 सेकंड मिल रहे हैं, लेकिन अगर वाक्य छोटे हैं मुझे averageन एक सेकंड मिल रहा है",
+    "durationMs": 2388
+  },
+  {
+    "timestamp": "2025-08-05T22:25:17.177Z",
+    "source": "en",
+    "target": "hi",
+    "input": "1592 Bilbao. ",
+    "output": "1592 बिलबाओ",
+    "durationMs": 646
+  },
+  {
+    "timestamp": "2025-08-05T22:25:28.224Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Open. Once Upon a time there was a king. Once Upon a time there was Samir. ",
+    "output": "खुला एक time था एक ROI था एक बार एक time था समिर",
+    "durationMs": 1594
+  },
+  {
+    "timestamp": "2025-08-05T22:25:32.445Z",
+    "source": "en",
+    "target": "hi",
+    "input": "He always talked to talk about girls. ",
+    "output": "वह हमेशा लड़कियों के बारे में बात करने के लिए बात की",
+    "durationMs": 1071
+  },
+  {
+    "timestamp": "2025-08-05T22:25:38.530Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Do you like girls? ",
+    "output": "क्या आप लड़कियों को पसंद करते हैं",
+    "durationMs": 844
+  },
+  {
+    "timestamp": "2025-08-05T22:25:39.908Z",
+    "source": "en",
+    "target": "hi",
+    "input": "What he wants girls. ",
+    "output": "वह लड़कियों को क्या चाहता है",
+    "durationMs": 620
+  },
+  {
+    "timestamp": "2025-08-06T16:02:56.763Z",
+    "source": "hi",
+    "target": "en",
+    "input": "इंटरनेट कनेक्शन आप कैसे हैं ",
+    "output": "internet connection How are you?",
+    "durationMs": 1831
+  },
+  {
+    "timestamp": "2025-08-06T20:22:37.390Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Hello Samir, how can I help you today? ",
+    "output": "हैलो समीर, मैं आज आपकी क्या मदद कर सकता हूँ?",
+    "durationMs": 2067
+  },
+  {
+    "timestamp": "2025-08-06T20:22:54.290Z",
+    "source": "hi",
+    "target": "en",
+    "input": "हेलो अश्विनी मेरा लैपटॉप कल रात से दिक्कत हो रहा है क्या आप कुछ मदद कर सकते हो ",
+    "output": "Hello Ashwini, my lAPTop has been burning since last night. Can you help me?",
+    "durationMs": 1157
+  },
+  {
+    "timestamp": "2025-08-06T20:23:01.128Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Actually that filter, the filters were not working, so I kind of removed everything and I clicked sync. So that's why everything came in. So yeah, yeah. ",
+    "output": "वास्तव में कि फिल्टर, फिल्टर job नहीं कर रहे थे, तो मैं तरह सब कुछ हटा दिया और मैं क्लिक किया सिंक्रनाइज़ तो क्यों सब कुछ में आया तो हाँ, हाँ",
+    "durationMs": 2396
+  },
+  {
+    "timestamp": "2025-08-06T20:23:17.456Z",
+    "source": "en",
+    "target": "hi",
+    "input": "I think it is working fine. ",
+    "output": "मुझे लगता है कि यह ठीक job कर रहा है",
+    "durationMs": 767
+  },
+  {
+    "timestamp": "2025-08-06T20:23:21.827Z",
+    "source": "hi",
+    "target": "en",
+    "input": "हां मैं एक लड़की को प्यार कर रहा हूं मैं उसे ",
+    "output": "Yes, I'm in love with a girl.",
+    "durationMs": 686
+  },
+  {
+    "timestamp": "2025-08-06T20:23:29.204Z",
+    "source": "hi",
+    "target": "en",
+    "input": "हां मैं ठीक ठीक से कम कर रहा हूं ",
+    "output": "Yes I 'm doing exactly right",
+    "durationMs": 502
+  },
+  {
+    "timestamp": "2025-08-06T20:23:32.881Z",
+    "source": "hi",
+    "target": "en",
+    "input": "और मैं एक लड़की को प्यार करता हूं ",
+    "output": "And I'm in love with a girl",
+    "durationMs": 567
+  },
+  {
+    "timestamp": "2025-08-06T20:23:46.561Z",
+    "source": "hi",
+    "target": "en",
+    "input": "क्या अश्विन क्या आप मुझे सुन सकते हो क्या ",
+    "output": "Kaya Ashwin, can you hear me?",
+    "durationMs": 593
+  },
+  {
+    "timestamp": "2025-08-06T20:23:50.241Z",
+    "source": "hi",
+    "target": "en",
+    "input": "साहिब ",
+    "output": "Sir",
+    "durationMs": 283
+  },
+  {
+    "timestamp": "2025-08-06T20:24:04.302Z",
+    "source": "hi",
+    "target": "en",
+    "input": "साहिब ",
+    "output": "Sir",
+    "durationMs": 270
+  },
+  {
+    "timestamp": "2025-08-06T20:27:19.961Z",
+    "source": "hi",
+    "target": "en",
+    "input": "आपका कॉल सर्विस डेस्क पर स्वागत है कृपया अपनी समस्या डिटेल में बताइए ताकि हम मदद कर सके ",
+    "output": "Your call is welcome at the service desk Please speCIfy your problem so that we can help",
+    "durationMs": 1230
+  },
+  {
+    "timestamp": "2025-08-06T20:27:31.943Z",
+    "source": "hi",
+    "target": "en",
+    "input": "कृपया बताएं कि आपको अपने सिस्टम में कौन से एरर मैसेज दिखाई दे रहा है ",
+    "output": "Please tell me which error messages you are seeing in your system",
+    "durationMs": 760
+  },
+  {
+    "timestamp": "2025-08-06T20:27:48.604Z",
+    "source": "hi",
+    "target": "en",
+    "input": "हम अपने रिक्वेस्ट को हाई हाई प्रायरिटी पर लगा कर रहे हैं और टेक्निकल टीम को फॉरवर्ड कर देखें ",
+    "output": "We're putting our requests on high priority and forwarding the technical team.",
+    "durationMs": 1032
+  },
+  {
+    "timestamp": "2025-08-06T20:28:02.541Z",
+    "source": "hi",
+    "target": "en",
+    "input": "कृपया अपने कंप्यूटर को एक बार रीस्टार्ट कर लीजिए और मुझे बताइए की प्रॉब्लम अभी भी आ रहा है या नहीं ",
+    "output": "Please RESTart your computer once and let me know if the problem is still coming.",
+    "durationMs": 1060
+  },
+  {
+    "timestamp": "2025-08-06T20:28:16.024Z",
+    "source": "hi",
+    "target": "en",
+    "input": "मैं आपके सिस्टम पर रिमोट एक्सेस ले रहा हूं कृपया अपनी सारी फाइल सेव कर लीजिए ",
+    "output": "I'm taking remote aCCess to your system. Please save all your files.",
+    "durationMs": 903
+  },
+  {
+    "timestamp": "2025-08-06T20:28:29.834Z",
+    "source": "hi",
+    "target": "en",
+    "input": "आपकी प्रॉब्लम को परमानेंटली सॉल्व करने के लिए हमें आपके नेटवर्क सेटिंग्स चेक करने पड़ेंगे क्या आप कुछ मदद कर सकते हो ",
+    "output": "In order to solve your problem permanently, we need to check your network settings.",
+    "durationMs": 1112
+  },
+  {
+    "timestamp": "2025-08-06T20:28:43.646Z",
+    "source": "hi",
+    "target": "en",
+    "input": "कृपया वीपीएन से डिस्कनेक्ट करके दोबारा कनेक्ट करने की कोशिश कीजिए और मुझे अपडेट दीजिए ",
+    "output": "Please try disconnecting from the VPN and reconnecting and give me an update.",
+    "durationMs": 1005
+  },
+  {
+    "timestamp": "2025-08-06T20:28:57.342Z",
+    "source": "hi",
+    "target": "en",
+    "input": "मैं अपने आपकी इशू को स्क्रैच कर रहा हूं और हमारे सीनियर टीम 30 मिनट के अंदर आपसे कांटेक्ट करेगी ",
+    "output": "I'm scratching your issue and our senior team will be in touch with you in 30 minutes.",
+    "durationMs": 1130
+  },
+  {
+    "timestamp": "2025-08-06T20:29:06.807Z",
+    "source": "hi",
+    "target": "en",
+    "input": "क्या आपने रिसेंटली कोई नया सॉफ्टवेयर इंस्टॉल किया है जिसके बाद यह प्रॉब्लम स्टार्ट हुआ है क्या ",
+    "output": "Have you recently installed any new software after which this puzzle has started?",
+    "durationMs": 1137
+  },
+  {
+    "timestamp": "2025-08-06T20:29:19.108Z",
+    "source": "hi",
+    "target": "en",
+    "input": "आपका टिकट नंबर हमारे सिस्टम में 12345 है कृपया इसे फ्यूचर रेफरेंस के लिए नोट कर लीजिए ",
+    "output": "Your ticket number is 12345 in our system Please note this for future reference",
+    "durationMs": 920
+  },
+  {
+    "timestamp": "2025-08-06T20:29:34.126Z",
+    "source": "hi",
+    "target": "en",
+    "input": "यह एक नाउन इशू है और हमारी टेक्निकल टीम इस पर काम कर रहा है जल्दी ही सॉल्यूशन मिलेंगे ",
+    "output": "This is a new issue and our technical team is working on it and will soon find a solution.",
+    "durationMs": 1466
+  },
+  {
+    "timestamp": "2025-08-06T20:29:35.793Z",
+    "source": "hi",
+    "target": "en",
+    "input": "आप कृपया मत कीजिए ",
+    "output": "Please don't.",
+    "durationMs": 468
+  },
+  {
+    "timestamp": "2025-08-06T20:29:50.024Z",
+    "source": "hi",
+    "target": "en",
+    "input": "आपका रिक्वेस्ट सक्सेसफुली लॉक हो गया है और हम आपको ईमेल के ईमेल के थ्रू अपडेट्स भेजेंगे रहेंगे भेजते रहेंगे ",
+    "output": "Your request has been suCCessfully locked and we will continue to send you updates via email.",
+    "durationMs": 1364
+  },
+  {
+    "timestamp": "2025-08-06T20:29:59.477Z",
+    "source": "hi",
+    "target": "en",
+    "input": "कृपया कॉल डिस्कनेक्ट मत कीजिए मैं आपके सिस्टम पर कुछ जरूरी चैक कर रहा हूं ",
+    "output": "Please don't disconnect the call. I'm checking your system for something urgent.",
+    "durationMs": 1213
+  },
+  {
+    "timestamp": "2025-08-06T20:30:11.653Z",
+    "source": "hi",
+    "target": "en",
+    "input": "धन्यवाद से समर्पण किया क्या मैं आपकी किसी और प्रॉब्लम में हेल्प कर सकता हूं ",
+    "output": "Thank you very much. Can I help you with another problem?",
+    "durationMs": 829
+  },
+  {
+    "timestamp": "2025-08-06T20:31:20.534Z",
+    "source": "hi",
+    "target": "en",
+    "input": "रामायण भारत के एक प्राचीन और पवित्र महाकाव्य है जो महर्षि वाल्मीकि द्वारा लिखा गया है ऐसा यह कथा भगवान श्री राम के जीवन उनके चरित्र और धर्म के पद पर चलने की कहानी है श्रीराम अयोध्या के राजा दशरथ के पुत्र और उनकी पत्नी के नाम सीता था राजा दशरथ के दिए हुए वनवास के कारण श्रीराम सीता और लक्ष्मण ",
+    "output": "The Ramayana is an anCIent and sacred epic of India, written by Maharshi Valmiki. It is the story of the life of Lord SHRi Ram, the son of King DasHRath of Ayodhya and his wife named Sita, due to the foREST given to him by King DasHRath.",
+    "durationMs": 2993
+  },
+  {
+    "timestamp": "2025-08-06T20:31:23.290Z",
+    "source": "hi",
+    "target": "en",
+    "input": "चार वर्ष तक में में रहे ",
+    "output": "stayed in for four years",
+    "durationMs": 441
+  },
+  {
+    "timestamp": "2025-08-06T20:33:02.663Z",
+    "source": "en",
+    "target": "hi",
+    "input": "OK. Good morning. This is Sarah Desk. How may I assist you today? Can you please describe the exact issue you have you are facing with your system? ",
+    "output": "ठीक है सुप्रभात यह सारा डेस्क है मैं आज आपकी help कैसे कर सकता हूँ? आप कृपया आप अपने system के साथ सामना कर रहे हैं सही समस्या का वर्णन कर सकते हैं",
+    "durationMs": 2676
+  },
+  {
+    "timestamp": "2025-08-06T20:33:14.637Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Can you please describe the exact issue you are facing with your system? I will need to verify your identity before proceeding. ",
+    "output": "कृपया आप अपने system के साथ सामना कर रहे हैं सटीक समस्या का वर्णन कर सकते हैं forward बढ़ने से initiativeे मुझे आपकी identity सत्यापित करनी होगी",
+    "durationMs": 1748
+  },
+  {
+    "timestamp": "2025-08-06T20:33:28.093Z",
+    "source": "en",
+    "target": "hi",
+    "input": "May I have your employee ID please? ",
+    "output": "मैं अपने employeeid IDS मिल सकता है कृपया",
+    "durationMs": 667
+  },
+  {
+    "timestamp": "2025-08-06T20:33:43.064Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Can you try restarting your machine and let me know if the issue persists? ",
+    "output": "क्या आप अपनी मशीन को पुनरारंभ करने की कोशिश कर सकते हैं और मुझे बताएं कि क्या समस्या बनी हुई है",
+    "durationMs": 1294
+  },
+  {
+    "timestamp": "2025-08-06T20:33:53.978Z",
+    "source": "en",
+    "target": "hi",
+    "input": "I'm taking remote access of your computer to troubleshoot the problem. ",
+    "output": "मैं समस्या का निवारण करने के लिए अपने कंप्यूटर की रिमोट एक्सेस ले रहा हूँ",
+    "durationMs": 1785
+  },
+  {
+    "timestamp": "2025-08-06T20:33:59.759Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Call 177. ",
+    "output": "177 पर कॉल करें",
+    "durationMs": 358
+  },
+  {
+    "timestamp": "2025-08-06T20:34:07.076Z",
+    "source": "en",
+    "target": "hi",
+    "input": "This issue has been escalated to the technical team and they will reach out to you shortly. ",
+    "output": "इस मुद्दे को तकनीकी team के पास reachाया गया है और वे जल्द ही आपसे contact करेंगे",
+    "durationMs": 1026
+  },
+  {
+    "timestamp": "2025-08-06T20:34:15.524Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Could you please send me a screenshot of the error you are getting? ",
+    "output": "क्या आप मुझे त्रुटि का screenशॉट भेज सकते हैं जो आपको मिल रहा है",
+    "durationMs": 1213
+  },
+  {
+    "timestamp": "2025-08-06T20:34:22.661Z",
+    "source": "en",
+    "target": "hi",
+    "input": "This is a noun issue, and our team is actively working on a permanent fix. ",
+    "output": "यह एक संज्ञा समस्या है, और हमारी team सक्रिय रूप से एक स्थायी समाधान पर job कर रहा है",
+    "durationMs": 1177
+  },
+  {
+    "timestamp": "2025-08-06T20:34:34.228Z",
+    "source": "en",
+    "target": "hi",
+    "input": "I have updated your ticket with the latest status and will keep you informed via e-mail. So please disconnect and reconnect to your VPN connection and check if it works. ",
+    "output": "मैंने आपके ticketing को नवीनतम स्थिति के साथ अपडेट किया है और आपको ई-मेल के माध्यम से सूचित रखूंगा तो कृपया अपने VPN connection से disconnected करें और फिर से कनेक्ट करें और जांचें कि क्या यह job करता है",
+    "durationMs": 2487
+  },
+  {
+    "timestamp": "2025-08-06T20:34:47.685Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Thank you for your patience. Your issue has been resolved now. Can you please verify from your end? Is there anything else I can help you with today? ",
+    "output": "अपने धैर्य के लिए thanks आपका मुद्दा अब हल हो गया है क्या आप कृपया अपने अंत से confirmation कर सकते हैं क्या मैं आज और कुछ के साथ आपकी मदद कर सकता हूँ",
+    "durationMs": 2254
+  },
+  {
+    "timestamp": "2025-08-06T20:35:14.655Z",
+    "source": "hi",
+    "target": "en",
+    "input": "आपके कॉल सर्विस देश पर स्वागत है कृपया अपने समस्या डिटेल में बता दी बता दे बताएं ",
+    "output": "Your call is welcome on the service country please tell your problem in detail",
+    "durationMs": 962
+  },
+  {
+    "timestamp": "2025-08-06T20:35:29.376Z",
+    "source": "hi",
+    "target": "en",
+    "input": "हम आपकी रिक्वेस्ट को हाई प्रायरिटी पर लगकर हैं और टेक्निकल टीम को फॉरवर्ड कर देते ",
+    "output": "We put your request on high priority and forwarded it to the technical team.",
+    "durationMs": 1143
+  },
+  {
+    "timestamp": "2025-08-06T20:35:45.351Z",
+    "source": "hi",
+    "target": "en",
+    "input": "कृपया अपने कंप्यूटर को एक बार रीस्टार्ट कर लीजिए और मुझे बता दे की प्रॉब्लम अभी ही है आ रहा है या नहीं ",
+    "output": "Please RESTart your computer once and let me know if Problem is coming or not.",
+    "durationMs": 1075
+  },
+  {
+    "timestamp": "2025-08-06T20:36:00.022Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Decline on the handle manager. ",
+    "output": "हैंडल मैनेजर पर गिरावट",
+    "durationMs": 912
+  },
+  {
+    "timestamp": "2025-08-06T20:36:03.733Z",
+    "source": "en",
+    "target": "hi",
+    "input": "OK, good morning. Uh, this. ",
+    "output": "ठीक है, सुप्रभात Uh, यह",
+    "durationMs": 1025
+  },
+  {
+    "timestamp": "2025-08-06T20:36:15.149Z",
+    "source": "en",
+    "target": "hi",
+    "input": "OK, good morning. This is service desk. How can I, how may I assist you today? ",
+    "output": "ठीक है, सुप्रभात यह सेवा डेस्क है मैं आज आपकी help कैसे कर सकता हूँ?",
+    "durationMs": 1854
+  },
+  {
+    "timestamp": "2025-08-06T20:36:24.996Z",
+    "source": "en",
+    "target": "hi",
+    "input": "This is the first time Nagpur 2.57. ",
+    "output": "यह initiativeी बार है कि नागपुर 2 ५७",
+    "durationMs": 858
+  },
+  {
+    "timestamp": "2025-08-06T20:36:43.377Z",
+    "source": "en",
+    "target": "hi",
+    "input": "OK, good morning. This is service desk. How, how may I assist you today? Can you please describe the exact issue I have, uh, facing with your system? ",
+    "output": "ठीक है, सुप्रभात यह सेवा डेस्क है मैं आज आपकी help कैसे कर सकता हूँ? क्या आप कृपया वर्णन कर सकते हैं सटीक समस्या मैं है, उह, का सामना करना पड़ा अपने प्रणाली के साथ",
+    "durationMs": 2708
+  },
+  {
+    "timestamp": "2025-08-07T16:18:11.096Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Hi Sunny, how are you doing? ",
+    "output": "हाय सनी, आप कैसे कर रहे हैं",
+    "durationMs": 1832
+  },
+  {
+    "timestamp": "2025-08-07T16:18:26.034Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Namaste ho. ",
+    "output": "नमस्ते",
+    "durationMs": 341
+  },
+  {
+    "timestamp": "2025-08-07T16:18:56.516Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Hi, Samir, How are you? ",
+    "output": "हाय, समीर, आप कैसे हैं",
+    "durationMs": 556
+  },
+  {
+    "timestamp": "2025-08-07T16:19:04.880Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Open speakerphone. ",
+    "output": "ओपन speakerफोन",
+    "durationMs": 416
+  },
+  {
+    "timestamp": "2025-08-07T16:19:16.617Z",
+    "source": "en",
+    "target": "hi",
+    "input": "What time in the world? ",
+    "output": "दुनिया में क्या time है",
+    "durationMs": 411
+  },
+  {
+    "timestamp": "2025-08-07T16:19:34.735Z",
+    "source": "en",
+    "target": "hi",
+    "input": "It is Miranda's own route, but Ashoka is nowhere. ",
+    "output": "यह मिरांडा का अपना path है, लेकिन अशोक कहीं नहीं है",
+    "durationMs": 1015
+  },
+  {
+    "timestamp": "2025-08-07T16:20:23.175Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Control it. ",
+    "output": "इसे नियंत्रित करें",
+    "durationMs": 345
+  },
+  {
+    "timestamp": "2025-08-07T16:20:45.694Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Hi Sunil, how are you doing? ",
+    "output": "हाय सुनील, तुम कैसे हो?",
+    "durationMs": 471
+  },
+  {
+    "timestamp": "2025-08-07T16:20:46.320Z",
+    "source": "hi",
+    "target": "en",
+    "input": "हाय समीर हाउ आर यू डूइंग ",
+    "output": "Hi Sameer how are you doing",
+    "durationMs": 476
+  },
+  {
+    "timestamp": "2025-08-07T16:21:11.418Z",
+    "source": "en",
+    "target": "hi",
+    "input": "So what is this? ",
+    "output": "तो यह क्या है",
+    "durationMs": 379
+  },
+  {
+    "timestamp": "2025-08-07T16:21:12.022Z",
+    "source": "hi",
+    "target": "en",
+    "input": "नवोदय समीर तू कैसे हो ",
+    "output": "Navodaya Samir, how are you?",
+    "durationMs": 734
+  },
+  {
+    "timestamp": "2025-08-07T16:21:21.478Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Yes, I'm fine. What about you? ",
+    "output": "हाँ, मैं ठीक हूँ क्या आप के बारे में",
+    "durationMs": 732
+  },
+  {
+    "timestamp": "2025-08-07T16:21:30.174Z",
+    "source": "hi",
+    "target": "en",
+    "input": "मैं अच्छा हूं ",
+    "output": "I 'm stunned",
+    "durationMs": 393
+  },
+  {
+    "timestamp": "2025-08-11T16:44:44.526Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Hello, How are you Mohit? ",
+    "output": "हैलो, आप कैसे हैं मोहित",
+    "durationMs": 3077
+  },
+  {
+    "timestamp": "2025-08-11T16:44:45.057Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Hello. ",
+    "output": "हैलो.",
+    "durationMs": 1497
+  },
+  {
+    "timestamp": "2025-08-11T16:44:56.775Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Johns are the coming 15th of September. We hope you are doing fine. Mohit 15th. ",
+    "output": "जोन्स 15 सितंबर को आ रहे हैं हमें आशा है कि आप ठीक हैं 15वें मोहित",
+    "durationMs": 2172
+  },
+  {
+    "timestamp": "2025-08-11T16:45:06.540Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Tomorrow. ",
+    "output": "कल",
+    "durationMs": 290
+  },
+  {
+    "timestamp": "2025-08-11T16:45:11.539Z",
+    "source": "en",
+    "target": "hi",
+    "input": "I hope you're doing fine, Mohit. ",
+    "output": "मुझे आशा है कि आप ठीक कर रहे हैं, मोहित",
+    "durationMs": 950
+  },
+  {
+    "timestamp": "2025-08-11T16:45:38.735Z",
+    "source": "hi",
+    "target": "en",
+    "input": "नमस्ते समीर हां मैं अच्छा हूं तू क्या कर रहा है हो ",
+    "output": "Yes, I am surprised what you are doing.",
+    "durationMs": 758
+  },
+  {
+    "timestamp": "2025-08-11T16:46:07.892Z",
+    "source": "en",
+    "target": "hi",
+    "input": "11 of the tickets. ",
+    "output": "ticketingों में से 11",
+    "durationMs": 401
+  },
+  {
+    "timestamp": "2025-08-11T16:46:25.314Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Do you know my account? My name is Chandi. I'm standing on Chindi level 0 Level one Try. ",
+    "output": "क्या आप मेरे खाते को जानते हैं मेरा नाम चंडी है मैं Chindi स्तर 0 स्तर एक पर खड़ा हूँ कोशिश करो",
+    "durationMs": 1929
+  },
+  {
+    "timestamp": "2025-08-11T17:06:32.438Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Talk here, don't go to this application. ",
+    "output": "यहाँ बात करो, इस आवेदन पर मत जाओ",
+    "durationMs": 810
+  },
+  {
+    "timestamp": "2025-08-11T17:06:34.428Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Internet motive. ",
+    "output": "internet मकसद",
+    "durationMs": 420
+  },
+  {
+    "timestamp": "2025-08-11T17:06:52.138Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Or service this speaking, how can I help you? ",
+    "output": "या सेवा यह बोल रहा है, मैं तुम्हें कैसे मदद कर सकते हैं",
+    "durationMs": 1045
+  },
+  {
+    "timestamp": "2025-08-11T17:06:55.781Z",
+    "source": "hi",
+    "target": "en",
+    "input": "नमस्ते ",
+    "output": "greetings",
+    "durationMs": 417
+  },
+  {
+    "timestamp": "2025-08-11T17:07:13.254Z",
+    "source": "en",
+    "target": "hi",
+    "input": "My computer is not starting this morning. ",
+    "output": "मेरा कंप्यूटर आज सुबह शुरू नहीं हो रहा है",
+    "durationMs": 899
+  },
+  {
+    "timestamp": "2025-08-11T17:07:14.612Z",
+    "source": "hi",
+    "target": "en",
+    "input": "नमस्ते सर्विस टेस्ट बोल रहा हूं मैं आपकी कैसे मदद कर सकता हूं ",
+    "output": "Namaste Service test speaking How can I help you",
+    "durationMs": 970
+  },
+  {
+    "timestamp": "2025-08-11T17:07:22.709Z",
+    "source": "en",
+    "target": "hi",
+    "input": "What's the name of your? ",
+    "output": "आपका नाम क्या है",
+    "durationMs": 415
+  },
+  {
+    "timestamp": "2025-08-11T17:07:27.197Z",
+    "source": "hi",
+    "target": "en",
+    "input": "क्या आपने इसमें रीस्टार्ट करने के कोशिश की है ",
+    "output": "Have you tried RESTarting it?",
+    "durationMs": 577
+  },
+  {
+    "timestamp": "2025-08-11T17:07:31.344Z",
+    "source": "hi",
+    "target": "en",
+    "input": "मेरा नाम मोहन कृष्ण रेड्डी है ",
+    "output": "My name is Mohan Krishna Reddy.",
+    "durationMs": 733
+  },
+  {
+    "timestamp": "2025-08-11T17:07:40.183Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Hello Mohan Krishna Reddy, this is Sameer. ",
+    "output": "हैलो मोहन कृष्ण रेड्डी, यह समीर है",
+    "durationMs": 814
+  },
+  {
+    "timestamp": "2025-08-11T17:07:52.150Z",
+    "source": "hi",
+    "target": "en",
+    "input": "मैं अपना पासवर्ड भूल गया ",
+    "output": "I forgot my password",
+    "durationMs": 432
+  },
+  {
+    "timestamp": "2025-08-11T17:08:02.302Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Need to verify your identity. ",
+    "output": "अपनी identity सत्यापित करने की आवश्यकता है",
+    "durationMs": 754
+  },
+  {
+    "timestamp": "2025-08-11T17:08:17.378Z",
+    "source": "hi",
+    "target": "en",
+    "input": "आज इंटरनेट कनेक्शन बहुत धीमा है ",
+    "output": "internet connections are very slow today.",
+    "durationMs": 601
+  },
+  {
+    "timestamp": "2025-08-11T17:08:30.398Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Oh OK, sorry to hear that. I'll check if there's any issue with the network. ",
+    "output": "ओह ठीक है, सुनने के लिए खेद है कि मैं जाँच करेंगे अगर वहाँ network के साथ किसी भी समस्या है",
+    "durationMs": 1816
+  },
+  {
+    "timestamp": "2025-08-11T17:08:50.105Z",
+    "source": "hi",
+    "target": "en",
+    "input": "मैं चेक करुंगी कि नेटवर्क में कोई समस्त तो नहीं है ",
+    "output": "I 'm going to check if there 's any consistency in the network",
+    "durationMs": 967
+  },
+  {
+    "timestamp": "2025-08-11T17:09:09.067Z",
+    "source": "en",
+    "target": "hi",
+    "input": "OK Mohan try to switch the network OK then you may get the good bandwidth. ",
+    "output": "ठीक है मोहन network स्विच करने की कोशिश करें ठीक है तो आपको अच्छा bandwidth मिल सकता है",
+    "durationMs": 1636
+  },
+  {
+    "timestamp": "2025-08-11T17:09:30.217Z",
+    "source": "en",
+    "target": "hi",
+    "input": "We need to check the translation time. So not after. We need after English sentence comes, we need to check how much time it's taking to generate this sentence. It's 1.5 to 2 that's. ",
+    "output": "हम अनुवाद time की जाँच करने की जरूरत है तो बाद में नहीं हम अंग्रेजी वाक्य के बाद की जरूरत है, हम यह जांच करने की जरूरत है कितना time यह इस वाक्य उत्पन्न करने के लिए ले रहा है यह 1 है 5 से 2 यह है",
+    "durationMs": 3393
+  },
+  {
+    "timestamp": "2025-08-11T17:09:30.786Z",
+    "source": "hi",
+    "target": "en",
+    "input": "मेरा कंप्यूटर आज बहुत चल रहा नहीं है हो रहा है ",
+    "output": "My computer is not running very well today",
+    "durationMs": 2313
+  },
+  {
+    "timestamp": "2025-08-12T16:40:36.963Z",
+    "source": "hi",
+    "target": "en",
+    "input": "कैन यू दो ऑन हेल्प ",
+    "output": "Can You Do On help",
+    "durationMs": 1849
+  },
+  {
+    "timestamp": "2025-08-12T16:40:42.032Z",
+    "source": "hi",
+    "target": "en",
+    "input": "हाउ मान्य स्क्रीन्स यू अरे ओपनिंग द स्टिल नॉट होस्टेड इन थे सर्वर नो ओके ",
+    "output": "How are you opening the Stille not hOSted on that server no ok",
+    "durationMs": 1033
+  },
+  {
+    "timestamp": "2025-08-12T16:40:55.591Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Hello, uh, how can I help you today? ",
+    "output": "हैलो, उह, मैं आप आज कैसे मदद कर सकते हैं",
+    "durationMs": 735
+  },
+  {
+    "timestamp": "2025-08-12T16:40:57.294Z",
+    "source": "hi",
+    "target": "en",
+    "input": "यू वही डॉन'टी यू टॉक समथिंग ऑन आई एम टॉकिंग ",
+    "output": "You don't want to talk about something I'm talking about.",
+    "durationMs": 812
+  },
+  {
+    "timestamp": "2025-08-12T16:41:04.587Z",
+    "source": "hi",
+    "target": "en",
+    "input": "टेकिंग यू हैव टू स्पीक इन हिंदी ",
+    "output": "Taking You Have to Speak in Hindi",
+    "durationMs": 500
+  },
+  {
+    "timestamp": "2025-08-12T16:41:08.050Z",
+    "source": "hi",
+    "target": "en",
+    "input": "बट अलसो आईटी इस ओके ",
+    "output": "But also it's this okay",
+    "durationMs": 518
+  },
+  {
+    "timestamp": "2025-08-12T16:41:14.430Z",
+    "source": "hi",
+    "target": "en",
+    "input": "अच्छा आज क्या बात करना है मेरा लैपटॉप तो नहीं चल रहा है ",
+    "output": "I'm going to talk about today, but my lAPTop is not working.",
+    "durationMs": 787
+  },
+  {
+    "timestamp": "2025-08-12T16:41:29.052Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Oh, I'm sorry to hear that. Uh, how? How may I help you today? ",
+    "output": "ओह, मैं सुनने के लिए खेद है कि उह, कैसे मैं आज आपकी कैसे मदद कर सकता हूँ?",
+    "durationMs": 1470
+  },
+  {
+    "timestamp": "2025-08-12T16:41:36.443Z",
+    "source": "hi",
+    "target": "en",
+    "input": "क्यों लैपटॉप का नाम थोड़ा ऊपर नीचे आ रहा है ",
+    "output": "Some lAPTop names are coming up a little bit.",
+    "durationMs": 562
+  },
+  {
+    "timestamp": "2025-08-12T16:41:51.168Z",
+    "source": "hi",
+    "target": "en",
+    "input": "वह मेरा लैपटॉप काम नहीं कर रहा है इसलिए मैं आपको बुलाया था ",
+    "output": "He's not working my lAPTop so I called you",
+    "durationMs": 650
+  },
+  {
+    "timestamp": "2025-08-12T16:41:51.688Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Oh, can you please come up again? ",
+    "output": "ओह, आप कृपया फिर से ऊपर आ सकते हैं",
+    "durationMs": 823
+  },
+  {
+    "timestamp": "2025-08-12T16:42:02.444Z",
+    "source": "hi",
+    "target": "en",
+    "input": "किधर आना है ",
+    "output": "Where to come",
+    "durationMs": 274
+  },
+  {
+    "timestamp": "2025-08-12T16:42:06.039Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Oh OK, May I know where where is the uh, issue coming from? Is it from? ",
+    "output": "ओह ठीक है, मुझे पता है कि कहाँ कहाँ से उह, मुद्दा आ रहा है क्या यह",
+    "durationMs": 1135
+  },
+  {
+    "timestamp": "2025-08-12T16:42:32.241Z",
+    "source": "hi",
+    "target": "en",
+    "input": "जब भी मेरा लैपटॉप खोलता हूं वह कुछ नहीं चला सिर्फ मेरा मौसी माउस का कर्सर घूमता रहता है ",
+    "output": "Every time I turn on my lAPTop, it doesn't work, only my MOUse cursor keeps spinning.",
+    "durationMs": 1086
+  },
+  {
+    "timestamp": "2025-08-12T16:42:46.789Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Oh, OK. ",
+    "output": "ओह, ठीक है",
+    "durationMs": 315
+  },
+  {
+    "timestamp": "2025-08-12T16:42:53.333Z",
+    "source": "en",
+    "target": "hi",
+    "input": "OK, let's try restarting the computer. ",
+    "output": "ठीक है, चलो कंप्यूटर को पुनरारंभ करने की कोशिश करते हैं",
+    "durationMs": 696
+  },
+  {
+    "timestamp": "2025-08-12T16:42:57.672Z",
+    "source": "hi",
+    "target": "en",
+    "input": "ओके आई थिंक सो थेरे इस ",
+    "output": "OK I thought so there's this",
+    "durationMs": 503
+  },
+  {
+    "timestamp": "2025-08-12T16:43:22.461Z",
+    "source": "hi",
+    "target": "en",
+    "input": "सम पुणे अराउंड नोबडी विल अंडरस्टैंड यू हाउ टू चेंज कीप आईटी स रीस्टार्ट ऑन ओके द थिंग्स शो इट इस इट इस मेनेजेबल नो इट इस नॉट लाइक प्रीवियसली एंड आईएफ यू गेट आईटी ओं तो थे सर्वर आईटी विल बे मच फास्टर विल स्टॉप द ट्रांसलेशन यार विल स्टॉप थे डेमों ",
+    "output": "Sam Pune Around Nobody Will Understand You How To Change Keep It from RESTarting On Ok The Things Show It Is It Is Manageable No It Is Not Like Seriously And If You Get It They Were servers It Will Be Much Faster Will Stop The TranSLAtion You Will Stop The Demons",
+    "durationMs": 2764
+  },
+  {
+    "timestamp": "2025-08-12T16:43:32.028Z",
+    "source": "hi",
+    "target": "en",
+    "input": "कम बैक ",
+    "output": "low back",
+    "durationMs": 253
+  },
+  {
+    "timestamp": "2025-08-19T16:58:07.694Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Running This is running from the AT service service desk. How may I help you today? ",
+    "output": "चल रहा है यह एटी सेवा सेवा डेस्क से चल रहा है मैं आज आपकी कैसे मदद कर सकता हूँ?",
+    "durationMs": 2623
+  },
+  {
+    "timestamp": "2025-08-19T16:58:32.999Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Is that teams for teams? ",
+    "output": "क्या यह teamों के लिए team है",
+    "durationMs": 526
+  },
+  {
+    "timestamp": "2025-08-19T16:58:50.578Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Sunny from the 87 desk, how may I help you today? ",
+    "output": "87 डेस्क से सनी, मैं आज आपकी मदद कैसे कर सकता हूँ",
+    "durationMs": 880
+  },
+  {
+    "timestamp": "2025-08-19T16:59:05.576Z",
+    "source": "en",
+    "target": "hi",
+    "input": "If there are laptops from Nahi Hora Hai. ",
+    "output": "अगर नाही होरा है के लैपटॉप हैं",
+    "durationMs": 637
+  },
+  {
+    "timestamp": "2025-08-19T16:59:06.025Z",
+    "source": "hi",
+    "target": "en",
+    "input": "मेरा लैपटॉप काम नहीं हो रहा है ",
+    "output": "My lAPTop is not working",
+    "durationMs": 1050
+  },
+  {
+    "timestamp": "2025-08-19T16:59:55.763Z",
+    "source": "en",
+    "target": "hi",
+    "input": "OK, send it over on Monday. Tomorrow is on the issue. ",
+    "output": "ठीक है, इसे सोमवार को भेजें कल इस मुद्दे पर है",
+    "durationMs": 976
+  },
+  {
+    "timestamp": "2025-08-19T16:59:59.429Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Spanish would be, well, Spanish are my fellow names. ",
+    "output": "स्पेनिश होगा, ठीक है, स्पेनिश मेरे fellow नाम हैं",
+    "durationMs": 1075
+  },
+  {
+    "timestamp": "2025-08-19T17:00:25.398Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Yeah, sorry, Pradeep, What do you want me to do? You want me to read this? Oh yeah. See. ",
+    "output": "हाँ, apology करें, प्रदीप, तुम मुझे क्या करना चाहते हो आप मुझे यह पढ़ने के लिए चाहते हैं ओह हाँ देखें",
+    "durationMs": 2376
+  },
+  {
+    "timestamp": "2025-08-19T17:00:42.341Z",
+    "source": "en",
+    "target": "hi",
+    "input": "I just couldn't. Will it work in Tamil? No, Tamil language is not not this. ",
+    "output": "मैं बस नहीं कर सका क्या यह तमिल में job करेगा? नहीं, तमिल language यह नहीं है",
+    "durationMs": 1639
+  },
+  {
+    "timestamp": "2025-08-19T17:01:00.201Z",
+    "source": "en",
+    "target": "hi",
+    "input": "'Cause I'm not a native speaker. OK, the problem will cause his leg. It will be like well mediated and well planned testing. But the testing shouldn't be that way, right? We need some native speaker who can speak something on his or her own. ",
+    "output": "'क्योंकि मैं एक देशी वक्ता नहीं हूँ ठीक है, समस्या उसके पैर का कारण होगा यह अच्छी तरह से मध्यस्थता और अच्छी तरह से नियोजित test की तरह होगा लेकिन test इस तरह से नहीं होना चाहिए, सही हमें किसी ऐसे मूल वक्ता की आवश्यकता है जो अपने लिए कुछ बोल सके",
+    "durationMs": 3796
+  },
+  {
+    "timestamp": "2025-08-19T17:01:12.250Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Who can speak Hindi here? I can speak. I can read this. I can speak Hindi. You can speak. OK, then I'll take role of agent. OK. You don't have to follow the script. ",
+    "output": "यहाँ कौन हिंदी बोल सकता है? मैं बोल सकता हूँ मैं इसे पढ़ सकता हूँ मैं हिंदी बोल सकता हूँ आप बोल सकते हैं ठीक है, तो मैं agent की rolematrix ले जाएगा ठीक है आप script का पालन करने के लिए नहीं है",
+    "durationMs": 3724
+  },
+  {
+    "timestamp": "2025-08-19T17:01:25.414Z",
+    "source": "en",
+    "target": "hi",
+    "input": "You don't have to follow the script and you can speak whatever you want. You know what you're speaking now, just check whether you're getting the right transcript, OK? We'll just manage, OK. ",
+    "output": "आपको script का पालन करने की आवश्यकता नहीं है और आप जो चाहें कह सकते हैं आप जानते हैं कि आप क्या बात कर रहे हैं अब, बस जाँच करें कि क्या आप सही copy प्राप्त कर रहे हैं, ठीक है हम बस संभाल लेंगे, ठीक है",
+    "durationMs": 2881
+  },
+  {
+    "timestamp": "2025-08-19T17:01:42.616Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Telugu will look no no only Hindi in the Indian language and another language. Oh yeah NL we have 200 more 2 plus language support right? Only some languages are good other language access will be way off year. If you mention it no one will use it. OK. ",
+    "output": "तेलुगु भारतीय language और अन्य languageओं में केवल हिंदी की तरह दिखेगा ओह हाँ एनएल हम 200 अधिक 2 प्लस language backup सही केवल कुछ languageएं अच्छी हैं अन्य languageओं तक reach वर्ष से दूर होगी यदि आप इसका mention करते हैं तो कोई भी इसका उपयोग नहीं करेगा ठीक है",
+    "durationMs": 3351
+  },
+  {
+    "timestamp": "2025-08-19T17:01:42.991Z",
+    "source": "en",
+    "target": "hi",
+    "input": "OK, Yeah. ",
+    "output": "ठीक है, हाँ",
+    "durationMs": 917
+  },
+  {
+    "timestamp": "2025-08-19T17:01:46.589Z",
+    "source": "en",
+    "target": "hi",
+    "input": "You can. I'll call you in the teams, OK. ",
+    "output": "आप कर सकते हैं मैं आपको teamों में बुलाऊंगा, ठीक है",
+    "durationMs": 1084
+  },
+  {
+    "timestamp": "2025-08-19T17:02:06.579Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Let's just bring it when everybody's at home today, I don't want to go to. ",
+    "output": "चलो बस यह लाओ जब सभी आज घर पर हैं, मैं नहीं जाना चाहता",
+    "durationMs": 834
+  },
+  {
+    "timestamp": "2025-08-19T17:02:56.135Z",
+    "source": "en",
+    "target": "hi",
+    "input": "I'll try to change it with. I'll show you. I'll check it. ",
+    "output": "मैं इसे बदलने की कोशिश करेंगे मैं तुम्हें दिखाऊंगा मैं यह जाँच करेंगे",
+    "durationMs": 1149
+  },
+  {
+    "timestamp": "2025-08-19T17:03:01.064Z",
+    "source": "en",
+    "target": "hi",
+    "input": "OK. ",
+    "output": "ठीक है",
+    "durationMs": 289
+  },
+  {
+    "timestamp": "2025-08-19T17:03:26.311Z",
+    "source": "en",
+    "target": "hi",
+    "input": "There's no one. There's no one. There's no one. ",
+    "output": "वहाँ कोई नहीं है वहाँ कोई नहीं है वहाँ कोई नहीं है",
+    "durationMs": 1002
+  },
+  {
+    "timestamp": "2025-08-19T17:03:35.737Z",
+    "source": "hi",
+    "target": "en",
+    "input": "ही हनी ",
+    "output": "honey",
+    "durationMs": 255
+  },
+  {
+    "timestamp": "2025-08-19T17:03:40.532Z",
+    "source": "hi",
+    "target": "en",
+    "input": "हेलो ",
+    "output": "hello",
+    "durationMs": 280
+  },
+  {
+    "timestamp": "2025-08-19T17:03:47.873Z",
+    "source": "hi",
+    "target": "en",
+    "input": "हनी ऑडिबल ",
+    "output": "Honey is audible",
+    "durationMs": 1537
+  },
+  {
+    "timestamp": "2025-08-19T17:03:47.886Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Yeah, I don't. You don't read. You interns don't have the tech point. ",
+    "output": "हाँ, मैं नहीं तुम नहीं पढ़ते आप internों तकनीकी बिंदु नहीं है",
+    "durationMs": 1548
+  },
+  {
+    "timestamp": "2025-08-19T17:03:53.069Z",
+    "source": "hi",
+    "target": "en",
+    "input": "हेलो ",
+    "output": "hello",
+    "durationMs": 239
+  },
+  {
+    "timestamp": "2025-08-19T17:03:54.273Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Yeah, it is audible. ",
+    "output": "हाँ, यह सुनने योग्य है",
+    "durationMs": 447
+  },
+  {
+    "timestamp": "2025-08-19T17:04:05.396Z",
+    "source": "hi",
+    "target": "en",
+    "input": "शाल वे स्टार्ट ",
+    "output": "shal way satart",
+    "durationMs": 359
+  },
+  {
+    "timestamp": "2025-08-19T17:04:16.374Z",
+    "source": "hi",
+    "target": "en",
+    "input": "गुड मॉर्निंग दिस इस राहुल फ्रॉम आईटी सर्विस टेस्ट हाउ कैन आई हेल्प यू ",
+    "output": "Good morning this is Rahul from IT Service test How Can I help You",
+    "durationMs": 780
+  },
+  {
+    "timestamp": "2025-08-19T17:04:17.581Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Yaham loop start kar sakte hai. ",
+    "output": "यहाम loop स्टार्ट कर सक्त है",
+    "durationMs": 596
+  },
+  {
+    "timestamp": "2025-08-19T17:04:46.749Z",
+    "source": "en",
+    "target": "hi",
+    "input": "I want to hear what you speak in English. You want to hear what I speak in Hindi, right? Why am I hearing everything in Hindi? ",
+    "output": "मैं आप अंग्रेजी में क्या बोलते हैं सुनना चाहते हैं आप सुनना चाहते हैं कि मैं हिंदी में क्या बोलता हूं, है ना? क्यों मैं सब कुछ हिंदी में सुन रहा हूँ",
+    "durationMs": 2021
+  },
+  {
+    "timestamp": "2025-08-19T17:04:48.077Z",
+    "source": "hi",
+    "target": "en",
+    "input": "आई वांट टू हियर व्हाट यू स्पीक इन इंग्लिश ओनली यू वांट टू हियर व्हाट आई स्पीक इन हिंदी राइट व्हाय एम आई हियरिंग एवरीथिंग इन हिंदी ",
+    "output": "I Want to Hear What You Speak in English Only You Want to Hear What I Speak in Hindi Right What I Hear Everything in Hindi",
+    "durationMs": 3307
+  },
+  {
+    "timestamp": "2025-08-19T17:04:50.017Z",
+    "source": "en",
+    "target": "hi",
+    "input": "But ordination systems can be able to provide. ",
+    "output": "लेकिन अभिषेक प्रणाली प्रदान करने में सक्षम हो सकते हैं",
+    "durationMs": 652
+  },
+  {
+    "timestamp": "2025-08-19T17:05:13.129Z",
+    "source": "en",
+    "target": "hi",
+    "input": "I'm the I'm the agent. OK, OK, this is 0. I'm the agent now. OK, so I'll be speaking English only. So you want to hear in your native language? Yeah, it is for customer. OK, So what I speak you should receive in company, but I'm hearing it in Hindi in my system. ",
+    "output": "मैं agent हूँ ठीक है, ठीक है, यह 0 है मैं agent अब हूँ ठीक है, तो मैं केवल अंग्रेजी बात करेंगे तो आप अपनी मातृlanguage में सुनना चाहते हैं हाँ, यह ग्राहक के लिए है ठीक है, तो मैं क्या बात करते हैं आप कंपनी में प्राप्त करना चाहिए, लेकिन मैं यह मेरे system में हिंदी में सुन रहा हूँ",
+    "durationMs": 6016
+  },
+  {
+    "timestamp": "2025-08-19T17:05:13.140Z",
+    "source": "hi",
+    "target": "en",
+    "input": "ओके दिस इस जीरो आई एम द एजेंट नो ओके सो आई विल बी स्पीकिंग इन इंग्लिश ओनली सो यू वांट टू हियर एंड यू आर नेटिव लैंग्वेज आईटी इस पर कस्टमर ओके सो व्हाट आई स्पीक यू शोल्ड रिसीव इन हिंदी बट आई एम हियरिंग आईटी इन हिंदी में माय सिस्टम ",
+    "output": "OK this zero I am the agent no OK so I will be speaking in English only so you want to hear and your native language IT on this customer OK so what I speak you should receive in Hindi but I am hearing IT in my Hindi system",
+    "durationMs": 6025
+  },
+  {
+    "timestamp": "2025-08-19T17:05:13.541Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Input. ",
+    "output": "इनपुट",
+    "durationMs": 242
+  },
+  {
+    "timestamp": "2025-08-19T17:12:07.268Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Call. Call to. ",
+    "output": "कॉल करें कॉल करें",
+    "durationMs": 502
+  },
+  {
+    "timestamp": "2025-08-19T17:12:30.211Z",
+    "source": "en",
+    "target": "hi",
+    "input": "That kind of got his hair with us and his wings and the most difficult. ",
+    "output": "कि तरह के हमारे साथ उसके बाल और उसके पंख और सबसे मुश्किल",
+    "durationMs": 767
+  },
+  {
+    "timestamp": "2025-08-19T17:13:14.964Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Hey, Cortana. ",
+    "output": "हाय, कॉर्टाना",
+    "durationMs": 403
+  },
+  {
+    "timestamp": "2025-08-19T17:13:39.763Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Hi, good morning. This is Rahul from IT service Desk. How can I help you? ",
+    "output": "हाय, सुप्रभात यह आईटी सेवा डेस्क से राहुल है मैं आपकी कैसे मदद कर सकता हूँ?",
+    "durationMs": 1514
+  },
+  {
+    "timestamp": "2025-08-19T17:14:31.561Z",
+    "source": "en",
+    "target": "hi",
+    "input": "That will be used in the current instead of calls. Hi, good morning. This is Rahul from IT service desk. How can I help you? ",
+    "output": "कि कॉल के बजाय वर्तमान में इस्तेमाल किया जाएगा हाय, सुप्रभात यह आईटी सेवा डेस्क से राहुल है मैं आपकी कैसे मदद कर सकता हूँ?",
+    "durationMs": 1978
+  },
+  {
+    "timestamp": "2025-08-19T17:14:50.250Z",
+    "source": "en",
+    "target": "hi",
+    "input": "This key notice what URL is. ",
+    "output": "यह कुंजी बताता है कि URL क्या है",
+    "durationMs": 591
+  },
+  {
+    "timestamp": "2025-08-19T17:14:54.742Z",
+    "source": "en",
+    "target": "hi",
+    "input": "I'm sorry. ",
+    "output": "मुझे खेद है",
+    "durationMs": 323
+  },
+  {
+    "timestamp": "2025-08-19T17:15:10.329Z",
+    "source": "en",
+    "target": "hi",
+    "input": "I'm sorry to hear that. May I know since when you've been facing this issue? ",
+    "output": "मैं सुनने के लिए खेद है मुझे पता है जब से आप इस मुद्दे का सामना कर रहे हैं",
+    "durationMs": 1185
+  },
+  {
+    "timestamp": "2025-08-19T17:16:37.899Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Morning, this is Rahul from IT service Desk. How can I help you? ",
+    "output": "सुप्रभात, यह आईटी सेवा डेस्क से राहुल है मैं आपकी कैसे मदद कर सकता हूँ?",
+    "durationMs": 1266
+  },
+  {
+    "timestamp": "2025-08-19T17:16:39.065Z",
+    "source": "hi",
+    "target": "en",
+    "input": "उसे वीडियो क्लिप ",
+    "output": "her vIDEo clip",
+    "durationMs": 326
+  },
+  {
+    "timestamp": "2025-08-19T17:16:41.856Z",
+    "source": "hi",
+    "target": "en",
+    "input": "हमारी ",
+    "output": "our",
+    "durationMs": 240
+  },
+  {
+    "timestamp": "2025-08-19T17:16:56.542Z",
+    "source": "hi",
+    "target": "en",
+    "input": "स्लो चल रहा है आज सुबह से कोई काम ठीक से नहीं हो रहा है ",
+    "output": "Salo is running. Nothing has been working properly since this morning.",
+    "durationMs": 717
+  },
+  {
+    "timestamp": "2025-08-19T17:17:11.306Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Oh I'm sorry to hear that. May I know what is your issue? ",
+    "output": "ओह मुझे यह सुनने के लिए खेद है क्या मैं जान सकता हूँ कि आपकी समस्या क्या है?",
+    "durationMs": 1161
+  },
+  {
+    "timestamp": "2025-08-19T17:17:31.634Z",
+    "source": "hi",
+    "target": "en",
+    "input": "सुबह 9:00 बजे की प्रॉब्लम शुरू हो गई थी जब मैं लैपटॉप ऑन किया तो बहुत झूठ बोलने में 10 मिनट लग गए ",
+    "output": "The 9:00 a.m. puzzle had begun, and when I turned on the lAPTop, it took me 10 minutes to tell a lot of lies.",
+    "durationMs": 1535
+  },
+  {
+    "timestamp": "2025-08-19T17:17:52.888Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Sorry I couldn't understand properly. Can you please elaborate? ",
+    "output": "apology करें मैं ठीक से समझ में नहीं आया क्या आप extension से बता सकते हैं",
+    "durationMs": 1034
+  },
+  {
+    "timestamp": "2025-08-19T17:17:53.834Z",
+    "source": "en",
+    "target": "hi",
+    "input": "That's a told lot of lies. ",
+    "output": "यह झूठ का एक बहुत कहा",
+    "durationMs": 389
+  },
+  {
+    "timestamp": "2025-08-19T17:18:15.422Z",
+    "source": "hi",
+    "target": "en",
+    "input": "क्या मैं सुबह 9:00 बजे लैपटॉप अच्छा होने में 10 मिनट लग गए हैं इसलिए मैं लैपटॉप नहीं होगा ऑन हो रहा है ",
+    "output": "Did it take me 10 minutes to turn my lAPTop off at 9:00 a.m. so I won 't turn my lAPTop on",
+    "durationMs": 1348
+  },
+  {
+    "timestamp": "2025-08-19T17:18:35.405Z",
+    "source": "en",
+    "target": "hi",
+    "input": "No, translation is not good. ",
+    "output": "नहीं, अनुवाद अच्छा नहीं है",
+    "durationMs": 422
+  },
+  {
+    "timestamp": "2025-08-19T17:18:39.015Z",
+    "source": "en",
+    "target": "hi",
+    "input": "OK. ",
+    "output": "ठीक है",
+    "durationMs": 285
+  },
+  {
+    "timestamp": "2025-08-19T17:18:39.511Z",
+    "source": "hi",
+    "target": "en",
+    "input": "स्टेशन स्मार्ट बिज़नेस ",
+    "output": "station smart business",
+    "durationMs": 306
+  },
+  {
+    "timestamp": "2025-08-19T17:18:57.235Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Subha 9 VC EAI problem shir ho Gaya laptop on kyatu boot hone me the minute lag Gaye. ",
+    "output": "Subha 9 वीसी ईएआई समस्या shir हो Gaya लैपटॉप पर kyatu बूट हॉन मुझे minutes लेग Gaye",
+    "durationMs": 1261
+  },
+  {
+    "timestamp": "2025-08-19T17:18:58.087Z",
+    "source": "hi",
+    "target": "en",
+    "input": "की प्रॉब्लम शुरू हो गई थी जब मेरे लैपटॉप ऑन किया तो भूत होने में ही 10 मिनट लग गई है ",
+    "output": "When I turned on my lAPTop, it took me 10 minutes to become a ghOSt.",
+    "durationMs": 1304
+  },
+  {
+    "timestamp": "2025-08-19T17:19:14.140Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Become a ghost. ",
+    "output": "एक भूत बन जाओ",
+    "durationMs": 324
+  },
+  {
+    "timestamp": "2025-08-19T17:19:29.431Z",
+    "source": "en",
+    "target": "hi",
+    "input": "I'm going to tell you something that is not the problem. Mike is not working, so that's not an issue, so. ",
+    "output": "मैं तुम्हें कुछ कहना जा रहा हूँ कि समस्या नहीं है माइक job नहीं कर रहा है, तो यह एक मुद्दा नहीं है, तो",
+    "durationMs": 1449
+  },
+  {
+    "timestamp": "2025-08-19T17:19:39.887Z",
+    "source": "en",
+    "target": "hi",
+    "input": "1-2 differences. No, basically 1 is in Hindi. That's that's coming, yeah. ",
+    "output": "1-2 gap नहीं, मूल रूप से 1 हिंदी में है यह कि आ रहा है, हाँ",
+    "durationMs": 1332
+  },
+  {
+    "timestamp": "2025-08-19T17:19:55.604Z",
+    "source": "hi",
+    "target": "en",
+    "input": "करेक्ट राइट ",
+    "output": "cut right",
+    "durationMs": 240
+  },
+  {
+    "timestamp": "2025-08-19T17:20:00.275Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Yeah, I understand that, but while user and agent we can't expect a customer to be so correct, right? See, there is a difference between. ",
+    "output": "हाँ, मैं समझता हूँ कि, लेकिन जबकि user और agent हम एक ग्राहक इतना सही होने की उम्मीद नहीं कर सकते, सही देखते हैं, वहाँ के बीच एक gap है",
+    "durationMs": 1799
+  },
+  {
+    "timestamp": "2025-08-19T17:20:10.121Z",
+    "source": "hi",
+    "target": "en",
+    "input": "नो ",
+    "output": "not",
+    "durationMs": 236
+  },
+  {
+    "timestamp": "2025-08-19T17:20:14.488Z",
+    "source": "en",
+    "target": "hi",
+    "input": "I know when I spoke, if I know Hindi, I don't speak good instead of boot. That is the problem. OK, try some other sentence one more time. I'll speak boot and see what will happen. ",
+    "output": "मुझे पता है जब मैंने बात की, अगर मैं हिंदी जानता हूं, तो मैं बूट के बजाय अच्छी तरह से नहीं बोलता यही समस्या है ठीक है, कुछ अन्य वाक्य एक बार और कोशिश मैं बोट बात करेंगे और देखते हैं कि क्या होगा",
+    "durationMs": 2659
+  },
+  {
+    "timestamp": "2025-08-19T17:20:16.124Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Laptop. ",
+    "output": "लैपटॉप",
+    "durationMs": 319
+  },
+  {
+    "timestamp": "2025-08-19T17:20:45.319Z",
+    "source": "en",
+    "target": "hi",
+    "input": "In a laptop on Kyoto boot. Honey me this minute lag Gaye. ",
+    "output": "क्योटो बूट पर एक लैपटॉप में प्रिय मुझे इस minutes लेग Gaye",
+    "durationMs": 1021
+  },
+  {
+    "timestamp": "2025-08-19T17:20:46.185Z",
+    "source": "hi",
+    "target": "en",
+    "input": "जब मैं लैपटॉप काम किया तो भूत होने में 10 मिनट लग गई है ",
+    "output": "When I worked on my lAPTop, it took me 10 minutes to become a ghOSt.",
+    "durationMs": 1525
+  },
+  {
+    "timestamp": "2025-08-19T17:20:55.731Z",
+    "source": "hi",
+    "target": "en",
+    "input": "दोस्त ",
+    "output": "friendship",
+    "durationMs": 249
+  },
+  {
+    "timestamp": "2025-08-19T17:21:10.777Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Can you continue? ",
+    "output": "क्या आप जारी रख सकते हैं",
+    "durationMs": 397
+  },
+  {
+    "timestamp": "2025-08-19T17:21:25.039Z",
+    "source": "en",
+    "target": "hi",
+    "input": "I know proper English on the constraint, but I worry about it. OK, let's continue. ",
+    "output": "मैं प्रतिबंध पर उचित अंग्रेजी पता है, लेकिन मैं इसके बारे में चिंता ठीक है, चलो जारी है",
+    "durationMs": 1239
+  },
+  {
+    "timestamp": "2025-08-19T17:21:25.318Z",
+    "source": "hi",
+    "target": "en",
+    "input": "ओ ",
+    "output": "O",
+    "durationMs": 1377
+  },
+  {
+    "timestamp": "2025-08-19T17:21:40.899Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Understand can I remotely access your system to check the performance? ",
+    "output": "समझ सकते हैं मैं दूरस्थ रूप से अपने system का उपयोग प्रदर्शन की जांच करने के लिए",
+    "durationMs": 890
+  },
+  {
+    "timestamp": "2025-08-19T17:22:14.386Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Should I say ID? No no, once again, whenever you want the mic just do it by one second because ASR needs to understand whether you are speaking or not, that's the problem. Got it. Are you connected to office network or using any VPN? ",
+    "output": "क्या मैं IDS कहना चाहिए नहीं, नहीं, एक बार फिर से, जब भी आप चाहते हैं माइक्रोफ़ोन बस एक सेकंड के लिए ऐसा करते हैं क्योंकि एएसआर समझने की जरूरत है कि क्या आप बात कर रहे हैं या नहीं, कि समस्या है मिल गया क्या आप कार्यालय network से जुड़े हैं या किसी VPN का उपयोग कर रहे हैं",
+    "durationMs": 3433
+  },
+  {
+    "timestamp": "2025-08-19T17:22:56.770Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Basically those of neighbors. ",
+    "output": "मूलतः पड़ोसियों के",
+    "durationMs": 399
+  },
+  {
+    "timestamp": "2025-08-19T17:22:58.714Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Status label. ",
+    "output": "स्थिति लेबल",
+    "durationMs": 313
+  },
+  {
+    "timestamp": "2025-08-19T17:23:07.941Z",
+    "source": "en",
+    "target": "hi",
+    "input": "What I spoke was not OK, but that is also there. But why have we not got the output? ",
+    "output": "मैंने जो कहा वह ठीक नहीं था, लेकिन यह भी वहां है लेकिन हमें output क्यों नहीं मिला है",
+    "durationMs": 1232
+  },
+  {
+    "timestamp": "2025-08-19T17:23:15.214Z",
+    "source": "en",
+    "target": "hi",
+    "input": "I'm missing the speaker. My speaker. You do it. ",
+    "output": "मैं speaker याद आ रही है मेरा speaker आप इसे करते हैं",
+    "durationMs": 1067
+  },
+  {
+    "timestamp": "2025-08-19T17:23:18.695Z",
+    "source": "en",
+    "target": "hi",
+    "input": "But before that, you hear right? ",
+    "output": "लेकिन इससे initiativeे, आप सही सुना",
+    "durationMs": 430
+  },
+  {
+    "timestamp": "2025-08-19T17:23:22.424Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Yeah, yeah, Something like. ",
+    "output": "हाँ, हाँ, कुछ इस तरह",
+    "durationMs": 411
+  },
+  {
+    "timestamp": "2025-08-19T17:23:29.211Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Speaker system. Speaker only. ",
+    "output": "speaker प्रणाली केवल speaker",
+    "durationMs": 591
+  },
+  {
+    "timestamp": "2025-08-19T17:24:47.110Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Give me one minute, OK? ",
+    "output": "मुझे एक minutes दो, ठीक है",
+    "durationMs": 475
+  },
+  {
+    "timestamp": "2025-08-19T17:24:52.962Z",
+    "source": "en",
+    "target": "hi",
+    "input": "No. ",
+    "output": "नहीं",
+    "durationMs": 243
+  },
+  {
+    "timestamp": "2025-08-19T17:24:57.979Z",
+    "source": "en",
+    "target": "hi",
+    "input": "The speaker only made to change the. ",
+    "output": "speaker ने केवल",
+    "durationMs": 434
+  },
+  {
+    "timestamp": "2025-08-19T17:25:29.658Z",
+    "source": "en",
+    "target": "hi",
+    "input": "When we should have to keep touching additional church? ",
+    "output": "जब हमें अतिरिक्त variable्च को छूते रहना चाहिए",
+    "durationMs": 550
+  },
+  {
+    "timestamp": "2025-08-19T17:25:50.661Z",
+    "source": "en",
+    "target": "hi",
+    "input": "He would work pro properly to work on. That is because of whatever we spoke because of. ",
+    "output": "वह पर job करने के लिए उचित रूप से professional job करेंगे यही कारण है कि जो कुछ भी हम बात की वजह से",
+    "durationMs": 1266
+  },
+  {
+    "timestamp": "2025-08-19T17:25:54.827Z",
+    "source": "en",
+    "target": "hi",
+    "input": "There is a change in speaking virtually and what we are speaking because of that only. ",
+    "output": "आभासी रूप से बोलने में बदलाव आ रहा है और हम जो बोल रहे हैं वह सिर्फ इसी वजह से है",
+    "durationMs": 1098
+  },
+  {
+    "timestamp": "2025-08-19T17:26:05.714Z",
+    "source": "en",
+    "target": "hi",
+    "input": "The transcript was taken from Charges Vidya. ",
+    "output": "ट्रान्सक्रिप्ट चार्ज्स विद्या से लिया गया था",
+    "durationMs": 664
+  },
+  {
+    "timestamp": "2025-08-19T17:26:16.065Z",
+    "source": "en",
+    "target": "hi",
+    "input": "OK. ",
+    "output": "ठीक है",
+    "durationMs": 279
+  },
+  {
+    "timestamp": "2025-08-19T17:50:15.762Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Skype, how may I help you today? ",
+    "output": "स्काइप, मैं आज आपकी मदद कैसे कर सकता हूँ?",
+    "durationMs": 1648
+  },
+  {
+    "timestamp": "2025-08-19T17:50:47.465Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Hello Mohit, this is Sarush Desky. How may I help you today? ",
+    "output": "हैलो मोहित, यह सरुश डेस्की है मैं आज आपकी कैसे मदद कर सकता हूँ?",
+    "durationMs": 1111
+  },
+  {
+    "timestamp": "2025-08-19T17:51:38.283Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Hello Mohit, how may I help you today? ",
+    "output": "हैलो मोहित, मैं आज आपकी कैसे मदद कर सकता हूं?",
+    "durationMs": 677
+  },
+  {
+    "timestamp": "2025-08-19T17:52:22.600Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Yes. Mm-hmm. ",
+    "output": "हाँ म-हम्म",
+    "durationMs": 524
+  },
+  {
+    "timestamp": "2025-08-19T17:52:30.631Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Namit, good morning. ",
+    "output": "नमित, सुप्रभात",
+    "durationMs": 442
+  },
+  {
+    "timestamp": "2025-08-19T17:52:43.902Z",
+    "source": "hi",
+    "target": "en",
+    "input": "धन्यवाद ",
+    "output": "Thank you.",
+    "durationMs": 291
+  },
+  {
+    "timestamp": "2025-08-19T17:52:47.354Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Beneath the new art. ",
+    "output": "नई कला के नीचे",
+    "durationMs": 347
+  },
+  {
+    "timestamp": "2025-08-19T17:52:47.711Z",
+    "source": "hi",
+    "target": "en",
+    "input": "हनीफ धन्यवाद ",
+    "output": "Haneef Thank you",
+    "durationMs": 702
+  },
+  {
+    "timestamp": "2025-08-19T17:52:58.085Z",
+    "source": "en",
+    "target": "hi",
+    "input": "May I know what is the issue in your laptop? ",
+    "output": "क्या मैं जान सकता हूँ कि आपके लैपटॉप में क्या समस्या है",
+    "durationMs": 675
+  },
+  {
+    "timestamp": "2025-08-19T17:52:58.322Z",
+    "source": "hi",
+    "target": "en",
+    "input": "किसके नीचे ",
+    "output": "under whom",
+    "durationMs": 565
+  },
+  {
+    "timestamp": "2025-08-19T17:53:09.087Z",
+    "source": "hi",
+    "target": "en",
+    "input": "कब जान सकते हो पर नहीं बोलूंगा ",
+    "output": "When you know, I won't say.",
+    "durationMs": 524
+  },
+  {
+    "timestamp": "2025-08-19T17:53:15.532Z",
+    "source": "en",
+    "target": "hi",
+    "input": "That. ",
+    "output": "कि",
+    "durationMs": 197
+  },
+  {
+    "timestamp": "2025-08-19T17:53:31.837Z",
+    "source": "en",
+    "target": "hi",
+    "input": "He won't answer me, yeah. ",
+    "output": "वह मुझे जवाब नहीं देगा, हाँ",
+    "durationMs": 417
+  },
+  {
+    "timestamp": "2025-08-19T17:54:07.644Z",
+    "source": "en",
+    "target": "hi",
+    "input": "20 keys we will next we will be sending them 30K with the empty value. ",
+    "output": "20 कुंजी हम अगले हम उन्हें खाली value के साथ 30K भेज देंगे",
+    "durationMs": 770
+  },
+  {
+    "timestamp": "2025-08-19T17:54:16.413Z",
+    "source": "en",
+    "target": "hi",
+    "input": "So I don't either for Mexico and we don't have. ",
+    "output": "तो मैं या तो मैक्सिको के लिए और हम नहीं है",
+    "durationMs": 697
+  },
+  {
+    "timestamp": "2025-08-19T17:54:29.271Z",
+    "source": "en",
+    "target": "hi",
+    "input": "On the download you will be taking care of the thing. Is there any? ",
+    "output": "download पर आप बात का ख्याल रखना होगा क्या कोई",
+    "durationMs": 719
+  },
+  {
+    "timestamp": "2025-08-19T17:54:41.680Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Download pop up, download is then I'm not sure. ",
+    "output": "download पॉप अप, download है तो मुझे यकीन नहीं है",
+    "durationMs": 615
+  },
+  {
+    "timestamp": "2025-08-19T17:54:47.549Z",
+    "source": "en",
+    "target": "hi",
+    "input": "It's not working. ",
+    "output": "यह job नहीं कर रहा है",
+    "durationMs": 365
+  },
+  {
+    "timestamp": "2025-08-19T17:55:02.119Z",
+    "source": "en",
+    "target": "hi",
+    "input": "But we just go to. It's not my problem with the other part of the data's approval. I mean, why do we actually work that? And even translation's not working. ",
+    "output": "लेकिन हम सिर्फ जाने के लिए यह डेटा के approve के अन्य भाग के साथ मेरी समस्या नहीं है मेरा मतलब है, क्यों हम वास्तव में job करते हैं कि और यहां तक कि अनुवाद job नहीं कर रहा है",
+    "durationMs": 2152
+  },
+  {
+    "timestamp": "2025-08-19T17:55:22.496Z",
+    "source": "en",
+    "target": "hi",
+    "input": "It's you can use. ",
+    "output": "यह आप उपयोग कर सकते हैं",
+    "durationMs": 368
+  },
+  {
+    "timestamp": "2025-08-19T17:55:59.658Z",
+    "source": "en",
+    "target": "hi",
+    "input": "I will call you. ",
+    "output": "मैं तुम्हें फोन करूँगा",
+    "durationMs": 330
+  },
+  {
+    "timestamp": "2025-08-19T17:56:15.543Z",
+    "source": "en",
+    "target": "hi",
+    "input": "I'm really thinking, you think the it's gonna have what's the breaking report and the complex? ",
+    "output": "मैं वास्तव में सोच रहा हूँ, तुम्हें लगता है कि यह होगा क्या है ताजा रिपोर्ट और जटिल",
+    "durationMs": 902
+  },
+  {
+    "timestamp": "2025-08-19T17:56:29.383Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Open next week. Next week. ",
+    "output": "अगले सप्ताह खुला अगले सप्ताह",
+    "durationMs": 565
+  },
+  {
+    "timestamp": "2025-08-19T17:56:38.946Z",
+    "source": "en",
+    "target": "hi",
+    "input": "OK, good morning. This is Rahul from IT service Desk. How can I help you? ",
+    "output": "ठीक है, सुप्रभात यह आईटी सेवा डेस्क से राहुल है मैं आपकी कैसे मदद कर सकता हूँ?",
+    "durationMs": 1370
+  },
+  {
+    "timestamp": "2025-08-19T17:56:39.222Z",
+    "source": "hi",
+    "target": "en",
+    "input": "थिस इंस्टॉल ",
+    "output": "This install",
+    "durationMs": 1610
+  },
+  {
+    "timestamp": "2025-08-19T17:57:09.590Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Good morning. ",
+    "output": "सुप्रभात",
+    "durationMs": 358
+  },
+  {
+    "timestamp": "2025-08-19T17:57:10.579Z",
+    "source": "hi",
+    "target": "en",
+    "input": "गुड मॉर्निंग राहुल मेरे सिस्टम बहुत स्लो चल रहा है आज सुबह से कोई काम ठीक से नहीं हो रहा था ",
+    "output": "Good morning Rahul my system is running very smoothly since this morning nothing was working properly",
+    "durationMs": 1260
+  },
+  {
+    "timestamp": "2025-08-19T17:57:24.708Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Good morning, Rahul. ",
+    "output": "सुप्रभात, राहुल",
+    "durationMs": 490
+  },
+  {
+    "timestamp": "2025-08-19T17:57:28.842Z",
+    "source": "en",
+    "target": "hi",
+    "input": "On both slopes and the high call. ",
+    "output": "दोनों ही ढलानों पर और ऊँची पुकार पर",
+    "durationMs": 578
+  },
+  {
+    "timestamp": "2025-08-19T17:57:29.691Z",
+    "source": "hi",
+    "target": "en",
+    "input": "मेरे सिस्टम बहुत स्लो चल रहा है आज सुबह से कोई काम ठीक से हो नहीं रहा ",
+    "output": "My system is running very slowly, nothing has been working properly since this morning.",
+    "durationMs": 776
+  },
+  {
+    "timestamp": "2025-08-19T17:57:40.705Z",
+    "source": "hi",
+    "target": "en",
+    "input": "था ",
+    "output": "was",
+    "durationMs": 231
+  },
+  {
+    "timestamp": "2025-08-19T17:57:43.061Z",
+    "source": "en",
+    "target": "hi",
+    "input": "I'm sorry to hear that. May I know since when you have been facing this issue? ",
+    "output": "मैं सुनने के लिए खेद है क्या मैं जान सकता हूं कि कब से आप इस मुद्दे का सामना कर रहे हैं",
+    "durationMs": 1151
+  },
+  {
+    "timestamp": "2025-08-19T17:57:58.023Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Shubha 9 by the Seahawks. ",
+    "output": "सीहॉक्स द्वारा शुभ 9",
+    "durationMs": 414
+  },
+  {
+    "timestamp": "2025-08-19T17:58:03.417Z",
+    "source": "en",
+    "target": "hi",
+    "input": "So we think you have many laptop on gear to book only maintenance and. ",
+    "output": "तो हमें लगता है कि आप केवल रखरखाव बुक करने के लिए equipment पर कई लैपटॉप है और",
+    "durationMs": 1028
+  },
+  {
+    "timestamp": "2025-08-19T17:58:04.677Z",
+    "source": "hi",
+    "target": "en",
+    "input": "सुबह 9:00 बजे से ही प्रॉब्लम शुरू हो गई थी जब मैं लैपटॉप ऑन किया तो भूत होने में 10 मिनट लग गए ",
+    "output": "The puzzle started at 9:00 a.m. and it took me 10 minutes to get ghOSted when I turned on the lAPTop.",
+    "durationMs": 2212
+  },
+  {
+    "timestamp": "2025-08-19T17:58:19.842Z",
+    "source": "en",
+    "target": "hi",
+    "input": "To office network or using VP. ",
+    "output": "कार्यालय network या VP का उपयोग",
+    "durationMs": 443
+  },
+  {
+    "timestamp": "2025-08-19T17:58:34.613Z",
+    "source": "hi",
+    "target": "en",
+    "input": "हो लेकिन नेटवर्क ठीक चल रहा है सिर्फ सिस्टम ही बहुत स्लगे फील हो रहा है ",
+    "output": "Yeah, but the network's working fine, just the system's feeling very sluggish.",
+    "durationMs": 901
+  },
+  {
+    "timestamp": "2025-08-19T17:58:49.309Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Can I remotely access your system to check the performance? ",
+    "output": "मैं दूरस्थ रूप से अपने system प्रदर्शन की जांच करने के लिए उपयोग कर सकते हैं",
+    "durationMs": 782
+  },
+  {
+    "timestamp": "2025-08-19T17:59:04.402Z",
+    "source": "hi",
+    "target": "en",
+    "input": "आप रीमोटली एक्सेस कर सकते हो ",
+    "output": "You can aCCess remotely",
+    "durationMs": 408
+  },
+  {
+    "timestamp": "2025-08-19T17:59:07.701Z",
+    "source": "hi",
+    "target": "en",
+    "input": "मैं एनी डिस्क ओपन कर देता हूं ",
+    "output": "I open the annie disk",
+    "durationMs": 366
+  },
+  {
+    "timestamp": "2025-08-19T17:59:16.339Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Share doing disk ID. ",
+    "output": "shared करने वाला डिस्क IDS",
+    "durationMs": 398
+  },
+  {
+    "timestamp": "2025-08-19T17:59:27.900Z",
+    "source": "hi",
+    "target": "en",
+    "input": "यह रहा मेरा आईडी 123456789 ",
+    "output": "This was my ID 123456789.",
+    "durationMs": 478
+  },
+  {
+    "timestamp": "2025-08-19T17:59:40.924Z",
+    "source": "en",
+    "target": "hi",
+    "input": "I'm connecting now. Please accept the request. ",
+    "output": "मैं अब कनेक्ट कर रहा हूँ कृपया अनुरोध स्वीकार करें",
+    "durationMs": 715
+  },
+  {
+    "timestamp": "2025-08-19T17:59:51.004Z",
+    "source": "hi",
+    "target": "en",
+    "input": "थे रिक्वेस्ट एक्सेप्ट कर रहा है कर लिया है ",
+    "output": "The request is done",
+    "durationMs": 370
+  },
+  {
+    "timestamp": "2025-08-19T18:00:09.972Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Thanks, I can see your CPU usage is very high. A few background apps are consuming a lot of memory. Did you recently install any new software? ",
+    "output": "thanks, मैं देख सकता हूँ अपने सीपीयू उपयोग बहुत अधिक है कुछ पृष्ठभूमि ऐप्स बहुत अधिक मेमोरी का उपभोग कर रहे हैं क्या आपने हाल ही में कोई नया सॉफ़्टवेयर install किया है",
+    "durationMs": 2037
+  },
+  {
+    "timestamp": "2025-08-19T18:00:33.985Z",
+    "source": "hi",
+    "target": "en",
+    "input": "और मैं कल एक पीडीएफ कन्वर्टर इंस्टॉल किया था उसके बाद से ही सिस्टम हैवी लग रहा है ",
+    "output": "And I installed a PDF converter yesterday, and the system has been heavy ever since.",
+    "durationMs": 829
+  },
+  {
+    "timestamp": "2025-08-19T18:00:38.829Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Welcome to Timeshare. ",
+    "output": "टाइमshare में आपका welcome",
+    "durationMs": 450
+  },
+  {
+    "timestamp": "2025-08-19T18:00:44.682Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Two times, but I also got two times. ",
+    "output": "दो बार, लेकिन मैं भी दो बार मिला",
+    "durationMs": 514
+  },
+  {
+    "timestamp": "2025-08-19T18:00:58.006Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Alright, that might be the issue. I'll uninstall that for now and clean up temporary files. I'll also run a quick performance check. ",
+    "output": "ठीक है, कि मुद्दा हो सकता है मैं इसे uninstall कर दूंगा और अस्थायी fileों को clear कर दूंगा मैं भी एक त्वरित प्रदर्शन जांच चलाने जाएगा",
+    "durationMs": 1856
+  },
+  {
+    "timestamp": "2025-08-19T18:01:08.973Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Hey, Cortana. ",
+    "output": "हाय, कॉर्टाना",
+    "durationMs": 371
+  },
+  {
+    "timestamp": "2025-08-19T18:01:12.511Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Set current on cancel alarm. ",
+    "output": "अलार्म रद्द करने पर वर्तमान सेट करें",
+    "durationMs": 435
+  },
+  {
+    "timestamp": "2025-08-19T18:01:16.397Z",
+    "source": "hi",
+    "target": "en",
+    "input": "ठीक है अब ",
+    "output": "All right now",
+    "durationMs": 262
+  },
+  {
+    "timestamp": "2025-08-19T18:01:20.130Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Meetings on the beginning of the weekend. ",
+    "output": "सप्ताहांत की शुरुआत में meetingें",
+    "durationMs": 440
+  },
+  {
+    "timestamp": "2025-08-19T18:01:45.870Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Then I have removed unnecessary apps, cleared cache, restarted the background service. Try using system now and let me know if it feels better. ",
+    "output": "तो मैं अनावश्यक अनुप्रयोगों को हटा दिया है, कैश खाली, पृष्ठभूमि सेवा को पुनरारंभ अब प्रणाली का उपयोग करने की कोशिश करो और मुझे बताओ अगर यह बेहतर महसूस करता है",
+    "durationMs": 1748
+  },
+  {
+    "timestamp": "2025-08-19T18:01:46.277Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Hey, Cortana. ",
+    "output": "हाय, कॉर्टाना",
+    "durationMs": 382
+  },
+  {
+    "timestamp": "2025-08-19T18:02:13.974Z",
+    "source": "hi",
+    "target": "en",
+    "input": "आप सिस्टम काफी फास्ट लग रहा है बट भी जल्दी हो गया थैंक यू सो मच ",
+    "output": "Your system looks pretty fast, but it got even faster. Thank you so much.",
+    "durationMs": 754
+  },
+  {
+    "timestamp": "2025-08-19T18:02:40.181Z",
+    "source": "en",
+    "target": "hi",
+    "input": "You're welcome. Please avoid installing unverified software going forward. If the issue comes back, please feel free to reach out to us anytime. ",
+    "output": "आप का welcome कृपया भविष्य में असत्यापित सॉफ़्टवेयर install करने से बचें यदि समस्या फिर से आती है, तो कृपया किसी भी time हमसे contact करने के लिए स्वतंत्र महसूस करें",
+    "durationMs": 1848
+  },
+  {
+    "timestamp": "2025-08-19T18:02:40.661Z",
+    "source": "hi",
+    "target": "en",
+    "input": "टिशु कम्स बैक टू रिचार्ज ",
+    "output": "Tissues come back to recharge",
+    "durationMs": 2026
+  },
+  {
+    "timestamp": "2025-08-19T18:03:10.509Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Overall it is good only bro but there are like in translation there are no that is not translation that will be issues accent issue tissues come back for recharge this one see maybe issue issue issue the issue tissue so. ",
+    "output": "total मिलाकर यह अच्छा है केवल भाई लेकिन वहाँ अनुवाद में की तरह हैं वहाँ नहीं है कि अनुवाद नहीं है कि मुद्दा होगा जोर मुद्दा ऊतक रिचार्ज के लिए वापस आ इस एक देखने के लिए शायद मुद्दा मुद्दा मुद्दा मुद्दा ऊतक तो",
+    "durationMs": 1915
+  },
+  {
+    "timestamp": "2025-08-19T18:03:22.273Z",
+    "source": "en",
+    "target": "hi",
+    "input": "English accent issue of course, but it got it. See. Ha, Your system looks pretty fast, but it got even faster. Like this doesn't make sense, right? ",
+    "output": "अंग्रेजी उच्चारण समस्या बेशक, लेकिन यह इसे मिला देखें हा, आपका system काफी तेज लग रहा है, लेकिन यह और भी तेज हो गया जैसे यह समझ में नहीं आता है, सही",
+    "durationMs": 2008
+  },
+  {
+    "timestamp": "2025-08-19T18:03:26.652Z",
+    "source": "en",
+    "target": "hi",
+    "input": "And also, what is this bro? This. Hey, Cortana. ",
+    "output": "और यह भी, यह क्या है भाई यह हाय, कॉर्टाना",
+    "durationMs": 1000
+  },
+  {
+    "timestamp": "2025-08-19T18:03:41.723Z",
+    "source": "en",
+    "target": "hi",
+    "input": "So when like in the background when we are speaking, it is written that OK the system looks pretty fast but it got even this one is this one have got no translation OK. ",
+    "output": "तो जब की तरह पृष्ठभूमि में जब हम बात कर रहे हैं, यह लिखा है कि ठीक है प्रणाली बहुत तेजी से लग रहा है लेकिन यह भी मिल गया है यह एक है यह एक कोई अनुवाद नहीं मिला है ठीक है",
+    "durationMs": 1794
+  },
+  {
+    "timestamp": "2025-08-19T18:03:41.954Z",
+    "source": "en",
+    "target": "hi",
+    "input": "One issue. ",
+    "output": "एक मुद्दा",
+    "durationMs": 479
+  },
+  {
+    "timestamp": "2025-08-19T18:03:48.508Z",
+    "source": "en",
+    "target": "hi",
+    "input": "OK. ",
+    "output": "ठीक है",
+    "durationMs": 263
+  },
+  {
+    "timestamp": "2025-08-19T18:04:12.492Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Hey, mute. Call Indarika. Wait a minute. Call the transcript, will you go? No, it didn't. OK for me. I'm running properly. You bro? Yeah, bro, mostly properly. ",
+    "output": "हे, मूक इंदारिका को बुलाओ एक minutes रुको ट्रान्सक्रिप्ट को बुलाओ, क्या तुम जाओगे नहीं, यह नहीं किया मेरे लिए ठीक है मैं ठीक से चल रहा हूँ आप भाई हाँ, भाई, ज्यादातर ठीक से",
+    "durationMs": 3259
+  },
+  {
+    "timestamp": "2025-08-19T18:04:26.702Z",
+    "source": "en",
+    "target": "hi",
+    "input": "But I can say something, the model is you're working using the benchmark model. So if any translation mistake is there in the model, we can't change it. Only thing we can improve is the accent or you can improve change the model itself. ",
+    "output": "लेकिन मैं कुछ कह सकता हूँ, मॉडल है कि आप benchmark मॉडल का उपयोग कर job कर रहे हैं तो अगर कोई अनुवाद त्रुटि वहाँ मॉडल में है, हम इसे बदल नहीं सकते केवल एक चीज हम सुधार कर सकते हैं उच्चारण है या आप सुधार कर सकते हैं मॉडल ही बदल",
+    "durationMs": 2555
+  },
+  {
+    "timestamp": "2025-08-19T18:04:28.894Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Model. We tested all the models and we gave this model. ",
+    "output": "मॉडल हमने सभी मॉडलों का test किया और हमने यह मॉडल दिया",
+    "durationMs": 789
+  },
+  {
+    "timestamp": "2025-08-19T18:04:35.099Z",
+    "source": "en",
+    "target": "hi",
+    "input": "All requirements it's going to be changing like 4 models according to others requirement. This is the final one. We fixed it. ",
+    "output": "सभी आवश्यकताओं यह अन्य आवश्यकताओं के अनुसार 4 मॉडल की तरह बदल रहा है जा रहा है यह अंतिम है हमने इसे ठीक कर दिया",
+    "durationMs": 1422
+  },
+  {
+    "timestamp": "2025-08-19T18:04:44.650Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Of course a good model for translation. Have you tried with some bigger models? But that will take a lot of time. ",
+    "output": "बेशक अनुवाद के लिए एक अच्छा मॉडल क्या आपने कुछ बड़े मॉडल के साथ कोशिश की है लेकिन इसमें बहुत time लगेगा",
+    "durationMs": 1353
+  },
+  {
+    "timestamp": "2025-08-19T18:05:17.745Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Hmm, very nice things. The later thing that boosts the like boot, it have to get us boot and it'll database that is happening whenever you speak. Tell me like. ",
+    "output": "हम्म, बहुत अच्छी चीजें बाद की बात है कि जैसे बूट को बढ़ावा देता है, यह हमें बूट करने के लिए है और यह डेटाबेस है कि जब भी आप बात कर रहा है हो जाएगा मुझे बताओ जैसे",
+    "durationMs": 2163
+  },
+  {
+    "timestamp": "2025-08-19T18:05:26.729Z",
+    "source": "en",
+    "target": "hi",
+    "input": "We're playing with. We have something called. ",
+    "output": "हम के साथ खेल रहे हैं हमारे पास कुछ ऐसा है जिसे",
+    "durationMs": 715
+  },
+  {
+    "timestamp": "2025-08-19T18:05:30.338Z",
+    "source": "en",
+    "target": "hi",
+    "input": "In Hindi. ",
+    "output": "हिन्दी में",
+    "durationMs": 305
+  },
+  {
+    "timestamp": "2025-08-19T18:05:42.442Z",
+    "source": "en",
+    "target": "hi",
+    "input": "If you need outlook, you said English, it will directly if you do translation something. ",
+    "output": "यदि आप visionकोण की जरूरत है, आप अंग्रेजी कहा, यह सीधे होगा अगर आप अनुवाद कुछ करना",
+    "durationMs": 856
+  },
+  {
+    "timestamp": "2025-08-19T18:05:45.551Z",
+    "source": "en",
+    "target": "hi",
+    "input": "We have to extend that. ",
+    "output": "हमें इसका extension करना होगा।",
+    "durationMs": 375
+  },
+  {
+    "timestamp": "2025-08-19T18:06:10.060Z",
+    "source": "en",
+    "target": "hi",
+    "input": "We look into page one, we upload translation application. This is the main thing. That's it mostly. It's getting the mainly translating it. We can improve, but we'll do it late. Yeah, because even the paid versions are like I have tried to. ",
+    "output": "हम पृष्ठ एक में देखते हैं, हम अनुवाद आवेदन upload यह मुख्य बात है यह ज्यादातर है यह मुख्य रूप से यह अनुवाद हो रही है हम सुधार कर सकते हैं, लेकिन हम इसे देर से करेंगे हाँ, क्योंकि यहां तक कि भुगतान versioningों के रूप में मैं करने की कोशिश की है",
+    "durationMs": 3048
+  },
+  {
+    "timestamp": "2025-08-19T18:06:17.885Z",
+    "source": "en",
+    "target": "hi",
+    "input": "You don't remember they're they're also probably like both something. ",
+    "output": "आप याद नहीं है वे कर रहे हैं वे भी कर रहे हैं शायद दोनों कुछ की तरह",
+    "durationMs": 788
+  },
+  {
+    "timestamp": "2025-08-19T18:06:24.080Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Yeah, I'll do the feedback. ",
+    "output": "हाँ, मैं response करेंगे",
+    "durationMs": 401
+  },
+  {
+    "timestamp": "2025-08-19T18:06:29.693Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Yeah, I think it's not the languages you're offering if you have this. ",
+    "output": "हाँ, मुझे लगता है कि यह आप की पेशकश कर रहे हैं languageओं नहीं है अगर आप इस",
+    "durationMs": 904
+  },
+  {
+    "timestamp": "2025-08-19T18:06:29.967Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Yeah. ",
+    "output": "हाँ",
+    "durationMs": 254
+  },
+  {
+    "timestamp": "2025-08-19T18:06:50.620Z",
+    "source": "en",
+    "target": "hi",
+    "input": "This morning reached to anything anything English to do anything but anything that everything is larger for how many want to make other. So basically agent will sneak in English. So basically. ",
+    "output": "इस सुबह कुछ भी करने के लिए कुछ भी अंग्रेजी कुछ भी करने के लिए लेकिन कुछ भी है कि सब कुछ बड़ा है के लिए कैसे कई अन्य बनाने के लिए चाहते हैं तो मूल रूप से agent अंग्रेजी में छिप जाएगा तो मूल रूप से",
+    "durationMs": 2203
+  },
+  {
+    "timestamp": "2025-08-19T18:07:10.235Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Hey, anything better than the other language? No, since they'll have more corpus for that. It's actually created by Facebook, so they have they'll have Spanish. ",
+    "output": "अरे, कुछ भी अन्य language से बेहतर है नहीं, चूंकि उनके पास इसके लिए अधिक शरीर होगा यह वास्तव में फेसबुक द्वारा बनाया गया है, तो वे है वे स्पेनिश होगा",
+    "durationMs": 1809
+  },
+  {
+    "timestamp": "2025-08-19T18:07:11.295Z",
+    "source": "en",
+    "target": "hi",
+    "input": "European language. ",
+    "output": "यूरोपीय language",
+    "durationMs": 259
+  },
+  {
+    "timestamp": "2025-08-19T18:07:15.619Z",
+    "source": "en",
+    "target": "hi",
+    "input": "So you can train that we'll be. ",
+    "output": "तो आप प्रशिक्षित कर सकते हैं कि हम हो जाएगा",
+    "durationMs": 605
+  },
+  {
+    "timestamp": "2025-08-19T18:18:47.009Z",
+    "source": "en",
+    "target": "es",
+    "input": "Hello, this is sunny from the IT help desk. How can I assist you today? ",
+    "output": "Hola, soy Sunny dSLA serviCIo de TI. ¿Cómo puedo hSLAprle hoy?",
+    "durationMs": 1077
+  },
+  {
+    "timestamp": "2025-08-19T18:19:07.310Z",
+    "source": "es",
+    "target": "en",
+    "input": " hola NIF tengo una problemática con mi correo electrónico no puedo enviar mensajes desde esta mañana ",
+    "output": "Hi, NIF. I have a problem with my e-mail. I haven't been able to send messages since this morning.",
+    "durationMs": 1221
+  },
+  {
+    "timestamp": "2025-08-19T18:19:27.897Z",
+    "source": "en",
+    "target": "es",
+    "input": "I understand. Are you receiving any error message when you are trying to send an e-mail? ",
+    "output": "Lo entiendo . ¿Está reCIbiendo algún message de error cuando está tratando de enviar un email",
+    "durationMs": 1106
+  },
+  {
+    "timestamp": "2025-08-19T18:19:45.201Z",
+    "source": "es",
+    "target": "en",
+    "input": "sí me aparece un mensaje mensaje que dice error de autenticación ",
+    "output": "If I get a message message that says authentication error",
+    "durationMs": 598
+  },
+  {
+    "timestamp": "2025-08-19T18:20:03.290Z",
+    "source": "en",
+    "target": "es",
+    "input": "Thank you. May I please have your employee ID to check the account? ",
+    "output": "GRACIas . ¿Puedo por favor tener su IDS de employeeid para comprobar la cuenta",
+    "durationMs": 1063
+  },
+  {
+    "timestamp": "2025-08-19T18:20:19.540Z",
+    "source": "es",
+    "target": "en",
+    "input": "claro mi haitíes for fire eight to one ",
+    "output": "Of course my haitians for fire eight to one",
+    "durationMs": 550
+  },
+  {
+    "timestamp": "2025-08-19T18:20:43.985Z",
+    "source": "en",
+    "target": "es",
+    "input": "Thank you. Please hold on for a moment while I will check that for you. OK I have refreshed F your mail inbox session. Please try to send an mail again. ",
+    "output": "GRACIas . Por favor, espere un momento mientras lo compruebo. De agreement. He actualizado tu session de correo. Por favor trate de enviar un correo de nuevo",
+    "durationMs": 1994
+  },
+  {
+    "timestamp": "2025-08-19T18:21:05.346Z",
+    "source": "es",
+    "target": "en",
+    "input": "un momento sí bajó refunciona perfectamente muchas gracias ",
+    "output": "Just a moment, if you please. It's working perfectly again. Thank you very much.",
+    "durationMs": 938
+  },
+  {
+    "timestamp": "2025-08-19T18:21:25.936Z",
+    "source": "en",
+    "target": "es",
+    "input": "You are you are welcome. Is there any anything else I can help you today? ",
+    "output": "Eres wSLAcome ¿Hay algo más que pueda hSLAprle hoy?",
+    "durationMs": 844
+  },
+  {
+    "timestamp": "2025-08-19T18:21:39.491Z",
+    "source": "es",
+    "target": "en",
+    "input": "no eso es todo gracias de nuevo ",
+    "output": "No, that's all. Thank you again.",
+    "durationMs": 536
+  },
+  {
+    "timestamp": "2025-08-19T18:21:49.941Z",
+    "source": "en",
+    "target": "es",
+    "input": "My pleasure, have a great day. ",
+    "output": "Mi placer, tenga un buen día",
+    "durationMs": 435
+  },
+  {
+    "timestamp": "2025-08-19T18:21:57.768Z",
+    "source": "es",
+    "target": "en",
+    "input": "gracias ",
+    "output": "Thank you .",
+    "durationMs": 298
+  },
+  {
+    "timestamp": "2025-08-19T18:22:11.752Z",
+    "source": "en",
+    "target": "es",
+    "input": "Please. ",
+    "output": "Por favor .",
+    "durationMs": 301
+  },
+  {
+    "timestamp": "2025-08-19T19:32:25.396Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Hi, this is Honey from ITE service desk. How can I help you today? ",
+    "output": "हाय, यह आईटीई सेवा डेस्क से हनी है मैं आज आपकी कैसे मदद कर सकता हूँ?",
+    "durationMs": 1575
+  },
+  {
+    "timestamp": "2025-08-19T19:32:51.635Z",
+    "source": "hi",
+    "target": "en",
+    "input": "इनफॉरमेशन ",
+    "output": "information",
+    "durationMs": 289
+  },
+  {
+    "timestamp": "2025-08-19T19:33:26.466Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Hello Gautam, are you able to hear me? Can you speak something? ",
+    "output": "हैलो गौतम, क्या आप मुझे सुन सकते हैं? क्या आप कुछ बोल सकते हैं",
+    "durationMs": 1261
+  },
+  {
+    "timestamp": "2025-08-19T19:34:55.257Z",
+    "source": "hi",
+    "target": "en",
+    "input": "एस्से ऑन कैन यू हियर मी वॉइस ",
+    "output": "Essay on can you hear my voice",
+    "durationMs": 469
+  },
+  {
+    "timestamp": "2025-08-19T19:42:11.831Z",
+    "source": "hi",
+    "target": "en",
+    "input": "हेलो ",
+    "output": "hello",
+    "durationMs": 313
+  },
+  {
+    "timestamp": "2025-08-19T19:42:19.013Z",
+    "source": "en",
+    "target": "hi",
+    "input": "How may I help you Sampath? ",
+    "output": "मैं आपकी कैसे मदद कर सकता हूँ Sampath",
+    "durationMs": 702
+  },
+  {
+    "timestamp": "2025-08-19T19:42:22.185Z",
+    "source": "hi",
+    "target": "en",
+    "input": "हेलो ",
+    "output": "hello",
+    "durationMs": 321
+  },
+  {
+    "timestamp": "2025-08-19T19:42:35.767Z",
+    "source": "hi",
+    "target": "en",
+    "input": "हेलो हेलो क्या कर रहे हो ",
+    "output": "Hello Hello what are you doing?",
+    "durationMs": 466
+  },
+  {
+    "timestamp": "2025-08-19T19:42:44.876Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Yeah, I'm doing good. How may I help you today? ",
+    "output": "हाँ, मैं अच्छा कर रहा हूँ मैं आज आपकी कैसे मदद कर सकता हूँ?",
+    "durationMs": 1131
+  },
+  {
+    "timestamp": "2025-08-19T19:43:00.169Z",
+    "source": "hi",
+    "target": "en",
+    "input": "मनीष क्या कर रहे हो ",
+    "output": "Manish, what are you doing?",
+    "durationMs": 503
+  },
+  {
+    "timestamp": "2025-08-19T19:43:11.095Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Yeah, I'm doing testing for live language translation. ",
+    "output": "हाँ, मैं लाइव language अनुवाद के लिए test कर रहा हूँ",
+    "durationMs": 744
+  },
+  {
+    "timestamp": "2025-08-19T19:43:34.737Z",
+    "source": "hi",
+    "target": "en",
+    "input": "हनीफ क्या कर रहे हो ",
+    "output": "What are you doing?",
+    "durationMs": 430
+  },
+  {
+    "timestamp": "2025-08-19T19:43:48.944Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Live language translation testing. ",
+    "output": "लाइव language अनुवाद test",
+    "durationMs": 377
+  },
+  {
+    "timestamp": "2025-08-19T19:44:12.088Z",
+    "source": "hi",
+    "target": "en",
+    "input": "लैपटॉप ",
+    "output": "computer",
+    "durationMs": 267
+  },
+  {
+    "timestamp": "2025-08-19T19:46:44.074Z",
+    "source": "hi",
+    "target": "en",
+    "input": "हनीफ आप क्या कर रहे हो ",
+    "output": "Honey, what are you doing?",
+    "durationMs": 503
+  },
+  {
+    "timestamp": "2025-08-19T19:47:18.201Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Hello, how may I help you today? ",
+    "output": "हैलो, मैं आज आपकी क्या मदद कर सकता हूँ?",
+    "durationMs": 689
+  },
+  {
+    "timestamp": "2025-08-19T19:47:46.472Z",
+    "source": "hi",
+    "target": "en",
+    "input": "हनीफ आप क्या कर रहे हो मेरी मदद करो ",
+    "output": "Honey, what are you doing? help me.",
+    "durationMs": 611
+  },
+  {
+    "timestamp": "2025-08-19T19:48:30.833Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Go to. ",
+    "output": "जाओ",
+    "durationMs": 331
+  },
+  {
+    "timestamp": "2025-08-19T19:48:41.209Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Go to Hindi. ",
+    "output": "हिंदी में जाएं",
+    "durationMs": 296
+  },
+  {
+    "timestamp": "2025-08-19T19:49:04.041Z",
+    "source": "en",
+    "target": "hi",
+    "input": "2470. ",
+    "output": "2470",
+    "durationMs": 343
+  },
+  {
+    "timestamp": "2025-08-19T19:54:03.237Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Hello Gautam, this is service desk guy. How may I help you today? ",
+    "output": "हैलो गौतम, यह सेवा डेस्क लड़का है मैं आज आपकी कैसे मदद कर सकता हूँ?",
+    "durationMs": 1277
+  },
+  {
+    "timestamp": "2025-08-19T19:54:34.253Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Hey Cortana, open Bluetooth on my little girlfriend. That's right. ",
+    "output": "हे Cortana, मेरी छोटी सी प्रेमिका पर ब्लूटूथ खोलें यह सही है",
+    "durationMs": 1187
+  },
+  {
+    "timestamp": "2025-08-19T19:54:38.539Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Hello Cortana, this is service desk Skype. How may I help you today? ",
+    "output": "हैलो Cortana, यह सेवा डेस्क स्काइप है मैं आज आपकी कैसे मदद कर सकता हूँ?",
+    "durationMs": 1357
+  },
+  {
+    "timestamp": "2025-08-19T19:54:39.507Z",
+    "source": "hi",
+    "target": "en",
+    "input": "हनीफ एक्चुअली मैं अपने सिस्टम का पासवर्ड भूल गया हूं सुबह सिस्टम ",
+    "output": "Honey, I actually forgot my system password this morning.",
+    "durationMs": 649
+  },
+  {
+    "timestamp": "2025-08-19T19:55:00.645Z",
+    "source": "hi",
+    "target": "en",
+    "input": "मैं आपका पासवर्ड भूल गया तो सो सुबह लोगिन करने के आया और नहीं लोगों की ",
+    "output": "I forgot your password so came to log in this morning and not people",
+    "durationMs": 871
+  },
+  {
+    "timestamp": "2025-08-19T19:55:05.196Z",
+    "source": "en",
+    "target": "hi",
+    "input": "I can help you with that. Just to confirm, are you referring to your Windows login password? ",
+    "output": "मैं उस के साथ मदद कर सकते हैं बस confirmation करने के लिए, आप अपने विंडोज login पासवर्ड का mention कर रहे हैं",
+    "durationMs": 1591
+  },
+  {
+    "timestamp": "2025-08-19T19:55:25.110Z",
+    "source": "hi",
+    "target": "en",
+    "input": "हां जी विंडो का पासवर्ड भूल गया कल तक सिस्टम चेक कर ले वह नहीं आ रहा ",
+    "output": "Yeah, I forgot the password for the window. Check the system by tomorrow. It's not coming.",
+    "durationMs": 1232
+  },
+  {
+    "timestamp": "2025-08-19T19:55:41.955Z",
+    "source": "en",
+    "target": "hi",
+    "input": "No problem. Are you currently in the office premises or working remotely? ",
+    "output": "कोई समस्या नहीं क्या आप वर्तमान में कार्यालय परिसर में हैं या दूरस्थ रूप से job कर रहे हैं",
+    "durationMs": 1136
+  },
+  {
+    "timestamp": "2025-08-19T19:55:58.896Z",
+    "source": "hi",
+    "target": "en",
+    "input": "मैं अभी ऑफिस में हूं आप में डिस्क में हूं सिस्टम भी सामने सामने बैठ करके ",
+    "output": "I'm in the office right now, you're on the disk, and the system is sitting in front of you.",
+    "durationMs": 1199
+  },
+  {
+    "timestamp": "2025-08-19T19:56:21.342Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Perfect, that will make it easier. I'll just need a couple of details to verify you. Can you please tell me your employee ID and name of your mission? ",
+    "output": "एकदम सही, यह इसे आसान बना देगा मैं सिर्फ तुम्हें सत्यापित करने के लिए कुछ detail की जरूरत होगी क्या आप कृपया मुझे अपना employeeid IDS और अपने mission का नाम बता सकते हैं",
+    "durationMs": 1921
+  },
+  {
+    "timestamp": "2025-08-19T19:56:51.691Z",
+    "source": "hi",
+    "target": "en",
+    "input": "हां बिल्कुल मेरा एम्पलाई आईडी 63978 और सिस्टम का आईडी लब इन 7865 स्टीकर पर लिखा है ना वही आईडी ",
+    "output": "Yes, exactly my employee ID 63978 and the system ID lab is written on these 7865 stickers is not the same ID",
+    "durationMs": 1253
+  },
+  {
+    "timestamp": "2025-08-19T19:57:24.595Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Got it. I'm checking the system details now, just give me a moment. Yes, I found it. I will reschedule your password to your temporary 1 so that you can login in in and change it. ",
+    "output": "मिल गया मैं अभी system detail की जाँच कर रहा हूँ, बस मुझे एक पल दे हाँ, मैं इसे पाया मैं आपके पासवर्ड को आपके अस्थायी 1 में फिर से शेड्यूल करूंगा ताकि आप log इन कर सकें और इसे बदल सकें",
+    "durationMs": 2641
+  },
+  {
+    "timestamp": "2025-08-19T19:57:50.705Z",
+    "source": "hi",
+    "target": "en",
+    "input": "हां ठीक है तो टेंपरेरी पासवर्ड दीजिए है ना तो मैं दोबारा से लॉगिन करने के लिए ",
+    "output": "Yes, well, give me the temporary password or I'll log in again.",
+    "durationMs": 866
+  },
+  {
+    "timestamp": "2025-08-19T19:58:22.486Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Sure, I've rescheduled password. Please use this temp at the rate 63978. Make sure to enter it exactly as it is with a capital T Once you login in it will prompt you see the new set a new password. ",
+    "output": "निश्चित रूप से, मैं पासवर्ड पुनर्निर्धारित किया है कृपया 63978 दर पर इस टेम्प का उपयोग करें सुनिश्चित करें कि आप इसे ठीक उसी तरह दर्ज करें जैसे यह है एक बड़े T के साथ एक बार जब आप इसमें log इन करते हैं तो आपको नया सेट एक नया पासवर्ड दिखाने के लिए कहा जाएगा",
+    "durationMs": 3112
+  },
+  {
+    "timestamp": "2025-08-19T19:58:52.533Z",
+    "source": "hi",
+    "target": "en",
+    "input": "हां ठीक है मैं कर लेता हूं बाद में ",
+    "output": "Yeah well I 'll do it later",
+    "durationMs": 507
+  },
+  {
+    "timestamp": "2025-08-19T19:59:08.367Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Take your time, let me know once you are in. ",
+    "output": "अपने time ले लो, मुझे पता है जब आप में हैं",
+    "durationMs": 691
+  },
+  {
+    "timestamp": "2025-08-19T19:59:26.660Z",
+    "source": "hi",
+    "target": "en",
+    "input": "हनीफ लॉगिन हो गया अब सिस्टम पासवर्ड चेंज करने का बोल रहा है मैं नया पासवर्ड सेट करूं क्या ",
+    "output": "Honeyf is logged in and now the system is asking me to change the password.",
+    "durationMs": 874
+  },
+  {
+    "timestamp": "2025-08-19T19:59:45.018Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Great. Please ensure the new password has a mix of upper case letters, numbers and special characters so it meets the policy. ",
+    "output": "बहुत अच्छा कृपया सुनिश्चित करें कि नए पासवर्ड में बड़े अक्षरों, संख्याओं और विशेष वर्णों का मिश्रण है ताकि यह नीति को पूरा करे",
+    "durationMs": 1469
+  },
+  {
+    "timestamp": "2025-08-19T20:00:14.466Z",
+    "source": "hi",
+    "target": "en",
+    "input": "शाबाश नया पासवर्ड सक्सेसफुली सेट हो गया अब सिस्टम भी सही ऑन कर रहा है थैंक यू थैंक यू हनीफ ",
+    "output": "The new password has been suCCessfully set and the system is now on. Thank you, thank you, Honey.",
+    "durationMs": 1090
+  },
+  {
+    "timestamp": "2025-08-19T20:00:15.882Z",
+    "source": "hi",
+    "target": "en",
+    "input": "धन्यवाद है जी ",
+    "output": "Thank you.",
+    "durationMs": 355
+  },
+  {
+    "timestamp": "2025-08-19T20:00:34.886Z",
+    "source": "en",
+    "target": "hi",
+    "input": "You are most welcome, I'm glad we could get that sorted quickly. Anything else I can assist you with? ",
+    "output": "आपका बहुत welcome, मुझे खुशी है कि हम इसे जल्दी से व्यवस्थित कर सकते हैं कुछ और मैं आप के साथ मदद कर सकते हैं",
+    "durationMs": 1715
+  },
+  {
+    "timestamp": "2025-08-19T20:00:56.210Z",
+    "source": "hi",
+    "target": "en",
+    "input": "नहीं अभी के लिए बस यही इशिता अपने बिल्कुल चालू किया थैंक्स थैंक्स अगेन शाबाश ",
+    "output": "No, that's all Ishita did for now. Thank you, thank you again.",
+    "durationMs": 926
+  },
+  {
+    "timestamp": "2025-08-19T20:01:14.274Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Yeah. OK. I think we may cut the call and we may, you may continue your work. ",
+    "output": "हाँ ठीक है मुझे लगता है कि हम कॉल closed कर सकते हैं और हम कर सकते हैं, आप अपने job जारी रख सकते हैं",
+    "durationMs": 1573
+  },
+  {
+    "timestamp": "2025-08-19T20:01:34.198Z",
+    "source": "hi",
+    "target": "en",
+    "input": "क्या आपने बिल्कुल सही काम किया तो कॉल कट किया तो अच्छा अच्छा काम है ",
+    "output": "If you did the right thing, you cut the call, it's amazing.",
+    "durationMs": 828
+  },
+  {
+    "timestamp": "2025-08-19T20:22:35.944Z",
+    "source": "en",
+    "target": "fr",
+    "input": "How may I help you today? ",
+    "output": "Comment puis-je vous helpr ?",
+    "durationMs": 1660
+  },
+  {
+    "timestamp": "2025-08-19T20:22:41.679Z",
+    "source": "fr",
+    "target": "en",
+    "input": "bonjour bonjour ",
+    "output": "How are you?",
+    "durationMs": 636
+  },
+  {
+    "timestamp": "2025-08-19T20:23:05.562Z",
+    "source": "en",
+    "target": "fr",
+    "input": "OK script is not good, it is half English. ",
+    "output": "OK OTP script n'est pas bon, c'est à moitié anglais",
+    "durationMs": 1150
+  },
+  {
+    "timestamp": "2025-08-19T20:23:15.836Z",
+    "source": "en",
+    "target": "fr",
+    "input": "Are you able to go? ",
+    "output": "Vous êtes capabOTP d'alOTPr",
+    "durationMs": 538
+  },
+  {
+    "timestamp": "2025-08-19T20:23:32.824Z",
+    "source": "en",
+    "target": "fr",
+    "input": "Oh, there's a little business with the multi connection. ",
+    "output": "Oh, il y a une petite affaire avec la multi-login",
+    "durationMs": 978
+  },
+  {
+    "timestamp": "2025-08-19T20:23:40.716Z",
+    "source": "en",
+    "target": "fr",
+    "input": "Hey, Cortana. ",
+    "output": "Ça va, Cortana ?",
+    "durationMs": 498
+  },
+  {
+    "timestamp": "2025-08-19T20:24:39.899Z",
+    "source": "en",
+    "target": "fr",
+    "input": "Hello this is sunny from IT service. How can I help you today? ",
+    "output": "Salut , c' est Sunny du service informatique . Comment puis-je vous helpr aujourd'hui ?",
+    "durationMs": 1600
+  },
+  {
+    "timestamp": "2025-08-19T20:24:54.612Z",
+    "source": "en",
+    "target": "fr",
+    "input": "Hey Cortana, back one morning in the translator. ",
+    "output": "Hey Cortana, un matin dans OTP traducteur",
+    "durationMs": 717
+  },
+  {
+    "timestamp": "2025-08-19T20:24:59.509Z",
+    "source": "en",
+    "target": "fr",
+    "input": "J Aniva, Varsity Electricity. ",
+    "output": "J Aniva, éOTPctriCIté de l'université",
+    "durationMs": 777
+  },
+  {
+    "timestamp": "2025-08-19T20:24:59.986Z",
+    "source": "fr",
+    "target": "en",
+    "input": "bonjour bonjour ",
+    "output": "How are you?",
+    "durationMs": 1162
+  },
+  {
+    "timestamp": "2025-08-19T20:25:22.594Z",
+    "source": "en",
+    "target": "fr",
+    "input": "Next. ",
+    "output": "À la suite .",
+    "durationMs": 407
+  },
+  {
+    "timestamp": "2025-08-19T20:25:25.363Z",
+    "source": "en",
+    "target": "fr",
+    "input": "Bing Zoom. ",
+    "output": "zoom par Bing",
+    "durationMs": 424
+  },
+  {
+    "timestamp": "2025-08-19T20:25:25.760Z",
+    "source": "fr",
+    "target": "en",
+    "input": "bonjour ",
+    "output": "Good afternoon",
+    "durationMs": 817
+  },
+  {
+    "timestamp": "2025-08-19T20:25:29.811Z",
+    "source": "fr",
+    "target": "en",
+    "input": " mon identifiant ",
+    "output": "My IDEntification card",
+    "durationMs": 400
+  },
+  {
+    "timestamp": "2025-08-19T20:25:44.314Z",
+    "source": "fr",
+    "target": "en",
+    "input": " NATO est bonne merci encore bonne journée ",
+    "output": "NATO is good. Thank you again. Good day.",
+    "durationMs": 708
+  },
+  {
+    "timestamp": "2025-08-19T20:25:44.710Z",
+    "source": "en",
+    "target": "fr",
+    "input": "Morning. ",
+    "output": "farewell .",
+    "durationMs": 788
+  },
+  {
+    "timestamp": "2025-08-19T20:25:57.713Z",
+    "source": "en",
+    "target": "fr",
+    "input": "So you are unable to log in incorrect. ",
+    "output": "Donc vous ne pouvez pas vous connecter correctement",
+    "durationMs": 773
+  },
+  {
+    "timestamp": "2025-08-19T20:26:22.158Z",
+    "source": "en",
+    "target": "fr",
+    "input": "So then they don't wanna visit. ",
+    "output": "Alors, ils ne veuOTPnt pas nous rendre visite.",
+    "durationMs": 725
+  },
+  {
+    "timestamp": "2025-08-19T20:26:25.966Z",
+    "source": "en",
+    "target": "fr",
+    "input": "What does the model? ",
+    "output": "Qu'est ce que OTP modèOTP",
+    "durationMs": 538
+  },
+  {
+    "timestamp": "2025-08-19T20:26:34.996Z",
+    "source": "fr",
+    "target": "en",
+    "input": "canton de sport ",
+    "output": "Sports canton",
+    "durationMs": 366
+  },
+  {
+    "timestamp": "2025-08-19T20:29:12.615Z",
+    "source": "en",
+    "target": "fr",
+    "input": "Hello this is honey from IT support. How can I help you today? ",
+    "output": "Salut , c' est ma chérie du service informatique . Comment puis-je vous helpr aujourd'hui ?",
+    "durationMs": 1635
+  },
+  {
+    "timestamp": "2025-08-19T20:29:24.235Z",
+    "source": "en",
+    "target": "fr",
+    "input": "Bonjour. ",
+    "output": "Bonjour à vous .",
+    "durationMs": 418
+  },
+  {
+    "timestamp": "2025-08-19T20:29:27.504Z",
+    "source": "fr",
+    "target": "en",
+    "input": "bonjour bonjour passé ",
+    "output": "Good afternoon. Good afternoon.",
+    "durationMs": 539
+  },
+  {
+    "timestamp": "2025-08-19T20:29:32.032Z",
+    "source": "en",
+    "target": "fr",
+    "input": "Jane Karsimi, Collector. ",
+    "output": "Jane Karsimi, colOTPctionneur",
+    "durationMs": 581
+  },
+  {
+    "timestamp": "2025-08-19T20:29:32.600Z",
+    "source": "fr",
+    "target": "en",
+    "input": " Jane arrive passer mes caractères ",
+    "output": "Jane gets to pass my characters",
+    "durationMs": 828
+  },
+  {
+    "timestamp": "2025-08-19T20:29:51.357Z",
+    "source": "en",
+    "target": "fr",
+    "input": "I understood you are so you are unable to log in incorrect. ",
+    "output": "Je comprends que vous êtes donc vous êtes incapabOTP de vous connecter incorrectement",
+    "durationMs": 1123
+  },
+  {
+    "timestamp": "2025-08-19T20:30:12.164Z",
+    "source": "en",
+    "target": "fr",
+    "input": "The esteem reserves for his maze 1.8 is low key date price. ",
+    "output": "L'estime réservée à son labyrinthe 1 8 est OTP award bas à la date clé",
+    "durationMs": 1474
+  },
+  {
+    "timestamp": "2025-08-19T20:30:12.669Z",
+    "source": "fr",
+    "target": "en",
+    "input": " Facebook ",
+    "output": "What is Facebook?",
+    "durationMs": 1803
+  },
+  {
+    "timestamp": "2025-08-19T20:30:30.614Z",
+    "source": "en",
+    "target": "fr",
+    "input": "I will reschedule password. Could you please confirm your employee ID? ",
+    "output": "Je vais reprogramr OTP mot de passe Pouvez-vous confirmer votre identity d'employee",
+    "durationMs": 1481
+  },
+  {
+    "timestamp": "2025-08-19T20:30:45.946Z",
+    "source": "fr",
+    "target": "en",
+    "input": "bien sûr ",
+    "output": "All right.",
+    "durationMs": 401
+  },
+  {
+    "timestamp": "2025-08-19T20:30:46.662Z",
+    "source": "en",
+    "target": "fr",
+    "input": "So one identity and STM Fr 245 S. ",
+    "output": "Donc une identity et STM Fr 245 S",
+    "durationMs": 1067
+  },
+  {
+    "timestamp": "2025-08-19T20:31:14.605Z",
+    "source": "en",
+    "target": "fr",
+    "input": "Thank you, I have sent a temporary password to your mail, can you check? ",
+    "output": "thanks, j'ai envoyé un mot de passe temporaire à votre courrier, pouvez-vous vérifier",
+    "durationMs": 1369
+  },
+  {
+    "timestamp": "2025-08-19T20:32:30.613Z",
+    "source": "fr",
+    "target": "en",
+    "input": "oui les gars email ",
+    "output": "yeah guys email",
+    "durationMs": 470
+  },
+  {
+    "timestamp": "2025-08-19T20:33:50.941Z",
+    "source": "en",
+    "target": "fr",
+    "input": "Music. ",
+    "output": "La musique",
+    "durationMs": 383
+  },
+  {
+    "timestamp": "2025-08-19T20:34:09.124Z",
+    "source": "fr",
+    "target": "en",
+    "input": "l'école DC Wilder merci Biocoop ",
+    "output": "D.C. Wilder School Thank you Biocoop",
+    "durationMs": 825
+  },
+  {
+    "timestamp": "2025-08-19T20:35:22.431Z",
+    "source": "fr",
+    "target": "en",
+    "input": "merci encore bonnet d'année ",
+    "output": "Thank you again. Annee's hat.",
+    "durationMs": 675
+  },
+  {
+    "timestamp": "2025-08-19T20:38:35.065Z",
+    "source": "en",
+    "target": "fr",
+    "input": "Bonjour Jai UN probleme awake malnuti Pasha chain arrived powers may connector. ",
+    "output": "Bonjour Jai UN probOTPme réveillé malnuti Pasha string est arrivé pouvoirs peut connecteur",
+    "durationMs": 1419
+  },
+  {
+    "timestamp": "2025-08-19T20:38:54.656Z",
+    "source": "en",
+    "target": "fr",
+    "input": "What we're feeling this not even understanding, No. ",
+    "output": "Nous ne comprenons même pas ce que nous ressentons.",
+    "durationMs": 929
+  },
+  {
+    "timestamp": "2025-08-19T20:39:04.570Z",
+    "source": "en",
+    "target": "fr",
+    "input": "What we're feeling, it's not done this morning. Now say come play. ",
+    "output": "Ce que nous ressentons, ce n'est pas fait ce matin Maintenant dis viens jouer",
+    "durationMs": 1487
+  },
+  {
+    "timestamp": "2025-08-19T20:47:51.943Z",
+    "source": "hi",
+    "target": "en",
+    "input": "हेलो ",
+    "output": "hello",
+    "durationMs": 302
+  },
+  {
+    "timestamp": "2025-08-19T20:48:01.662Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Hi, this is sunny from IT service desk. How can I assist you today? ",
+    "output": "हाय, यह आईटी सेवा डेस्क से सनी है मैं आज आपकी help कैसे कर सकता हूँ?",
+    "durationMs": 1537
+  },
+  {
+    "timestamp": "2025-08-19T20:48:02.506Z",
+    "source": "hi",
+    "target": "en",
+    "input": "हेलो ",
+    "output": "hello",
+    "durationMs": 301
+  },
+  {
+    "timestamp": "2025-08-19T20:48:19.737Z",
+    "source": "hi",
+    "target": "en",
+    "input": "हनी फॉर यू स्पीकिंग समथिंग ",
+    "output": "Honey for You Speaking Something",
+    "durationMs": 488
+  },
+  {
+    "timestamp": "2025-08-19T20:48:23.560Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Can you try to open that PDF and read the in the? ",
+    "output": "आप उस पीडीएफ को खोलने की कोशिश कर सकते हैं और में पढ़ सकते हैं",
+    "durationMs": 1188
+  },
+  {
+    "timestamp": "2025-08-19T20:48:34.389Z",
+    "source": "hi",
+    "target": "en",
+    "input": "ओके ",
+    "output": "all right",
+    "durationMs": 333
+  },
+  {
+    "timestamp": "2025-08-19T20:48:38.367Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Yeah, I'm sticking and can you open the PDF and see topic 3 and from the can you, uh, read save as in the customer so that I, I, I'm an agent. ",
+    "output": "हाँ, मैं चिपक रहा हूँ और आप पीडीएफ खोल सकते हैं और subject 3 देख सकते हैं और कैन से आप, उह, ग्राहक के रूप में save पढ़ सकते हैं तो मैं, मैं, मैं एक agent हूँ",
+    "durationMs": 2769
+  },
+  {
+    "timestamp": "2025-08-19T20:49:07.175Z",
+    "source": "hi",
+    "target": "en",
+    "input": "ही समीर मुझे वीपीएन कनेक्ट करने में दिक्कत आ रही है जब भी कनेक्ट करने की कोशिश करता हूं एरर आता है ",
+    "output": "Hi Samir, I'm having trouble connecting to VPN every time I try to connect, I get an error.",
+    "durationMs": 1581
+  },
+  {
+    "timestamp": "2025-08-19T20:49:26.656Z",
+    "source": "en",
+    "target": "hi",
+    "input": "I'm sorry to hear that. May I know what exact error message you are saying when you try to connect? ",
+    "output": "मैं सुनने के लिए खेद है क्या मुझे पता है कि सटीक त्रुटि message आप कह रहे हैं जब आप कनेक्ट करने की कोशिश",
+    "durationMs": 1838
+  },
+  {
+    "timestamp": "2025-08-19T20:49:59.884Z",
+    "source": "hi",
+    "target": "en",
+    "input": "हेलो ",
+    "output": "hello",
+    "durationMs": 315
+  },
+  {
+    "timestamp": "2025-08-19T20:50:26.380Z",
+    "source": "hi",
+    "target": "en",
+    "input": "हेलो ",
+    "output": "hello",
+    "durationMs": 328
+  },
+  {
+    "timestamp": "2025-08-19T20:52:09.995Z",
+    "source": "hi",
+    "target": "en",
+    "input": "एरर आ रहा है वीपीएन कनेक्शन फेल्ड ड्यू टू टाइमआउट कभी-कभी ऑथेंटिकेशन फेल भी लिखा आता है ",
+    "output": "error oCCurring VPN connection failed due to timeout sometimes also written authentication failed",
+    "durationMs": 1150
+  },
+  {
+    "timestamp": "2025-08-19T20:53:26.748Z",
+    "source": "en",
+    "target": "hi",
+    "input": "You are speaking something. ",
+    "output": "तुम कुछ बोल रहे हो",
+    "durationMs": 478
+  },
+  {
+    "timestamp": "2025-08-19T20:53:41.638Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Saying that, are you using Google product dot Cisco any connector? ",
+    "output": "यह कहते हुए, आप गूगल product डॉट सिस्को किसी भी कनेक्टर का उपयोग कर रहे हैं",
+    "durationMs": 1318
+  },
+  {
+    "timestamp": "2025-08-19T20:53:43.355Z",
+    "source": "hi",
+    "target": "en",
+    "input": "हां मुझे आप बोल सकती हैं क्या ",
+    "output": "Yes I can talk to you Kaya",
+    "durationMs": 679
+  },
+  {
+    "timestamp": "2025-08-19T20:53:58.881Z",
+    "source": "hi",
+    "target": "en",
+    "input": "ग्लोबल प्रोटेक्ट ही उसे करता हूं आज सुबह से ही कनेक्ट नहीं हो रहा है ",
+    "output": "Global Protection is doing it. It hasn't been connected since this morning.",
+    "durationMs": 1052
+  },
+  {
+    "timestamp": "2025-08-19T20:54:02.292Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Yeah, can you tell what is your problem or like what you are facing? ",
+    "output": "हाँ, क्या आप बता सकते हैं कि आपकी समस्या क्या है या आपको क्या पसंद है",
+    "durationMs": 1467
+  },
+  {
+    "timestamp": "2025-08-19T20:54:14.460Z",
+    "source": "en",
+    "target": "hi",
+    "input": "All right. Just to confirm, are you connected to your home Wi-Fi or mobile hotspot? ",
+    "output": "ठीक है . बस confirmation करने के लिए, आप अपने घर वाई-फाई या मोबाइल हॉटस्पॉट से जुड़े हैं",
+    "durationMs": 1938
+  },
+  {
+    "timestamp": "2025-08-19T20:54:18.619Z",
+    "source": "hi",
+    "target": "en",
+    "input": "मैं घर का वाई-फाई उसे कर रहा हूं नेट तो सही चल रहा है ",
+    "output": "I'm doing the home Wi-Fi so the net is working fine",
+    "durationMs": 1047
+  },
+  {
+    "timestamp": "2025-08-19T20:54:37.339Z",
+    "source": "hi",
+    "target": "en",
+    "input": "मैं घर का वाई-फाई उसे कर रहा हूं नेट तो सही चल रहा है लेकिन सिर्फ वीपीएन ही कनेक्ट नहीं हो रहा है ",
+    "output": "I'm doing home Wi-Fi, the net is working fine, but only the VPN isn't connecting.",
+    "durationMs": 1533
+  },
+  {
+    "timestamp": "2025-08-19T20:54:42.185Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Understood, Sometimes a restart of the Google product service helps. Can you try disconnecting and quoting the app completely from the system tray? ",
+    "output": "समझ में आता है, कभी कभी गूगल product सेवा का पुनरारंभ मदद करता है आप प्रणाली ट्रे से पूरी तरह से application को disconnected करने और उद्धृत करने की कोशिश कर सकते हैं",
+    "durationMs": 2485
+  },
+  {
+    "timestamp": "2025-08-19T20:55:04.098Z",
+    "source": "hi",
+    "target": "en",
+    "input": "ठीक है हां मैं क्यूट कर दिया ",
+    "output": "All right, yeah, I did.",
+    "durationMs": 721
+  },
+  {
+    "timestamp": "2025-08-19T20:55:08.604Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Bonjour Moinya goosey Adobe, Rejoin me Muenya Megousei and. ",
+    "output": "Bonjour Moinya goosey एडोब, मेरे साथ मिलिए Muenya Megousei और",
+    "durationMs": 1358
+  },
+  {
+    "timestamp": "2025-08-19T20:55:11.332Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Meri Bob kabira hai. ",
+    "output": "मैरी बॉब कबीरा है",
+    "durationMs": 599
+  },
+  {
+    "timestamp": "2025-08-19T20:55:31.268Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Great, now open it again and try connecting. Also make sure you entered your ad creationals correctly. ",
+    "output": "महान, अब इसे फिर से खोलें और कनेक्ट करने की कोशिश यह भी सुनिश्चित करें कि आप अपने विmemo रचनाओं सही दर्ज किया है",
+    "durationMs": 1888
+  },
+  {
+    "timestamp": "2025-08-19T20:55:33.367Z",
+    "source": "hi",
+    "target": "en",
+    "input": "अभी ट्राई किया अभी भी वही टाइम हॉल एरर आ रहा है ",
+    "output": "I 'm still getting the same time hall error",
+    "durationMs": 941
+  },
+  {
+    "timestamp": "2025-08-19T20:55:49.806Z",
+    "source": "hi",
+    "target": "en",
+    "input": "सर में वेट कर रहा हूं ",
+    "output": "I 'm weighing in sir",
+    "durationMs": 550
+  },
+  {
+    "timestamp": "2025-08-19T20:55:52.133Z",
+    "source": "en",
+    "target": "hi",
+    "input": "OK, I will do a quick check from our side to see if your account is locked or if there is any back end issues. Please hold on for a moment. ",
+    "output": "ठीक है, मैं हमारे पक्ष से एक त्वरित जांच करने के लिए अपने खाते को closed कर दिया है या अगर वहाँ किसी भी बैक एंड मुद्दों है देखेंगे कृपया एक पल के लिए रुको",
+    "durationMs": 2421
+  },
+  {
+    "timestamp": "2025-08-19T20:56:14.064Z",
+    "source": "hi",
+    "target": "en",
+    "input": "ठीक है मैं वेट कर रहा हूं ",
+    "output": "All right I 'm waiting",
+    "durationMs": 591
+  },
+  {
+    "timestamp": "2025-08-19T20:56:32.396Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Get the open it again and try connecting. Also make sure you are entering your AD credentials correctly. ",
+    "output": "इसे फिर से खोलें और कनेक्ट करने की कोशिश करें यह भी सुनिश्चित करें कि आप अपने AD क्रेडेंशियल्स सही दर्ज कर रहे हैं",
+    "durationMs": 2040
+  },
+  {
+    "timestamp": "2025-08-19T20:56:52.849Z",
+    "source": "hi",
+    "target": "en",
+    "input": "हथोड़ा आता है आप बोलिए क्या करना है ",
+    "output": "The hammer comes. You have to talk.",
+    "durationMs": 666
+  },
+  {
+    "timestamp": "2025-08-19T20:57:14.044Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Thanks for waiting. I have checked your account locks fine. I suspect that global product line may be stuck. I will guide you to clear the cache portal data. Are you comfortable opening command prompt? ",
+    "output": "इंतज़ार करने के लिए thanks मैं अपने खाते ताला ठीक जाँच की है मुझे संदेह है कि वैश्विक product लाइन अटक सकती है मैं कैश portal डेटा को clear़ करने के लिए आप का pathदर्शन करेंगे क्या आप कमांड प्रॉम्प्ट खोलने के लिए सहज हैं",
+    "durationMs": 3832
+  },
+  {
+    "timestamp": "2025-08-19T20:57:39.178Z",
+    "source": "hi",
+    "target": "en",
+    "input": "हां थोड़ा-थोड़ा आता है आप बोलिए क्या करना है ",
+    "output": "Yes, a little bit. You have to talk.",
+    "durationMs": 822
+  },
+  {
+    "timestamp": "2025-08-19T20:57:43.485Z",
+    "source": "en",
+    "target": "hi",
+    "input": "There was a picture. ",
+    "output": "एक तस्वीर थी",
+    "durationMs": 356
+  },
+  {
+    "timestamp": "2025-08-19T20:57:58.522Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Thank you for connecting to IT service desk guy. If if there is anything else to do or if there is nothing, we make out the call. ",
+    "output": "आईटी सेवा डेस्क आदमी से कनेक्ट करने के लिए thanks अगर अगर वहाँ कुछ और करने के लिए है या अगर वहाँ कुछ भी नहीं है, हम बाहर कॉल करते हैं",
+    "durationMs": 2108
+  },
+  {
+    "timestamp": "2025-08-19T20:58:27.687Z",
+    "source": "hi",
+    "target": "en",
+    "input": "बिल्कुल आपने काफी हेल्प की अगर दोबारा हुआ तो डेफिनेटली कांटेक्ट करूंगा ",
+    "output": "You've been very helpful, and I'll definitely be in touch if it happens again.",
+    "durationMs": 1253
+  },
+  {
+    "timestamp": "2025-08-19T20:58:35.257Z",
+    "source": "en",
+    "target": "hi",
+    "input": "What's the plan? ",
+    "output": "क्या plan है",
+    "durationMs": 385
+  },
+  {
+    "timestamp": "2025-08-19T20:58:38.311Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Thank you. You make up the call. ",
+    "output": "thanks. आप कॉल बनाओ",
+    "durationMs": 665
+  },
+  {
+    "timestamp": "2025-08-19T21:00:22.921Z",
+    "source": "hi",
+    "target": "en",
+    "input": "हरीश ",
+    "output": "Harish",
+    "durationMs": 464
+  },
+  {
+    "timestamp": "2025-08-19T21:00:25.028Z",
+    "source": "hi",
+    "target": "en",
+    "input": "हेलो ",
+    "output": "hello",
+    "durationMs": 439
+  },
+  {
+    "timestamp": "2025-08-19T21:00:32.869Z",
+    "source": "hi",
+    "target": "en",
+    "input": "हेलो हनीफ ",
+    "output": "Hello, how are you?",
+    "durationMs": 628
+  },
+  {
+    "timestamp": "2025-08-19T21:00:39.625Z",
+    "source": "hi",
+    "target": "en",
+    "input": "हनीफ यू आर इन म्यूट आई थिंक ",
+    "output": "Honey, you're in my mind.",
+    "durationMs": 1303
+  },
+  {
+    "timestamp": "2025-08-19T21:00:52.100Z",
+    "source": "hi",
+    "target": "en",
+    "input": "हेलो ",
+    "output": "hello",
+    "durationMs": 375
+  },
+  {
+    "timestamp": "2025-08-19T21:01:20.321Z",
+    "source": "hi",
+    "target": "en",
+    "input": "हेलो हनीफ ",
+    "output": "Hello, how are you?",
+    "durationMs": 591
+  },
+  {
+    "timestamp": "2025-08-19T21:02:33.833Z",
+    "source": "en",
+    "target": "hi",
+    "input": "He raised over my message. ",
+    "output": "उसने मेरे message को ऊपर उठाया",
+    "durationMs": 655
+  },
+  {
+    "timestamp": "2025-08-19T21:02:50.868Z",
+    "source": "hi",
+    "target": "en",
+    "input": "हेलो ",
+    "output": "hello",
+    "durationMs": 370
+  },
+  {
+    "timestamp": "2025-08-19T21:02:57.456Z",
+    "source": "hi",
+    "target": "en",
+    "input": "हेलो हनीफ ",
+    "output": "Hello, how are you?",
+    "durationMs": 603
+  },
+  {
+    "timestamp": "2025-08-19T21:03:06.228Z",
+    "source": "hi",
+    "target": "en",
+    "input": "हेलो हनीफ ",
+    "output": "Hello, how are you?",
+    "durationMs": 539
+  },
+  {
+    "timestamp": "2025-08-19T21:06:04.228Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Hello Vijay, Are you able to hear me? ",
+    "output": "हैलो विजय, क्या आप मुझे सुन सकते हैं?",
+    "durationMs": 690
+  },
+  {
+    "timestamp": "2025-08-19T21:07:31.451Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Is honey from cytosis? How can I help you today? ",
+    "output": "क्या मधु सीटोसिस से है? मैं आज आपकी कैसे मदद कर सकता हूँ?",
+    "durationMs": 1134
+  },
+  {
+    "timestamp": "2025-08-19T21:07:44.237Z",
+    "source": "hi",
+    "target": "en",
+    "input": "ही समीर ",
+    "output": "Sameer",
+    "durationMs": 324
+  },
+  {
+    "timestamp": "2025-08-19T21:07:55.153Z",
+    "source": "hi",
+    "target": "en",
+    "input": "मैं प्रिंट निकल ने की कोशिश कर रहा हूं लेकिन प्रिंटर काम नहीं कर रहा फाइल सेंटर कर रहा हूं पर प्रिंट नहीं आता है ",
+    "output": "I 'm trying to print out , but the printer 's not working . I 'm trying to file center , but the print doesn 't come .",
+    "durationMs": 1672
+  },
+  {
+    "timestamp": "2025-08-19T21:08:09.913Z",
+    "source": "en",
+    "target": "hi",
+    "input": "It will automatically stick to the back end. ",
+    "output": "यह स्वचालित रूप से बैक एंड पर चिपक जाएगा",
+    "durationMs": 728
+  },
+  {
+    "timestamp": "2025-08-19T21:08:13.711Z",
+    "source": "en",
+    "target": "hi",
+    "input": "I see, let's get this fixed. ",
+    "output": "मैं समझता हूँ, चलो इसे ठीक हो जाओ",
+    "durationMs": 656
+  },
+  {
+    "timestamp": "2025-08-19T21:08:17.920Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Is this printer showing online or offline on your system? ",
+    "output": "क्या यह printer आपके system पर ऑनलाइन या ऑफलाइन दिखा रहा है",
+    "durationMs": 908
+  },
+  {
+    "timestamp": "2025-08-19T21:08:30.752Z",
+    "source": "en",
+    "target": "hi",
+    "input": "OK. ",
+    "output": "ठीक है",
+    "durationMs": 333
+  },
+  {
+    "timestamp": "2025-08-19T21:08:38.484Z",
+    "source": "en",
+    "target": "hi",
+    "input": "What I did? ",
+    "output": "मैंने क्या किया",
+    "durationMs": 349
+  },
+  {
+    "timestamp": "2025-08-19T21:09:00.724Z",
+    "source": "hi",
+    "target": "en",
+    "input": "एक सेकंड सिस्टम में प्रिंटर ऑफलाइन दिख रहा है लेकिन प्रिंटर तो ऑन है और लाइट भी जल रहा है ",
+    "output": "One second the system shows the printer is offline but the printer is on and the lights are on.",
+    "durationMs": 1182
+  },
+  {
+    "timestamp": "2025-08-19T21:09:23.663Z",
+    "source": "en",
+    "target": "hi",
+    "input": "All right, which printer are you using? Is it the one connected to your system via USB or the shared office network printer? ",
+    "output": "ठीक है, आप किस printer का उपयोग कर रहे हैं यह एक यूएसबी या shared कार्यालय network printer के माध्यम से अपने system से जुड़ा है",
+    "durationMs": 1843
+  },
+  {
+    "timestamp": "2025-08-19T21:09:47.197Z",
+    "source": "hi",
+    "target": "en",
+    "input": "लैंड केबल से कनेक्ट होम इंटरनेट भी सही चल रहा है ",
+    "output": "Connecting to the land cable home internet is also working fine.",
+    "durationMs": 728
+  },
+  {
+    "timestamp": "2025-08-19T21:09:48.693Z",
+    "source": "en",
+    "target": "hi",
+    "input": "If you need to switch parties to. ",
+    "output": "यदि आपको walkthrough्टियों को बदलने की आवश्यकता है",
+    "durationMs": 546
+  },
+  {
+    "timestamp": "2025-08-19T21:10:03.777Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Got it. Can you please check if you are connected to the office Wi-Fi or LAN cable? ",
+    "output": "मिल गया क्या आप कृपया जांच कर सकते हैं कि क्या आप कार्यालय वाई-फाई या लैन cable से जुड़े हैं",
+    "durationMs": 1435
+  },
+  {
+    "timestamp": "2025-08-19T21:10:09.200Z",
+    "source": "hi",
+    "target": "en",
+    "input": "खान समीर मैं एनी डेस्क ओपन करता हूं ईद ईद है 754902313 ",
+    "output": "Khan Sameer, I am opening the desk of Annie Eid is Eid 754902313",
+    "durationMs": 1153
+  },
+  {
+    "timestamp": "2025-08-19T21:10:20.970Z",
+    "source": "hi",
+    "target": "en",
+    "input": "रिक्वेस्ट एक्सेप्ट कर लिया है ",
+    "output": "request has been executed",
+    "durationMs": 498
+  },
+  {
+    "timestamp": "2025-08-19T21:10:24.943Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Thanks. I am connecting now. Please accept the request. ",
+    "output": "thanks. मैं अब कनेक्ट कर रहा हूँ कृपया अनुरोध स्वीकार करें",
+    "durationMs": 1140
+  },
+  {
+    "timestamp": "2025-08-19T21:10:33.886Z",
+    "source": "en",
+    "target": "hi",
+    "input": "He's reading something. He's reading it. ",
+    "output": "वह कुछ पढ़ रहा है वह इसे पढ़ रहा है",
+    "durationMs": 878
+  },
+  {
+    "timestamp": "2025-08-19T21:10:54.576Z",
+    "source": "hi",
+    "target": "en",
+    "input": "ठीक है मैं एक पीडीएफ फाइल प्रिंट कर रहा हूं आस अब प्रिंट कहां गया पहले तो सटक हो गया था अब निकल गया ",
+    "output": "OK, I'm printing a pdf file. Now where did the print go?",
+    "durationMs": 1172
+  },
+  {
+    "timestamp": "2025-08-19T21:11:23.718Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Awesome uh looks like it was just a spoil spooler hang. Just heads up uh, if this happens again, uh try res restarting the printer and checking the spooler or fingers anytime. ",
+    "output": "भयानक उह यह सिर्फ एक spoil spooler लटका था की तरह लग रहा है बस हेडअप उह, अगर यह फिर से होता है, उह printer को फिर से शुरू करने की कोशिश करें और किसी भी time स्पूलर या उंगलियों की जांच करें",
+    "durationMs": 3283
+  },
+  {
+    "timestamp": "2025-08-19T21:11:47.893Z",
+    "source": "hi",
+    "target": "en",
+    "input": "जरूर अपने टाइम पर हेल्प कर दिया वरना मेरा क्लाइंट रिपोर्ट लेते हो जाता ",
+    "output": "You must have helped out on time or my client would have taken the report.",
+    "durationMs": 1125
+  },
+  {
+    "timestamp": "2025-08-19T21:12:01.972Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Glad I could help. Anything else I can assist you with today? ",
+    "output": "खुशी है कि मैं मदद कर सका कुछ और मैं आज आप के साथ मदद कर सकते हैं",
+    "durationMs": 1631
+  },
+  {
+    "timestamp": "2025-08-19T21:12:20.781Z",
+    "source": "hi",
+    "target": "en",
+    "input": "फॉर योर सपोर्ट ",
+    "output": "for your support",
+    "durationMs": 420
+  },
+  {
+    "timestamp": "2025-08-19T21:12:36.811Z",
+    "source": "en",
+    "target": "hi",
+    "input": "You're welcome. Have a productive day ahead. ",
+    "output": "आप का welcome एक फलदायी दिन है",
+    "durationMs": 837
+  },
+  {
+    "timestamp": "2025-08-19T21:12:55.894Z",
+    "source": "en",
+    "target": "hi",
+    "input": "See, I'm saying there is full stop everything in punctuation. ",
+    "output": "देखो, मैं कह रहा हूँ वहाँ पूर्ण closed है सब कुछ विराम चिह्न में",
+    "durationMs": 1083
+  },
+  {
+    "timestamp": "2025-08-19T21:13:07.109Z",
+    "source": "hi",
+    "target": "en",
+    "input": "थैंक्स ",
+    "output": "thank you",
+    "durationMs": 320
+  },
+  {
+    "timestamp": "2025-08-19T21:13:12.269Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Oh, and you need to speak something I never you need to stop after that. You can leave this book like that. Oh, OK. Oh, you're welcome. Exclamation mark. Yeah, you understand? Homemade. ",
+    "output": "ओह, और आप कुछ बात करने की जरूरत है मैं कभी नहीं आप के बाद closed करने की जरूरत है आप इस पुस्तक को इस तरह छोड़ सकते हैं ओह, ठीक है ओह, आप का welcome उद्announcement चिह्न हाँ, आप समझते हैं घर का बना",
+    "durationMs": 4192
+  },
+  {
+    "timestamp": "2025-08-19T21:13:24.047Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Accent is different whenever if you speak in Hindi, I'm just saying thing is happening. She let us consider booty. So whenever he spoke in Hindi, you tell booth. ",
+    "output": "जब भी आप हिंदी बोलते हैं तो उच्चारण अलग होता है, मैं सिर्फ यह कह रहा हूं कि कुछ हो रहा है उसने हमें लूट पर regards करने दिया तो जब भी वह हिंदी में बात की, तुम बूथ को बताओ",
+    "durationMs": 3044
+  },
+  {
+    "timestamp": "2025-08-19T21:13:30.925Z",
+    "source": "en",
+    "target": "hi",
+    "input": "OK, both, both in England in the same situation. I think ghost, ghost. It's the problem based on. ",
+    "output": "ठीक है, दोनों, दोनों इंग्लैंड में एक ही स्थिति में मुझे लगता है भूत, भूत यह समस्या पर आधारित है",
+    "durationMs": 1866
+  },
+  {
+    "timestamp": "2025-08-19T21:13:40.771Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Wait, wait, wait, wait, wait. You said thank you so. ",
+    "output": "pending, pending, pending, pending, pending आपने कहा था कि thanks",
+    "durationMs": 1153
+  },
+  {
+    "timestamp": "2025-08-26T16:38:33.155Z",
+    "source": "hi",
+    "target": "en",
+    "input": "समीर आप कैसे हो ",
+    "output": "Sameer, how are you?",
+    "durationMs": 2461
+  },
+  {
+    "timestamp": "2025-08-26T16:38:33.917Z",
+    "source": "hi",
+    "target": "en",
+    "input": "क्या ",
+    "output": "caia",
+    "durationMs": 247
+  },
+  {
+    "timestamp": "2025-08-26T16:38:45.860Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Hi, I'm great. What about you? ",
+    "output": "हाय, मैं महान हूँ क्या आप के बारे में",
+    "durationMs": 750
+  },
+  {
+    "timestamp": "2025-08-26T16:38:55.148Z",
+    "source": "en",
+    "target": "hi",
+    "input": "How long? ",
+    "output": "कब तक",
+    "durationMs": 257
+  }
+]

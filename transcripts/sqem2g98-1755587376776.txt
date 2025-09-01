@@ -1,0 +1,62 @@
+
+[8/19/2025, 12:26:54 PM] i5FABiwM261gbN-3AAAK: OK, good morning. This is Rahul from IT service Desk. How can I help you? 
+[8/19/2025, 12:26:54 PM] _dt0kF5sKeYOZKcBAAAO: थिस इंस्टॉल 
+[8/19/2025, 12:27:26 PM] i5FABiwM261gbN-3AAAK: Good morning. 
+[8/19/2025, 12:27:26 PM] _dt0kF5sKeYOZKcBAAAO: गुड मॉर्निंग राहुल मेरे सिस्टम बहुत स्लो चल रहा है आज सुबह से कोई काम ठीक से नहीं हो रहा था 
+[8/19/2025, 12:27:41 PM] i5FABiwM261gbN-3AAAK: Good morning, Rahul. 
+[8/19/2025, 12:27:45 PM] i5FABiwM261gbN-3AAAK: On both slopes and the high call. 
+[8/19/2025, 12:27:45 PM] _dt0kF5sKeYOZKcBAAAO: मेरे सिस्टम बहुत स्लो चल रहा है आज सुबह से कोई काम ठीक से हो नहीं रहा 
+[8/19/2025, 12:27:57 PM] _dt0kF5sKeYOZKcBAAAO: था 
+[8/19/2025, 12:27:59 PM] i5FABiwM261gbN-3AAAK: I'm sorry to hear that. May I know since when you have been facing this issue? 
+[8/19/2025, 12:28:14 PM] i5FABiwM261gbN-3AAAK: Shubha 9 by the Seahawks. 
+[8/19/2025, 12:28:19 PM] i5FABiwM261gbN-3AAAK: So we think you have many laptop on gear to book only maintenance and. 
+[8/19/2025, 12:28:19 PM] _dt0kF5sKeYOZKcBAAAO: सुबह 9:00 बजे से ही प्रॉब्लम शुरू हो गई थी जब मैं लैपटॉप ऑन किया तो भूत होने में 10 मिनट लग गए 
+[8/19/2025, 12:28:36 PM] i5FABiwM261gbN-3AAAK: To office network or using VP. 
+[8/19/2025, 12:28:50 PM] _dt0kF5sKeYOZKcBAAAO: हो लेकिन नेटवर्क ठीक चल रहा है सिर्फ सिस्टम ही बहुत स्लगे फील हो रहा है 
+[8/19/2025, 12:29:05 PM] i5FABiwM261gbN-3AAAK: Can I remotely access your system to check the performance? 
+[8/19/2025, 12:29:21 PM] _dt0kF5sKeYOZKcBAAAO: आप रीमोटली एक्सेस कर सकते हो 
+[8/19/2025, 12:29:24 PM] _dt0kF5sKeYOZKcBAAAO: मैं एनी डिस्क ओपन कर देता हूं 
+[8/19/2025, 12:29:33 PM] i5FABiwM261gbN-3AAAK: Share doing disk ID. 
+[8/19/2025, 12:29:44 PM] _dt0kF5sKeYOZKcBAAAO: यह रहा मेरा आईडी 123456789 
+[8/19/2025, 12:29:57 PM] i5FABiwM261gbN-3AAAK: I'm connecting now. Please accept the request. 
+[8/19/2025, 12:30:07 PM] _dt0kF5sKeYOZKcBAAAO: थे रिक्वेस्ट एक्सेप्ट कर रहा है कर लिया है 
+[8/19/2025, 12:30:25 PM] i5FABiwM261gbN-3AAAK: Thanks, I can see your CPU usage is very high. A few background apps are consuming a lot of memory. Did you recently install any new software? 
+[8/19/2025, 12:30:50 PM] _dt0kF5sKeYOZKcBAAAO: और मैं कल एक पीडीएफ कन्वर्टर इंस्टॉल किया था उसके बाद से ही सिस्टम हैवी लग रहा है 
+[8/19/2025, 12:30:55 PM] i5FABiwM261gbN-3AAAK: Welcome to Timeshare. 
+[8/19/2025, 12:31:01 PM] i5FABiwM261gbN-3AAAK: Two times, but I also got two times. 
+[8/19/2025, 12:31:13 PM] i5FABiwM261gbN-3AAAK: Alright, that might be the issue. I'll uninstall that for now and clean up temporary files. I'll also run a quick performance check. 
+[8/19/2025, 12:31:25 PM] i5FABiwM261gbN-3AAAK: Hey, Cortana. 
+[8/19/2025, 12:31:29 PM] i5FABiwM261gbN-3AAAK: Set current on cancel alarm. 
+[8/19/2025, 12:31:33 PM] _dt0kF5sKeYOZKcBAAAO: ठीक है अब 
+[8/19/2025, 12:31:37 PM] i5FABiwM261gbN-3AAAK: Meetings on the beginning of the weekend. 
+[8/19/2025, 12:31:39 PM] _dt0kF5sKeYOZKcBAAAO: उसे ठीक है आप जो सही लगे वह कर लीजिए 
+[8/19/2025, 12:32:01 PM] i5FABiwM261gbN-3AAAK: Then I have removed unnecessary apps, cleared cache, restarted the background service. Try using system now and let me know if it feels better. 
+[8/19/2025, 12:32:03 PM] i5FABiwM261gbN-3AAAK: Hey, Cortana. 
+[8/19/2025, 12:32:30 PM] _dt0kF5sKeYOZKcBAAAO: आप सिस्टम काफी फास्ट लग रहा है बट भी जल्दी हो गया थैंक यू सो मच 
+[8/19/2025, 12:32:55 PM] i5FABiwM261gbN-3AAAK: You're welcome. Please avoid installing unverified software going forward. If the issue comes back, please feel free to reach out to us anytime. 
+[8/19/2025, 12:32:55 PM] _dt0kF5sKeYOZKcBAAAO: टिशु कम्स बैक टू रिचार्ज 
+[8/19/2025, 12:33:25 PM] i5FABiwM261gbN-3AAAK: Overall it is good only bro but there are like in translation there are no that is not translation that will be issues accent issue tissues come back for recharge this one see maybe issue issue issue the issue tissue so. 
+[8/19/2025, 12:33:37 PM] i5FABiwM261gbN-3AAAK: English accent issue of course, but it got it. See. Ha, Your system looks pretty fast, but it got even faster. Like this doesn't make sense, right? 
+[8/19/2025, 12:33:42 PM] i5FABiwM261gbN-3AAAK: And also, what is this bro? This. Hey, Cortana. 
+[8/19/2025, 12:33:57 PM] i5FABiwM261gbN-3AAAK: So when like in the background when we are speaking, it is written that OK the system looks pretty fast but it got even this one is this one have got no translation OK. 
+[8/19/2025, 12:33:58 PM] i5FABiwM261gbN-3AAAK: One issue. 
+[8/19/2025, 12:34:05 PM] i5FABiwM261gbN-3AAAK: OK. 
+[8/19/2025, 12:34:26 PM] i5FABiwM261gbN-3AAAK: Hey, mute. Call Indarika. Wait a minute. Call the transcript, will you go? No, it didn't. OK for me. I'm running properly. You bro? Yeah, bro, mostly properly. 
+[8/19/2025, 12:34:41 PM] i5FABiwM261gbN-3AAAK: But I can say something, the model is you're working using the benchmark model. So if any translation mistake is there in the model, we can't change it. Only thing we can improve is the accent or you can improve change the model itself. 
+[8/19/2025, 12:34:45 PM] i5FABiwM261gbN-3AAAK: Model. We tested all the models and we gave this model. 
+[8/19/2025, 12:34:50 PM] i5FABiwM261gbN-3AAAK: All requirements it's going to be changing like 4 models according to others requirement. This is the final one. We fixed it. 
+[8/19/2025, 12:35:00 PM] i5FABiwM261gbN-3AAAK: Of course a good model for translation. Have you tried with some bigger models? But that will take a lot of time. 
+[8/19/2025, 12:35:32 PM] i5FABiwM261gbN-3AAAK: Hmm, very nice things. The later thing that boosts the like boot, it have to get us boot and it'll database that is happening whenever you speak. Tell me like. 
+[8/19/2025, 12:35:43 PM] i5FABiwM261gbN-3AAAK: We're playing with. We have something called. 
+[8/19/2025, 12:35:47 PM] i5FABiwM261gbN-3AAAK: In Hindi. 
+[8/19/2025, 12:35:58 PM] i5FABiwM261gbN-3AAAK: If you need outlook, you said English, it will directly if you do translation something. 
+[8/19/2025, 12:36:02 PM] i5FABiwM261gbN-3AAAK: We have to extend that. 
+[8/19/2025, 12:36:23 PM] i5FABiwM261gbN-3AAAK: We look into page one, we upload translation application. This is the main thing. That's it mostly. It's getting the mainly translating it. We can improve, but we'll do it late. Yeah, because even the paid versions are like I have tried to. 
+[8/19/2025, 12:36:34 PM] i5FABiwM261gbN-3AAAK: You don't remember they're they're also probably like both something. 
+[8/19/2025, 12:36:40 PM] i5FABiwM261gbN-3AAAK: Yeah, I'll do the feedback. 
+[8/19/2025, 12:36:45 PM] i5FABiwM261gbN-3AAAK: Yeah, I think it's not the languages you're offering if you have this. 
+[8/19/2025, 12:36:46 PM] i5FABiwM261gbN-3AAAK: Yeah. 
+[8/19/2025, 12:37:05 PM] i5FABiwM261gbN-3AAAK: This morning reached to anything anything English to do anything but anything that everything is larger for how many want to make other. So basically agent will sneak in English. So basically. 
+[8/19/2025, 12:37:25 PM] i5FABiwM261gbN-3AAAK: Hey, anything better than the other language? No, since they'll have more corpus for that. It's actually created by Facebook, so they have they'll have Spanish. 
+[8/19/2025, 12:37:28 PM] i5FABiwM261gbN-3AAAK: European language. 
+[8/19/2025, 12:37:32 PM] i5FABiwM261gbN-3AAAK: So you can train that we'll be. 

@@ -1,0 +1,34 @@
+[
+  {
+    "timestamp": "2025-08-26T16:38:33.155Z",
+    "source": "hi",
+    "target": "en",
+    "input": "समीर आप कैसे हो ",
+    "output": "Sameer, how are you?",
+    "durationMs": 2461
+  },
+  {
+    "timestamp": "2025-08-26T16:38:33.917Z",
+    "source": "hi",
+    "target": "en",
+    "input": "क्या ",
+    "output": "caia",
+    "durationMs": 247
+  },
+  {
+    "timestamp": "2025-08-26T16:38:45.860Z",
+    "source": "en",
+    "target": "hi",
+    "input": "Hi, I'm great. What about you? ",
+    "output": "हाय, मैं महान हूँ क्या आप के बारे में",
+    "durationMs": 750
+  },
+  {
+    "timestamp": "2025-08-26T16:38:55.148Z",
+    "source": "en",
+    "target": "hi",
+    "input": "How long? ",
+    "output": "कब तक",
+    "durationMs": 257
+  }
+]
