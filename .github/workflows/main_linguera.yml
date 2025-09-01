@@ -52,4 +52,4 @@ jobs:
           app-name: 'Linguera'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_310F9B3CC6104DAD80F008CB4C8F6FB9 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1BCE51964D0847F09459BB3633471858 }}
