@@ -65,7 +65,7 @@ function validateInput(text, maxLength = config.maxTranslationLength) {
   }
   
   if (trimmed.length > maxLength) {
-    return { isValid: false, error: Text too long (max ${maxLength} characters) };
+    return { isValid: false, error: `Text too long (max ${maxLength} characters)` };
   }
   
   return { isValid: true, text: trimmed };
@@ -77,7 +77,7 @@ function validateInput(text, maxLength = config.maxTranslationLength) {
 
 async function checkPythonServiceHealth() {
   try {
-    const response = await fetch(${config.pythonServiceUrl}/health, {
+    const response = await fetch(`${config.pythonServiceUrl}/health`, {
       method: 'GET',
       timeout: 5000
     });
@@ -85,7 +85,7 @@ async function checkPythonServiceHealth() {
     if (response.ok) {
       const health = await response.json();
       pythonServiceHealthy = health.model_loaded;
-      console.log(🐍 Python service health: ${pythonServiceHealthy ? 'healthy' : 'unhealthy'});
+      console.log(`🐍 Python service health: ${pythonServiceHealthy ? 'healthy' : 'unhealthy'}`);
       return pythonServiceHealthy;
     }
     
@@ -103,7 +103,7 @@ async function translateWithPythonService(text, sourceLang, targetLang) {
   try {
     const startTime = Date.now();
     
-    const response = await fetch(${config.pythonServiceUrl}/translate, {
+    const response = await fetch(`${config.pythonServiceUrl}/translate`, {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
@@ -118,13 +118,13 @@ async function translateWithPythonService(text, sourceLang, targetLang) {
 
     if (!response.ok) {
       const errorData = await response.json().catch(() => ({ detail: 'Unknown error' }));
-      throw new Error(Translation failed: ${errorData.detail || response.statusText});
+      throw new Error(`Translation failed: ${errorData.detail || response.statusText}`);
     }
 
     const result = await response.json();
     const durationMs = Date.now() - startTime;
     
-    console.log(🐍 Translation completed: ${sourceLang} -> ${targetLang}, duration: ${durationMs}ms);
+    console.log(`🐍 Translation completed: ${sourceLang} -> ${targetLang}, duration: ${durationMs}ms`);
     
     return {
       translatedText: result.translated_text,
@@ -146,7 +146,7 @@ function loadExcludedWords() {
   try {
     if (fs.existsSync(EXCLUDED_WORDS_FILE)) {
       excludedWords = JSON.parse(fs.readFileSync(EXCLUDED_WORDS_FILE, 'utf8'));
-      console.log(📚 Loaded ${excludedWords.length} excluded words);
+      console.log(`📚 Loaded ${excludedWords.length} excluded words`);
     }
   } catch (error) {
     console.error('📚 Error loading excluded words:', error);
@@ -157,7 +157,7 @@ function loadExcludedWords() {
 function saveExcludedWords() {
   try {
     fs.writeFileSync(EXCLUDED_WORDS_FILE, JSON.stringify(excludedWords, null, 2), 'utf8');
-    console.log(📚 Saved ${excludedWords.length} excluded words);
+    console.log(`📚 Saved ${excludedWords.length} excluded words`);
   } catch (error) {
     console.error('📚 Error saving excluded words:', error);
   }
@@ -185,7 +185,7 @@ function applyWordReplacements(text, targetLang) {
       const escapedWord = targetWord.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
       
       // Strict word-boundary match
-      const boundaryRegex = new RegExp(\\b${escapedWord}\\b, 'gi');
+      const boundaryRegex = new RegExp(`\\b${escapedWord}\\b`, 'gi');
       if (boundaryRegex.test(processedText)) {
         processedText = processedText.replace(boundaryRegex, englishWord);
       } else {
@@ -224,7 +224,7 @@ function logTranslation({ source, target, input, output, durationMs, accuracy, r
   fs.mkdirSync(TRANSLATION_LOGS_DIR, { recursive: true });
 
   const dateStr = new Date().toISOString().slice(0,10).replace(/-/g, '');
-  const filePath = path.join(TRANSLATION_LOGS_DIR, ${roomId}-${dateStr}.json);
+  const filePath = path.join(TRANSLATION_LOGS_DIR, `${roomId}-${dateStr}.json`);
 
   // Write to per-room log file
   let logs = [];
@@ -238,7 +238,7 @@ function logTranslation({ source, target, input, output, durationMs, accuracy, r
   logs.push(logEntry);
   try {
     fs.writeFileSync(filePath, JSON.stringify(logs, null, 2), 'utf8');
-    console.log(📝 Translation log saved to: ${filePath});
+    console.log(`📝 Translation log saved to: ${filePath}`);
   } catch (error) {
     console.error('📝 Error writing translation log:', error);
   }
@@ -267,16 +267,16 @@ async function saveTranscript(roomId) {
   // Create transcripts directory
   fs.mkdirSync(TRANSCRIPTS_DIR, { recursive: true });
 
-  const filePath = path.join(TRANSCRIPTS_DIR, ${roomId}-${Date.now()}.txt);
+  const filePath = path.join(TRANSCRIPTS_DIR, `${roomId}-${Date.now()}.txt`);
   const content = log.map(m =>
-    [${new Date(m.timestamp).toLocaleString()}] ${m.type === 'translation' ? '[TRANSLATED] ' : ''}${m.sender}: ${m.transcript}
+    `[${new Date(m.timestamp).toLocaleString()}] ${m.type === 'translation' ? '[TRANSLATED] ' : ''}${m.sender}: ${m.transcript}`
   ).join('\n');
 
   try {
     fs.writeFileSync(filePath, content, 'utf8');
-    console.log(📄 Transcript saved to: ${filePath});
+    console.log(`📄 Transcript saved to: ${filePath}`);
   } catch (error) {
-    console.error(📄 Error saving transcript for room ${roomId}:, error);
+    console.error(`📄 Error saving transcript for room ${roomId}:`, error);
   }
 }
 
@@ -350,7 +350,7 @@ function performCleanup() {
       }
     }
     
-    console.log(🧹 Cleanup completed. Active rooms: ${rooms.size}, Active transcripts: ${transcripts.size});
+    console.log(`🧹 Cleanup completed. Active rooms: ${rooms.size}, Active transcripts: ${transcripts.size}`);
   } catch (error) {
     console.error('🧹 Error during cleanup:', error);
   }
@@ -428,7 +428,7 @@ app.post('/api/translate', async (req, res) => {
     const sl = source.split('-')[0];
     const tl = target.split('-')[0];
     
-    console.log(🔄 Translating with Python service: ${sl} -> ${tl});
+    console.log(`🔄 Translating with Python service: ${sl} -> ${tl}`);
     
     // Call Python microservice for translation
     const translationResult = await translateWithPythonService(validation.text, sl, tl);
@@ -466,7 +466,7 @@ app.post('/api/translate', async (req, res) => {
       roomId: logRoomId 
     });
     
-    console.log(✅ Translation completed: ${sl} -> ${tl}, duration: ${durationMs}ms);
+    console.log(`✅ Translation completed: ${sl} -> ${tl}, duration: ${durationMs}ms`);
     res.json({ translated: translatedText });
     
   } catch (err) {
@@ -581,7 +581,7 @@ app.post('/api/feedback', async (req, res) => {
     
     const timestamp = Date.now();
     fs.writeFileSync(
-      path.join(dirPath, feedback-${timestamp}.json), 
+      path.join(dirPath, `feedback-${timestamp}.json`), 
       JSON.stringify(feedback, null, 2), 
       'utf8'
     );
@@ -651,7 +651,7 @@ io.on('connection', (socket) => {
     for (const email in agentAvailability) {
       if (agentAvailability[email]) availableCount++;
     }
-    console.log([get-agents-online] Emitting agents-online:, availableCount);
+    console.log(`[get-agents-online] Emitting agents-online:`, availableCount);
     socket.emit('agents-online', availableCount);
   });
 
@@ -786,12 +786,12 @@ io.on('connection', (socket) => {
 // ================================
 
 async function gracefulShutdown(signal) {
-  console.log(🔄 Received ${signal}, shutting down gracefully...);
+  console.log(`🔄 Received ${signal}, shutting down gracefully...`);
   
   // Save all pending transcripts
   const savePromises = Array.from(rooms.keys()).map(roomId => 
     saveTranscript(roomId).catch(error => 
-      console.error(📄 Error saving transcript for room ${roomId}:, error)
+      console.error(`📄 Error saving transcript for room ${roomId}:`, error)
     )
   );
   
@@ -822,18 +822,18 @@ async function initialize() {
     // Create directories for organized storage
     fs.mkdirSync(TRANSLATION_LOGS_DIR, { recursive: true });
     fs.mkdirSync(TRANSCRIPTS_DIR, { recursive: true });
-    console.log(📁 Created directories:);
+    console.log(`📁 Created directories:`);
     console.log(`   - Translation logs: ${TRANSLATION_LOGS_DIR}`);
     console.log(`   - Transcripts: ${TRANSCRIPTS_DIR}`);
     
     // Check Python service health
-    console.log(🐍 Checking Python translation service at ${config.pythonServiceUrl}...);
+    console.log(`🐍 Checking Python translation service at ${config.pythonServiceUrl}...`);
     const pythonHealthy = await checkPythonServiceHealth();
     
     if (pythonHealthy) {
       console.log('✅ Python translation service is healthy');
     } else {
-      console.log('⚠  Python translation service is not available. Translation will not work until the service is started.');
+      console.log('⚠️  Python translation service is not available. Translation will not work until the service is started.');
       console.log('   Start the Python service with: cd nllb_translation_service && python main.py');
     }
     
@@ -852,9 +852,9 @@ async function initialize() {
     // Start server
     server.listen(config.port, () => {
       console.log('Listening on port:', config.port);
-      console.log(🚀 Node.js server running at http://localhost:${config.port});
-      console.log(📊 Health check available at http://localhost:${config.port}/health);
-      console.log(🐍 Python service expected at ${config.pythonServiceUrl});
+      console.log(`🚀 Node.js server running at http://localhost:${config.port}`);
+      console.log(`📊 Health check available at http://localhost:${config.port}/health`);
+      console.log(`🐍 Python service expected at ${config.pythonServiceUrl}`);
     });
     
   } catch (error) {
